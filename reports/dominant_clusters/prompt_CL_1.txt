@@ -1,0 +1,25 @@
+You are an automated scientific writer assistant. 
+
+I am writing a paper about the dominant thematic clusters in multi-agent systems 
+applied to city logistics, urban freight, and last-mile delivery. 
+
+The secod dominant thematic cluster is defined by the following keywords and its relationships:
+
+REINFORCEMENT_LEARNING; INVENTORY_MANAGEMENT; LEARNING_SYSTEMS;
+HEURISTICS_AND_META_HEURISTICS; VEHICLE_ROUTING_PROBLEM;
+COMPUTATIONAL_METHODS; DEEP_LEARNING; VEHICLES;
+DEEP_REINFORCEMENT_LEARNING; LEARNING_ALGORITHMS
+
+Formulate a position or an opinion about the second thematic cluster based on the 
+abstracts available in the attached file. The opinion describes the relationships
+among the keywords and stablish a critical position about the cluster.
+
+Be sure of formulating a deep opinion or deep position about the second thematic cluster.
+
+Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Use, at least, 20 abstracts for elaborate the critical review.
+

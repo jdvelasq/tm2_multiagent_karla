@@ -1,0 +1,26 @@
+You are an automated scientific writer assistant. 
+
+I am writing a paper about the dominant thematic cluster in multi-agent systems 
+applied to city logistics, urban freight, and last-mile delivery. 
+
+The fourth dominant thematic cluster is defined by the following keywords and its relationships:
+
+SUSTAINABLE_DEVELOPMENT; BULLWHIP_EFFECTS; GAME_THEORY; SYSTEM_DYNAMICS;
+SUSTAINABILITY; INFORMATION_DISSEMINATION; SHARING_INFORMATION;
+UNCERTAINTY; ENVIRONMENTAL_IMPACT; EVENT_SIMULATORS
+
+Formulate a position or an opinion about the fourth thematic cluster based on the 
+abstracts available in the attached file. The opinion describes the relationships
+among the keywords and stablish a critical position about the cluster.
+
+Be sure of formulating a deep opinion or deep position about the fourth thematic cluster.
+
+Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Use, at least, 20 abstracts for elaborate the critical review.
+
+
+give me some suggestions for a title of the this cluster. Use a few words as possible. the suggested titles use some of the provided keywords

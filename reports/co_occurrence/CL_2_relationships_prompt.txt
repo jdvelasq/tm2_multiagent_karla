@@ -1,0 +1,1326 @@
+You are an automated scientific writer assistant. Use only the
+information provided in the following records to write one paragraph
+explaining and exemplifying the relationships among the following
+keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+Use the Record-No value between brackets to indicate the reference to the
+record. For example, [1] means that the information is in the Record-No
+1. Use notes below of the generated text to justify the affirmation. Use
+only phrases appearing in the provided text.
+
+Here are the records:
+
+--
+
+Record-No: 151
+Citations: 71
+Record-ID: Herrera M., 2020, PROCESS, V8
+Title: MULTI_AGENT_SYSTEMS and COMPLEX_NETWORKS: REVIEW and APPLICATIONS in
+SYSTEMS_ENGINEERING
+Abstract:
+```
+SYSTEMS_ENGINEERING is an UBIQUITOUS_DISCIPLINE of engineering
+overlapping industrial, chemical, mechanical, MANUFACTURING, CONTROL,
+software, electrical, and CIVIL_ENGINEERING. it provides TOOLS for
+dealing with the COMPLEXITY and DYNAMICS related to the OPTIMISATION of
+physical, natural, and VIRTUAL_SYSTEMS_MANAGEMENT. this paper presents a
+REVIEW of how multi_agent systems and COMPLEX_NETWORKS_THEORY are brought
+together to ADDRESS_SYSTEMS_ENGINEERING and MANAGEMENT_PROBLEMS. the
+REVIEW also encompasses CURRENT and FUTURE_RESEARCH_DIRECTIONS both for
+THEORETICAL_FUNDAMENTALS and APPLICATIONS in the INDUSTRY. this is made
+by considering trends such as mesoscale, multiscale, and
+MULTILAYER_NETWORKS along with the state_of_art analysis on
+NETWORK_DYNAMICS and INTELLIGENT_NETWORKS. critical and
+SMART_INFRASTRUCTURE, MANUFACTURING_PROCESSES, and SUPPLY_CHAIN_NETWORKS
+are instances of RESEARCH_TOPICS for which this LITERATURE_REVIEW is
+highly relevant.  2020 by the authors.
+```
+
+--
+
+Record-No: 279
+Citations: 62
+Record-ID: Gharaei A., 2018, APPL SOFT COMPUT J, V65, P577
+Title: a MULTI_AGENT_APPROACH to the integrated PRODUCTION_SCHEDULING and
+DISTRIBUTION_PROBLEM in MULTI_FACTORY SUPPLY_CHAIN
+Abstract:
+```
+RESEARCH on the integrity of SUPPLY_CHAIN_DECISIONS is constantly
+increasing. one of the most INTERESTING_TOPICS is the INTEGRATION in
+PRODUCTION_SCHEDULING and DISTRIBUTION_DECISIONS. however, there is
+little study when MULTIPLE_AGENTS affect the SUPPLY_CHAIN_DECISIONS. in
+multi_agent SCHEDULING, when CUSTOMERS are considered as AGENTS, each of
+them has ITS OWN_JOBS with SPECIFIC_OBJECTIVE, and set of
+CUSTOMERS_COMPETES to PROCESS the jobs on the shared RESOURCES in the
+SUPPLY_CHAIN. this PAPER_STUDIES a multi_agent SCHEDULING_PROBLEM with
+DISTRIBUTION_DECISIONS in a multi_factory SUPPLY_CHAIN. to save the
+DELIVERY_COST, BATCH_DELIVERY is proposed. it means several jobs, even
+for DIFFERENT_CUSTOMERS, can be distributed in one batch. some jobs are
+scheduled to MINIMIZE_TOTAL_TARDINESS while TOTAL_DISTRIBUTION_COST must
+be minimized. a mixed LINEAR_INTEGER programming formulation is proposed.
+due to the COMPLEXITY of the problem, a novel multi_objective based on
+DECOMPOSITION which has been combined with BEES_ALGORITHM is developed to
+achieve PARETO_SOLUTIONS. two LOCAL_SEARCHES have been used to improve
+the SOLUTIONS. to evaluate the ALGORITHM, ITS PERFORMANCE has been
+compared with three well_known ALGORITHMS in the literature. the results
+of the STUDY_SHOW that the proposed ALGORITHM_OUTPERFORMS the other
+tested ALGORITHMS.  2018 elsevier b.v.
+```
+
+--
+
+Record-No: 228
+Citations: 36
+Record-ID: Giret A., 2018, SUSTAINABILITY, V10
+Title: a CROWDSOURCING approach for sustainable last MILE_DELIVERY
+Abstract:
+```
+SUSTAINABLE_TRANSPORTATION is one of the major concerns in cities. this
+CONCERN_INVOLVES all type of movements motivated by DIFFERENT_GOALS
+(MOBILITY of citizens, TRANSPORTATION of goods and parcels, etc.). the
+MAIN_GOAL of this work is to provide an INTELLIGENT_APPROACH for
+sustainable last MILE_DELIVERY, by reducing (or even deleting) the need
+of dedicated logistic moves (by cars, and/or TRUCKS). the METHOD_ATTEMPTS
+to reduce the number of movements originated by the PARCELS_DELIVERY by
+taking advantage of the citizens' movements. in this way our proposal
+follows a CROWDSOURCING approach, in which the citizens that moves in the
+CITY, because of their OWN_NEEDS, become TEMPORAL_DELIVERERS. the
+TECHNOLOGY behind our APPROACH_RELAYS on multi_agent SYSTEM techniques
+and complex network_based ALGORITHMS for optimizing
+SUSTAINABLE_DELIVERY_ROUTES. these ARTIFICIAL_INTELLIGENT_APPROACHES help
+to reduce the COMPLEXITY of the scenario providing an EFFICIENT_WAY to
+integrate the citizens' routes that can be executed using the
+DIFFERENT_TRANSPORTATION means and NETWORKS available in the CITY
+(PUBLIC_SYSTEM, PRIVATE_TRANSPORTATION, eco_vehicles SHARING systems,
+etc.). a complex network_based ALGORITHM is used for computing and
+proposing an optimized sustainable last MILE_DELIVERY_ROUTE to the crowd.
+moreover, the executed tests show the feasibility of the proposed
+solution, together with a HIGH_REDUCTION of the CO2_EMISSION coming from
+the DELIVERY_TRUCKS that, in the CASE_STUDIES, are no longer needed for
+delivery.  2018 by the authors.
+```
+
+--
+
+Record-No: 460
+Citations: 33
+Record-ID: Wang G./3, 2014, INF SCI, V282, P1
+Title: a HYBRID MULTI_AGENT NEGOTIATION_PROTOCOL supporting AGENT_MOBILITY in
+VIRTUAL_ENTERPRISES
+Abstract:
+```
+it is a growing trend for SUPPLY_CHAIN_MEMBERS to collaborate in a
+VIRTUAL_ENTERPRISE (ve). as VE_MEMBERS are usually geographically
+dispersed and they have to cooperate and negotiate to achieve
+MUTUAL_AGREEMENTS, the distributive multi_agent systems (MAS) are being
+increasingly adopted for VE_IMPLEMENTATION. to cope with the
+FLEXIBILITY_REQUIREMENTS of ve, a NEW_MAS_ARCHITECTURE is proposed in
+this paper. in this MAS, the VE_INITIATOR can be represented by either
+stationary or MOBILE_AGENTS to negotiate with VE_PARTNERS. as there is
+not a mobile agent_based NEGOTIATION_SCHEME considering both the
+NEGOTIATION_EFFECTIVENESS and SYSTEM_SECURITY, a HYBRID multi_agent
+NEGOTIATION_PROTOCOL is established in this paper to tackle this problem.
+this HYBRID_PROTOCOL_INCORPORATES both the stationary and
+MOBILE_AGENT_NEGOTIATION_PHASES to compose a more efficient and
+SUCCESSFUL_MULTILATERAL_AGENT_INTERACTION_REGULATION. in this
+NEGOTIATION_PROCESS, mobile agent_based NEGOTIATION is first initiated,
+it will then switch to stationary agent_based NEGOTIATION when
+MOBILE_AGENT_MIGRATION is rejected or INTERACTION is blocked in the
+REMOTE_HOST. besides, the ontology_based approach is adopted in the MAS
+and an embedding ONTOLOGY_OPERATION_PROTOCOL is established to refine the
+KNOWLEDGE_EXPRESSION_PATTERN in the AGENT_NEGOTIATION_PROCESS. the
+validity and EFFICIENCY of the PROTOCOL are verified through the
+execution of a HYPOTHETICAL_VE_NEGOTIATION_CASE.  2014 ELSEVIER_INC. all
+rights reserved.
+```
+
+--
+
+Record-No: 234
+Citations: 28
+Record-ID: Aminzadegan S., 2019, COMPUT IND ENG, V137
+Title: MULTI_AGENT SUPPLY_CHAIN_SCHEDULING_PROBLEM by considering
+RESOURCE_ALLOCATION and TRANSPORTATION
+Abstract:
+```
+today in the GLOBAL_MARKET_COMPETITION, INTEGRATION_ISSUE in SUPPLY_CHAIN
+is considered as an IMPORTANT_PRINCIPLE. in this study, for the first
+time, DIFFERENT_REQUIREMENTS of the CUSTOMERS and DIFFERENT_AIMS of the
+manufacturer are simultaneously addressed in an integrated problem of
+PRODUCTION_SCHEDULING, TRANSPORTATION, and RESOURCE_ALLOCATION. the
+problem consists of two types of CUSTOMERS, considered as the AGENTS. the
+first AGENT_ACCEPTS_TARDINESS in delivery of orders provided that the
+manufacturer pays the TARDINESS_PENALTY; whereas, the second AGENT does
+not accept the TARDY_ORDERS. the purpose is to minimize the sum of
+BATCH_DELIVERY_COST, RESOURCE_ALLOCATION, TARDINESS_PENALTY_COST, and
+lost SALE_COST (the TOTAL_NUMBER of TARDY_ORDERS). to solve the problem,
+two MATHEMATICAL_PROGRAMMING MODELS, including a mixed integer non_linear
+programming (minlp) and a mixed INTEGER_LINEAR programming (MILP) are
+proposed. also, due to np_hard nature of the problem, two meta_heuristic
+ALGORITHMS of ADAPTIVE_GENETIC_ALGORITHM (aga) and ANT_LION_OPTIMIZATION
+(alo), as well as a HEURISTIC_ALGORITHM are proposed. to assess the
+merits of the SOLUTION_METHODS, small and large_scale tests are designed.
+the results indicate the superiority of ADAPTIVE_GENETIC_ALGORITHM in
+comparison with other ALGORITHMS.  2019 ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 381
+Citations: 20
+Record-ID: Krejci C.C., 2015, JASSS, V18, P1
+Title: impacts of FARMER_COORDINATION_DECISIONS on food SUPPLY_CHAIN_STRUCTURE
+Abstract:
+```
+to increase PROFITABILITY, farmers often decide to form
+STRATEGIC_PARTNERSHIPS with other farmers, pooling their RESOURCES and
+OUTPUTS for greater EFFICIENCY and scale. these COORDINATION_DECISIONS
+can have far_reaching and COMPLEX_IMPLICATIONS for OVERALL_FOOD
+SUPPLY_CHAIN structural EMERGENCE, which in TURN_IMPACTS_SYSTEM_OUTCOMES
+and long_term SUSTAINABILITY. in this paper, we describe an agent_based
+MODEL that explores the impacts of FARMER_COORDINATION_DECISIONS on the
+DEVELOPMENT of food SUPPLY_CHAIN_STRUCTURE over time. this MODEL_FOCUSES
+on one type of COORDINATION_MECHANISM_IMPLEMENTATION_METHOD, in which
+coordinated FARMER_GROUPS produce a single CROP_TYPE and combine their
+yields to achieve economies of scale. the FARMER_AGENTS' decisions to
+coordinate with one another depend on their EVALUATION of the tradeoff
+between their AUTONOMY and the expected ECONOMIC_BENEFITS of
+COORDINATION. each COORDINATION_DECISION is a BILATERAL_PROCESS in which
+the terms of GROUP_REWARD SHARING are negotiated. we capture the effects
+of farmers' size, income, and AUTONOMY_PREMIA, as well as volume_price
+relationships and group profit_sharing RULES, on the rate of
+FARMER_COORDINATION and the number and size of groups that form. results
+indicate that under many conditions, COORDINATION_GROUPS tend to
+consolidate over time, which SUGGESTS_IMPLICATIONS for overall
+SUPPLY_CHAIN structural RESILIENCE.  jasss.
+```
+
+--
+
+Record-No: 316
+Citations: 17
+Record-ID: Fernández E., 2015, COMPUT IND, V70, P89
+Title: AGENT based MONITORING service for MANAGEMENT of DISRUPTIVE_EVENTS in
+SUPPLY_CHAINS
+Abstract:
+```
+schedules of SUPPLY_CHAINS are generated with buffers to absorb the
+effect of DISRUPTIVE_EVENTS that could occur during their execution.
+schedules can be systematically repaired through SPECIFIC_MODIFICATIONS
+within buffers by using APPROPRIATE_DECISION_MODELS that consider the
+distributed nature of a SUPPLY_CHAIN. to this aim, information of
+DISRUPTIVE_EVENTS at occurrence or in advance allows DECISION_MODELS to
+make better decisions. to detect and predict DISRUPTIVE_EVENTS along a
+SCHEDULE_EXECUTION, a service_oriented MONITORING subsystem that uses a
+REFERENCE_MODEL for defining MONITORING MODELS was proposed. this
+subsystem offers services for collecting EXECUTION_DATA of a SCHEDULE and
+ENVIRONMENT_DATA, and assessing them to detect/anticipate
+DISRUPTIVE_EVENTS. because of the distributed nature and the COMPLEXITY
+of these SERVICES_FUNCTIONALITIES, this paper presents an agent_based
+approach for their implementation. this TECHNOLOGY allows dealing with
+SUPPLY_CHAIN MONITORING by structuring MONITORING
+SUBSYSTEM_FUNCTIONALITIES as a set of AUTONOMOUS_ENTITIES. these entities
+are able to perform tailored plans created at EXECUTION_TIME to
+concurrently monitor DIFFERENT_SCHEDULES. a CASE_STUDY is described to
+try out the implemented PROTOTYPE_SYSTEM.  2015 elsevier b.v. all rights
+reserved.
+```
+
+--
+
+Record-No: 111
+Citations: 12
+Record-ID: Matsuda M., 2020, PROCEDIA CIRP, V93, P688
+Title: CONSTRUCTION of a virtual SUPPLY_CHAIN using ENTERPRISE_E_CATALOGUES
+Abstract:
+```
+a virtual SUPPLY_CHAIN is constructed based on the concept of
+SMART_MANUFACTURING which is a network of COLLABORATIVE and
+DYNAMIC_FACTORIES based on the cps (cyber PHYSICAL_SYSTEM) paradigm. on a
+virtual SUPPLY_CHAIN, it is expected that a simulation_based
+OPTIMIZATION_COPES with SUPPLY_CHAIN PLANNING and CONTROL. in this paper,
+it is proposed that a virtual SUPPLY_CHAIN is constructed as a
+multi_agent SYSTEM of SOFTWARE_AGENTS which are AUTOMATICALLY_GENERATED
+from each selected ENTERPRISE_MODEL in the e_catalogue. manufacturer,
+RETAILER and supplier e_catalogues, and an AUTOMATIC_CONSTRUCTION_SYSTEM
+of a virtual SUPPLY_CHAIN are implemented as a trial.  2020 the authors.
+```
+
+--
+
+Record-No: 277
+Citations: 11
+Record-ID: Hsieh F.-S., 2019, J IND ENG INT, V15, P249
+Title: DYNAMIC_CONFIGURATION and COLLABORATIVE_SCHEDULING in SUPPLY_CHAINS based
+on scalable MULTI_AGENT_ARCHITECTURE
+Abstract:
+```
+due to diversified and frequently changing demands from CUSTOMERS,
+TECHNOLOGICAL_ADVANCES and GLOBAL_COMPETITION, MANUFACTURERS rely on
+COLLABORATION with their BUSINESS_PARTNERS to share COSTS, RISKS and
+expertise. how to take advantage of advancement of technologies to
+effectively SUPPORT_OPERATIONS and create COMPETITIVE_ADVANTAGE is
+critical for MANUFACTURERS to survive. to respond to these challenges,
+DEVELOPMENT of a DYNAMIC_SCHEME to better MANAGE_COLLABORATIVE_WORKFLOWS
+is urgent. in this paper, we will study how to develop a flexible and
+SCALABLE_FRAMEWORK to dynamically and coherently CONFIGURE_WORKFLOWS that
+can meet ORDER_REQUIREMENTS based on multi_agent systems (MAS).
+configuring and SCHEDULING_COLLABORATIVE_WORKFLOWS is a
+CHALLENGING_PROBLEM due to the COMPUTATIONAL_COMPLEXITY involved,
+distributed ARCHITECTURE and DEPENDENCY among
+DIFFERENT_PARTNERS_WORKFLOWS. to achieve FLEXIBILITY and reduce the COST
+and time involved in CONFIGURATION of a SUPPLY_CHAIN_NETWORK, we propose
+an approach that combines MAS, CONTRACT_NET_PROTOCOL, WORKFLOW_MODELS and
+automated transformation of the WORKFLOW_MODELS to dynamically formulate
+the SCHEDULING_PROBLEM. to ATTAIN_SCALABILITY, we develop a
+SOLUTION_ALGORITHM to solve the OPTIMIZATION_PROBLEM by a COLLABORATIVE
+and distributed COMPUTATION_SCHEME. we implement a SOFTWARE_SYSTEM based
+on INDUSTRIAL_STANDARDS, including fipa and the
+PETRI_NET_WORKFLOW_SPECIFICATION_MODEL. in addition, we also illustrate
+effectiveness and ANALYZE_SCALABILITY of our approach by examples. our
+APPROACH_FACILITATES_COLLABORATION between partners and provides a
+SCALABLE_SOLUTION for the increasing size of SUPPLY_CHAIN_NETWORKS.
+2018, the author(s).
+```
+
+--
+
+Record-No: 233
+Citations: 11
+Record-ID: Gharaei A., 2019, COMPUT IND ENG, V136, P504
+Title: a branch and PRICE_APPROACH to the two AGENT integrated PRODUCTION and
+DISTRIBUTION_SCHEDULING
+Abstract:
+```
+the INTEGRATION and COORDINATION of decisions is one of the
+NEW_APPROACHES in the SUPPLY_CHAIN_ENVIRONMENT. the
+PROPER_ORDERS_SCHEDULING and DISTRIBUTION_STRATEGY of FINAL_PRODUCTS are
+two KEY_FACTORS in this INTEGRATION. here, an integrated
+PRODUCTION_SCHEDULING and DISTRIBUTION_PROBLEM with ROUTING_DECISIONS is
+discussed in a multi_site SUPPLY_CHAIN. this problem has been
+investigated from a multi_agent perspective in which CUSTOMERS sets, as
+AGENTS, want to optimize a SPECIFIC_OBJECTIVE on his OWN_SET of orders. a
+mixed INTEGER_LINEAR programming (MILP) formulation is developed for this
+problem. due to the COMPLEXITY, it is not logical to solve the problem in
+a STRAIGHTFORWARD_WAY such as COMMERCIAL_SOLVERS. hence, a branch and
+PRICE_FRAMEWORK is introduced in which a BEES_ALGORITHM (ba) is used to
+construct INITIAL_COLUMNS. VARIOUS_COMPUTATIONAL_EXPERIMENTS are
+conducted to evaluate the EFFICIENCY of the proposed approach. the
+results show that the proposed ALGORITHM is superior to the standalone
+branch and PRICE_ALGORITHM and MILP_SOLVER in terms of COMPUTATION_TIMES
+and gap.  2019 ELSEVIER_LTD
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 166
+Citations: 10
+Record-ID: Gharaei A., 2021, INT TRANS OPER RES, V28, P2139
+Title: an ERNSGA_III ALGORITHM for the PRODUCTION and
+DISTRIBUTION_PLANNING_PROBLEM in the MULTIAGENT SUPPLY_CHAIN
+Abstract:
+```
+nowadays, NEW_ISSUES have been emerged in INDUSTRY by increasing the
+SUPPLY_CHAIN_BOUNDARIES, especially when some SUPPLY_CHAIN_MEMBERS seek
+their OWN_INTERESTS. in the literature, this case is referred to as a
+MULTIAGENT_PROBLEM in which each AGENT has his/her OWN_SET of jobs and
+objectives. here, an integrated PRODUCTION_SCHEDULING and
+DISTRIBUTION_PROBLEM in a multisite SUPPLY_CHAIN is investigated from the
+three_agent perspective of the manufacturer, distributor, and customer.
+due to the COMPLEXITY of the problem, a novel evolutionary_based
+REFERENCE_POINT_DETERMINATION of the third version of the non_dominated
+sorting GENETIC_ALGORITHM (ernsga_iii) is proposed. in this ALGORITHM,
+some modifications to the CLASSIC_VERSION of nsga_iii have been made and
+a NOVEL_REFERENCE_POINT_DETERMINATION_METHOD based on BEES_ALGORITHM is
+used in the SELECTION_OPERATION. some STATISTICAL_TESTS are performed to
+compare the proposed ALGORITHM with three other ALGORITHMS in the
+literature. the results show that the proposed ALGORITHM is more
+effective than other ALGORITHMS.  2019 the authors.
+INTERNATIONAL_TRANSACTIONS in OPERATIONAL_RESEARCH  2019
+INTERNATIONAL_FEDERATION of OPERATIONAL_RESEARCH_SOCIETIES
+```
+
+--
+
+Record-No: 376
+Citations: 10
+Record-ID: Wisetjindawat W., 2017, TRANSP RES PROCEDIA, V25, P1198
+Title: analysing impacts of NATURAL_DISASTERS on LOGISTICS_ACTIVITIES:
+FLOOD_RISKS and PETROLEUM_FUELS in queensland, australia
+Abstract:
+```
+NATURAL_HAZARDS cause much damage to lives, assets, and the ECONOMY as a
+whole. the FUNCTIONAL_DISCONTINUITY of businesses impacted by a
+NATURAL_DISASTER has a DIRECT_IMPACT on affected community'S quality of
+live. in regional and REMOTE_COMMUNITIES_PETROLEUM FUELS are an
+ESSENTIAL_COMMODITY, particularly in post_disaster situations, given the
+SUPPLY_CHAINS of many other commodities are dependent on fuel SUPPLY. the
+aim of this study was to develop a framework and use it to
+ANALYSE_PETROLEUM SUPPLY to communities affected by FLOODING across
+queensland, australia. the intent was to assist INDUSTRY_PARTNERS in
+identifying VULNERABLE_LOCALITIES and to DEVELOPMENT_METHODS for
+application to other commodities. the approach focused on both the DEMAND
+and SUPPLY side and used socio_spatial datasets, TRANSPORT and
+COMMODITY_DATA. a multi_agent MODEL was developed to represent the
+situation of PETROLEUM_FUEL SUPPLY_CHAIN before and after a
+DISASTER_EVENT. the RESULTS_IDENTIFY both the BROAD_SWEEP of
+VULNERABLE_LOCATIONS in KEY_REGIONS in queensland as well as
+PARTICULAR_ISSUES for communities in CAPE_YORK in far north queensland.
+the approach proved viable, despite the limitations of publically
+AVAILABLE_COMMODITY_DATASETS in australia, and should therefore be of
+assistance to POLICY_MAKERS elsewhere seeking to
+IDENTIFY_SYSTEM_VULNERABILITIES and INCREASE_RESILIENCE.  2017 the
+author(s). published by elsevier b.v.
+```
+
+--
+
+Record-No: 403
+Citations: 10
+Record-ID: El Yasmine A.S.L., 2014, STUD COMPUT INTELL, V544, P145
+Title: SUPPLY_CHAIN_MANAGEMENT using MULTI_AGENT_SYSTEMS in the agri
+FOOD_INDUSTRY
+Abstract:
+```
+this PAPER_FOCUSES on multi_agent systems (MAS) applied to
+SUPPLY_CHAIN_MANAGEMENT (SCM) in the agri_food INDUSTRY. the SUPPLY_CHAIN
+(SC) analysed includes the SUPPLIERS, MANUFACTURERS and
+DISTRIBUTION_CENTRES, considering that orders are sent by clients to the
+DISTRIBUTION_CENTRES. many ORIGINAL_CONSTRAINTS, such as the capacity of
+the SUPPLIERS and the MANUFACTURERS as well as balancing stocks, are
+supported in our contribution. our proposal also considers some
+PRACTICAL_ISSUES in agri_food SCM, such as EXPIRY_DATES. the aim of our
+method is to find a near_optimal solution that MINIMIZES_COSTS and time
+throughout the SC_PROCESS, whilst favouring REACTIVITY. an
+AUML_MODEL_SHOWS the functioning of the MAS in the SC. the results
+obtained regarding duration and COSTS related to the execution of
+CLIENT_ORDERS were compared with those obtained using a HEURISTIC that
+solves the OPTIMIZATION_PROBLEM in the DYNAMIC_CASE, and a
+MATHEMATICAL_MODEL in the STATIC_CASE.  2014 springer international
+publishing switzerland.
+```
+
+--
+
+Record-No: 200
+Citations: 8
+Record-ID: Gharaei A., 2021, OPER RES, V21, P2333
+Title: a PARETO_APPROACH for the MULTI_FACTORY SUPPLY_CHAIN SCHEDULING and
+DISTRIBUTION_PROBLEM
+Abstract:
+```
+integrated decisions in the SUPPLY_CHAIN are one of the most
+ATTRACTIVE_TOPICS for researchers. but to get closer to the real_world
+problems, other REAL_ASSUMPTIONS should be considered. one of these
+assumptions is the multi_agent view in which several sets of CUSTOMERS or
+AGENTS with their OWN_OBJECTIVE compete with each other to acquire the
+SUPPLY_CHAIN_RESOURCES. here, an integrated
+SUPPLY_CHAIN_SCHEDULING_PROBLEM along with the
+BATCH_DELIVERY_CONSIDERATION in a series multi_factory ENVIRONMENT is
+investigated and the ROUTING_DECISIONS among CUSTOMERS are considered. a
+MATHEMATICAL_MODEL is presented for this problem. due to the COMPLEXITY,
+a NOVEL_ANT_COLONY_OPTIMIZATION_ALGORITHM is developed to obtain
+PARETO_SOLUTIONS. also, a SIMULATED_ANNEALING based LOCAL_SEARCH is used
+to improve the quality of SOLUTIONS. the PERFORMANCE of the ALGORITHM is
+compared with three well_known multi_objective ALGORITHMS. results show
+the PROPER_PERFORMANCE of the proposed ALGORITHM compared to the other
+ALGORITHMS.  2019, springer_verlag gmbh GERMANY, part of SPRINGER_NATURE.
+```
+
+--
+
+Record-No: 294
+Citations: 8
+Record-ID: Fazlirad A., 2018, IEEE INT CONF AUTOM SCI ENG, V2018-August, P722
+Title: MULTIAGENT MANUFACTURING SCHEDULING: an updated state of the ART_REVIEW
+Abstract:
+```
+this paper is an updated REVIEW of the STATE_OF_THE_ART in distributed
+MULTIAGENT based SCHEDULING as one element of INTELLIGENT_MANUFACTURING.
+it re_examines the most relevant PREVIOUS_REVIEWS and details open
+RESEARCH_QUESTIONS and directions proposed by other researchers. it
+highlights some of the RECENT_PUBLICATIONS in MULTIAGENT based SCHEDULING
+in terms of these previously identified RESEARCH_AREAS and questions. the
+paper is concluded by outlining the extent to which
+RECENT_LITERATURE_ADDRESSES these areas to provide directions for
+FUTURE_WORK.  2018 ieee.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 338
+Citations: 7
+Record-ID: Kazemi A., 2017, INT J OPER RES, V28, P506
+Title: a HYBRID_SEARCH_APPROACH in PRODUCTION DISTRIBUTION_PLANNING_PROBLEM in
+SUPPLY_CHAIN using MULTI_AGENT_SYSTEMS
+Abstract:
+```
+the production_distribution PLANNING is one of the most
+IMPORTANT_APPROACHES to support GLOBAL_OPTIMISATION in
+SUPPLY_CHAIN_MANAGEMENT (SCM), and should be solved within the
+INTEGRATED_STRUCTURE. the production_distribution PLANNING_PROBLEM (pdpp)
+involves the determination of the best CONFIGURATION regarding LOCATION,
+size, TECHNOLOGY_CONTENT and PRODUCT_RANGE to achieve the firm'S
+long_term GOALS. on the other hand, teams of AUTONOMOUS_AGENTS (ATEAMS),
+cooperating by SHARING SOLUTIONS through a COMMON_MEMORY, have been
+proposed as a means of solving COMBINATORIAL_OPTIMISATION_PROBLEMS. in
+this paper a HYBRID_SEARCH_APPROACH is presented using an agent_based
+SYSTEM by considering ATEAMS_CONCEPT for solving the pdpp. for this
+purpose, three ALGORITHMS are provided to solve the pdpp:
+GENETIC_ALGORITHM (GA), TABU_SEARCH (ts) and SIMULATED_ANNEALING (sa).
+then we combine these ALGORITHMS using a multi_agent SYSTEM and an
+integrated SOLUTION_ALGORITHM is proposed. finally, the proposed approach
+is compared against LINGO_SOFTWARE. the obtained results reveal that the
+use of multi_agent SYSTEM delivers better SOLUTIONS to us. copyright
+2017 INDERSCIENCE_ENTERPRISES_LTD.
+```
+
+--
+
+Record-No: 335
+Citations: 6
+Record-ID: Garcia E., 2016, ENTERP INF SYST, V10, P303
+Title: designing normative OPEN_VIRTUAL_ENTERPRISES
+Abstract:
+```
+there is an increasing interest on developing VIRTUAL_ENTERPRISES in
+order to deal with the globalisation of the ECONOMY, the RAPID_GROWTH of
+INFORMATION_TECHNOLOGIES and the increase of COMPETITIVENESS. in this
+paper we deal with the DEVELOPMENT of normative OPEN_VIRTUAL_ENTERPRISES
+(noves). they are systems with a GLOBAL_OBJECTIVE that are composed of a
+set of HETEROGENEOUS_ENTITIES and ENTERPRISES that EXCHANGE_SERVICES
+following a SPECIFIC_NORMATIVE_CONTEXT. in order to analyse and
+DESIGN_SYSTEMS of this kind the multi_agent paradigm seems suitable
+because it offers a SPECIFIC_SOLUTION for supporting the social and
+CONTRACTUAL_RELATIONSHIPS between ENTERPRISES and for formalising their
+BUSINESS_PROCESSES. this paper presents how the regulated open
+multi_agent systems (romas) METHODOLOGY, an agent_oriented
+SOFTWARE_METHODOLOGY, can be used to analyse and DESIGN_NOVES. romas
+offers a COMPLETE_DEVELOPMENT_PROCESS that allows identifying and
+formalising of the structure of noves, their NORMATIVE_CONTEXT and the
+INTERACTIONS among their members. the use of romas is exemplified by
+means of a CASE_STUDY that represents an automotive SUPPLY_CHAIN.  2015
+taylor & francis.
+```
+
+--
+
+Record-No: 152
+Citations: 5
+Record-ID: Achatbi I., 2020, DECIS SCI LETT, V9, P337
+Title: advanced SYSTEM based on ONTOLOGY and MULTI_AGENT_TECHNOLOGY to handle
+upstream SUPPLY_CHAIN: INTELLIGENT_NEGOTIATION_PROTOCOL for supplier and
+TRANSPORTATION_PROVIDER_SELECTION
+Abstract:
+```
+in the existing MARKET, COMPANIES confront a FIERCE_COMPETITION, so the
+need for new and EFFICIENT_PROCESS for SUPPLY_CHAIN has become
+necessarily important. to this end, SUPPLY_CHAIN_MANAGEMENT among
+MULTI_AGENT_SYSTEM is proposed for addressing the selection and
+EVALUATION_PROCESS related to the INBOUND_LOGISTICS. however, most of
+RECENT_SYSTEMS deal solely with the NEGOTIATION including the selection
+of one or MULTIPLE_SUPPLIERS, without supporting the
+TRANSPORTATION_PROVIDER_SELECTION simultaneously and consider it as
+DECISION_CRITERION that affect the FINAL_CHOICE of COOPERATIVE_SUPPLIERS.
+as part of win_win NEGOTIATION, ACTIVE_SUPPLIER_INVOLVEMENT can
+ENHANCE_EFFICIENCY and effectiveness of SUPPLY_CHAIN. then again,
+TRANSPORT_COST_CONSTITUTES the most IMPORTANT_FACTOR in the third of the
+TOTAL_OPERATIONAL_COSTS of a SUPPLY_CHAIN. to face this challenge, a
+NEW_FORM of SUPPLIER_SELECTION including
+TRANSPORTATION_PROVIDER_SELECTION is proposed. for this purpose, we
+present a multi_issue DECISION PROTOCOL based on ONTOLOGY to support the
+NEGOTIATION between UPSTREAM_NODES of SUPPLY_CHAIN in the proposed
+MULTI_AGENT_SYSTEM. furthermore, the automated multi_criteria
+ANALYSIS_MODEL based on combined ANALYTICAL_HIERARCHY_PROCESS (AHP) and
+TOPSIS is judged helpful for decision_makers to make QUICK_DECISION with
+less HUMAN_INTERACTIONS.  2020 by the authors; licensee growing science,
+canada.
+```
+
+--
+
+Record-No: 379
+Citations: 5
+Record-ID: Padmavathi S., 2016, INT CONF EMERG TRENDS ENG TECHNOL SCI ICETETS PROC
+Title: MULTI_AGENT_FRAMEWORK for CLOUD_SERVICE_COMPOSITION
+Abstract:
+```
+CLOUD_SERVICE_COMPOSITION is required when single CLOUD_SERVICE cannot
+satisfy all requirements of the user. CLOUD_SERVICE_COMPOSITION presents
+an EFFICIENT_MANAGERIAL, on_demand and SCALABLE_WAY to integrate
+COMPUTATIONAL_RESOURCES (HARDWARE, platform, and software). it includes
+several tasks such as discovery, selection, and deployment of the
+services. in this paper, an AGENT based approach for
+CLOUD_SERVICE_NEGOTIATION is proposed. AGENT based TECHNOLOGY has hailed
+as a NEW_PARADIGM for implementing SOFTWARE_AGENTS. SOFTWARE_AGENTS are
+AUTONOMOUS_ENTITIES which act on behalf of user across open and
+DISTRIBUTED_ENVIRONMENTS. a MULTI_AGENT_SYSTEM for
+CLOUD_SERVICE_COMPOSITION makes use of a market_oriented approach which
+would regulate DEMAND and SUPPLY_CHAIN. this WORK_INVOLVES creating
+SERVICE_PROVIDER_AGENTS and CONSUMER_AGENTS. the RESOURCES offered by the
+SERVICE_PROVIDERS are created as VIRTUAL_MACHINES in cloud that would be
+mapped to the consumers. the CONSUMER_AGENT gets the input from the user
+and finds the best SERVICE_PROVIDERS who satisfy the consumer'S
+constraints. CONSUMER_AGENT further establishes a NEGOTIATION between
+these SERVICE_PROVIDERS and purchases the CLOUD_SERVICES for MARKET
+FAVORABLE_COST. the consumer and SERVICE_PROVIDER_AGENTS_COMMUNICATE
+using CONTRACT_NET_PROTOCOL, which is a task_sharing PROTOCOL in
+multi_agent SYSTEM. the WORKFLOW_ARCHITECTURE of this
+FRAMEWORK_INVOLVES_INTERACTION and NEGOTIATION of the consumer and
+SERVICE_PROVIDER_AGENTS. also, a MATHEMATICAL_MODEL has been proposed to
+support market_driven approach in CLOUD_COMMERCE.  2016 ieee.
+```
+
+--
+
+Record-No: 4
+Citations: 4
+Record-ID: Nitsche B., 2023, SUPPLY CHAIN MANAGE, V28, P894
+Title: the impact of MULTIAGENT_SYSTEMS on AUTONOMOUS_PRODUCTION and
+SUPPLY_CHAIN_NETWORKS: use cases, barriers and contributions to
+LOGISTICS_NETWORK_RESILIENCE
+Abstract:
+```
+purpose: academics and practitioners have long acknowledged the potential
+of MULTIAGENT_SYSTEMS (MAS) to automate and autonomize decision_making in
+LOGISTICS and SUPPLY_CHAIN_NETWORKS. despite the manifold promises of
+MAS, INDUSTRY_ADOPTION is lagging behind, and the EXACT_BENEFITS of these
+systems remain unclear. this STUDY_AIMS to fill this KNOWLEDGE_GAP by
+analyzing 11 SPECIFIC_MAS use cases, highlighting their benefits,
+clarifying how they can help ENHANCE_LOGISTICS_NETWORK_RESILIENCE and
+identifying existing barriers. DESIGN/METHODOLOGY/approach: a three_stage
+DELPHI_STUDY was conducted with 18 INDUSTRY_EXPERTS. in the first round,
+these experts identified 11 use cases of MAS and their
+POTENTIAL_BENEFITS, as well as any barriers that could hinder their
+adoption. in the second round, they assessed the identified use cases
+with regard to their potential to ENHANCE_LOGISTICS_NETWORK_RESILIENCE
+and improve ORGANIZATIONAL_PRODUCTIVITY. furthermore, they estimated the
+COMPLEXITY of MAS_IMPLEMENTATION. in the third round, the experts
+reassessed their evaluations in light of the evaluations of the other
+STUDY_PARTICIPANTS. findings: this study proposes 11 SPECIFIC_MAS use
+cases and illustrates their potential for increasing
+LOGISTICS_NETWORK_RESILIENCE and enhancing ORGANIZATIONAL_PERFORMANCE due
+to autonomous decision_making in INFORMATIONAL_PROCESSES. furthermore,
+this STUDY_DISCUSSES IMPORTANT_BARRIERS for MAS, such as lack of
+STANDARDIZATION, INSUFFICIENT_TECHNOLOGICAL_MATURITY, soaring COSTS,
+complex CHANGE_MANAGEMENT and a lack of existing use cases. from a
+THEORETICAL_PERSPECTIVE, it is shown how MAS can contribute to
+RESILIENCE_RESEARCH in SUPPLY_CHAIN_MANAGEMENT. PRACTICAL_IMPLICATIONS:
+the IDENTIFICATION and assessment of DIVERSE_MAS use
+CASES_INFORMS_MANAGERS about the potential of this TECHNOLOGY and the
+barriers that need to be overcome. originality/value: this STUDY_FILLS a
+gap in the literature by providing a thorough and up_to_date assessment
+of the potential of MAS for LOGISTICS and SUPPLY_CHAIN_MANAGEMENT. to the
+best of the AUTHORS_KNOWLEDGE, this is the first study to investigate the
+relevance of MAS for LOGISTICS_NETWORK_RESILIENCE using the
+DELPHI_METHOD.  2023, emerald publishing limited.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 40
+Citations: 4
+Record-ID: Mandal J., 2024, INT J PROD RES, V62, P3044
+Title: a MULTI_AGENT_FRAMEWORK for CONTAINER_BOOKING and SLOT_ALLOCATION in
+MARITIME_SHIPPING
+Abstract:
+```
+DIGITALIZATION is constantly altering COMPANY_PARADIGMS and expanding
+cross_border SUPPLY_CHAIN prospects. MARITIME_TRANSPORTATION_PLAYS an
+increasingly ESSENTIAL_PART in the global SUPPLY_NETWORK. since
+MARITIME_SHIPPING_SERVICES_NEED to exchange a HUGE_NUMBER of papers and
+paperwork across NUMEROUS_COMPANIES, the usage of a unified platform for
+inter_organisational COMMUNICATION and INFORMATION_SHARING is required.
+to develop an integrative, adaptive, and INTELLIGENT_CONTAINER booking
+SYSTEM, a multi_agent ARCHITECTURE is designed in this ARTICLE. the
+proposed ARCHITECTURE will aid the MARITIME_INDUSTRY in establishing
+real_time information interchange between AUTONOMOUS_AGENTS, shippers,
+FREIGHT_FORWARDERS, and SHIPPING_LINES. the PROCESS outlined in this
+PAPER_REVEALS how the AGENTS_COMMUNICATE with one another to resolve
+underlying inconsistencies. with the multi_agent framework, the ARTICLE
+also presents a CONTAINER_SLOT_OPTIMISATION_PROBLEM considering
+MARKET_SEGMENTATION, different booking periods, HETEROGENEOUS_CONTAINERS
+and PORT_CONGESTION_SCENARIOS. using this MODEL the MANAGERS can find the
+booking limit for each type of CONTAINERS and accordingly they can accept
+or reject the incoming booking requests. furthermore, a simulated
+CASE_STUDY is also provided to validate the MODEL.  2022 INFORMA_UK
+limited, trading as taylor & FRANCIS_GROUP.
+```
+
+--
+
+Record-No: 163
+Citations: 4
+Record-ID: Rezaei S., 2022, J CLEAN PROD, V333
+Title: competitive PLANNING of partnership SUPPLY_NETWORKS focusing on
+sustainable MULTI_AGENT TRANSPORTATION and VIRTUAL_ALLIANCE: a
+MATHEURISTIC_APPROACH
+Abstract:
+```
+the partnership SUPPLY of MARKET_NEEDS is one of the most regarded
+orientations in RECENT_YEARS. in this paper, a COMPETITIVE_MODEL is
+designed in partnership SUPPLY_NETWORKS including PARENT_FIRMS (brands),
+MANUFACTURING PLANTS, GOVERNMENTAL_LOGISTICS_COMPANY and franchised
+stores. in the raised scheme, the involved SUPPLY_NETWORKS seek to
+develop their upstream and downstream partnerships (respectively with
+MANUFACTURING PLANTS and franchised stores) in a COMPETITIVE_ENVIRONMENT.
+besides this cross_network COMPETITION, the downstream partners of each
+network develop some VIRTUAL_ALLIANCES. in SUCH_ALLIANCES, each of the
+involved members, further pursuing ITS OWN_INTERESTS, aims to increase
+the OVERALL_SHARE of the PARENT_BRAND. even more striking, a multi_agent
+TRANSPORTATION platform is implemented in the DISTRIBUTION of products to
+meet the ENVIRONMENTAL_SUSTAINABILITY_REQUIREMENTS. the state_owned
+LOGISTICS_COMPANY, as the MARKET_LEADER of the cited distributed
+structure, dictates ITS STRATEGY to the SUPPLY_NETWORKS seeking to gain
+the most POSSIBLE_PARTNERSHIP_INTERACTIONS. hence, in this paper, a
+multi_level competition_oriented problem is considered in the partnership
+SUPPLY_NETWORKS and formulated upon MULTIPLE_HIERARCHICAL_STAGES. due to
+the np_hardness of the problem and given ITS structural features, a
+MATHEURISTIC_APPROACH based on a combination of the
+BENDERS_DECOMPOSITION_METHOD and PARTICLE_SWARM_OPTIMIZATION_ALGORITHM is
+developed. the proposed solving approach is compared against a
+gaming_based HEURISTIC and also a PURE_BENDERS_DECOMPOSITION. the results
+of the evaluations indicate the superiority of the suggested
+HYBRID_APPROACH, especially in large_scale instances.  2021 ELSEVIER_LTD
+```
+
+--
+
+Record-No: 454
+Citations: 4
+Record-ID: Hsieh F.-S., 2014, PROC IEEE INT CONF COMPUT SUPPORTED COOPER WORK DES
+CSCWD, P71
+Title: a MULTIAGENT_APPROACH for managing COLLABORATIVE_WORKFLOWS in
+SUPPLY_CHAINS
+Abstract:
+```
+due to sophisticated and frequently changing demands from CUSTOMERS,
+GLOBAL_COMPETITION and TECHNOLOGICAL_ADVANCES, the next generation
+advanced MANUFACTURING technologies will rely on COOPERATION and
+COLLABORATION of BUSINESS_PARTNERS to share COSTS, RISKS and expertise as
+no single company has all the expertise needed. to respond to these
+challenges, DEVELOPMENT of an EFFECTIVE_SCHEME for managing
+COLLABORATIVE_WORKFLOWS is required. in this paper, we propose a
+framework to achieve coherent and CONSISTENT_WORKFLOWS that can meet
+ORDER_REQUIREMENTS based on multi_agent systems (MAS).
+SCHEDULING_COLLABORATIVE_WORKFLOW is a CHALLENGING_PROBLEM due to the
+COMPUTATIONAL_COMPLEXITY involved, distributed ARCHITECTURE and
+DEPENDENCY of DIFFERENT_PARTNERS' workflows. we propose an approach that
+combines MAS, CONTRACT_NET_PROTOCOL, WORKFLOW_MODELS and
+OPTIMIZATION_THEORIES. we have implemented a PROTOTYPE_SYSTEM based on
+INDUSTRIAL_STANDARDS, including fipa and the
+PETRI_NET_WORKFLOW_SPECIFICATION_MODEL. our SOLUTION_ALGORITHM has been
+developed based on transformation of the WORKFLOW_MODEL to
+OPTIMIZATION_MODELS to find the SOLUTIONS.  2014 ieee.
+```
+
+--
+
+Record-No: 1
+Citations: 3
+Record-ID: Dharmapriya S., 2022, IEEE TRANS ENG MANAGE, V69, P2707
+Title: MULTIAGENT_OPTIMIZATION_APPROACH to SUPPLY_NETWORK CONFIGURATION problems
+with varied product MARKET profiles
+Abstract:
+```
+this ARTICLE_DEMONSTRATES the application of a NOVEL_MULTIAGENT MODELING
+approach to support SUPPLY_NETWORK CONFIGURATION (snc) decisions toward
+addressing several challenges reported in the literature. these
+challenges include: enhancing SUPPLY_NETWORK (sn)_level PERFORMANCE in
+alignment with the GOALS of INDIVIDUAL_SN_ENTITIES; addressing the issue
+of limited INFORMATION_SHARING between SN_ENTITIES; and sustaining
+COMPETITIVENESS of sns in DYNAMIC_BUSINESS_ENVIRONMENTS. to this end, a
+multistage, MULTIECHELON_SN consisting of geographically dispersed
+SN_ENTITIES catering to distinct product_market profiles was modeled. in
+MODELING the SNC_DECISION_PROBLEM, two types of AGENTS, each having
+DISTINCT_ATTRIBUTES and FUNCTIONS, were used. the MODELING approach
+incorporated a reverse_auctioning PROCESS to simulate the behavior of
+SN_ENTITIES with differing INDIVIDUAL_GOALS collectively contributing to
+enhance sn_level PERFORMANCE, by means of setting RESERVE_VALUES
+generated through the application of a GENETIC_ALGORITHM. a set of
+pareto_optimal sncs catering to distinct product_market profiles was
+generated using nondominated sorting GENETIC_ALGORITHM_II. further
+EVALUATION of these sncs against ADDITIONAL_CRITERIA, using a rule_based
+approach, allowed the selection of the most APPROPRIATE_SNC to meet a
+broader set of conditions. the MODEL was tested using a
+REFRIGERATOR_SN_CASE_STUDY drawn from the literature. the results reveal
+that a number of SNC_DECISIONS can be supported by the proposed MODEL, in
+particular, identifying and evaluating ROBUST_SNS to suit varied
+product_market profiles, enhancing SC_CAPABILITIES to withstand
+DISRUPTIONS and developing contingencies to recover from DISRUPTIONS.
+1988_2012 ieee.
+```
+
+--
+
+Record-No: 380
+Citations: 3
+Record-ID: Lange G., 2015, PROC IEEE INT CONF COMPUT SCI ENG CSE JOINTLY IEEE INT
+CONF UBIQUITOUS COMPUT COMMUN IUCC INT SYMP PERVASIVE SYST ALGORITHMS
+NETWORKS ISPAN INT CONF FRONT COMPUT SCI TECHNOL FCST, P89
+Title: MODELING WELL_SCHEDULING as a VIRTUAL_ENTERPRISE with INTELLIGENT_AGENTS
+Abstract:
+```
+in today'S_INTENSIVE COMPETITIVE_ENVIRONMENT in the oil and GAS_INDUSTRY,
+it is important to increase EFFICIENCY in PRODUCTION through
+RESOURCE_MANAGEMENT and WELL_SCHEDULING (RESOURCE_SCHEDULING, for short).
+however, RESOURCE_SCHEDULING has been a challenge for oil and
+GAS_COMPANIES for many years because it is influenced by a number of
+factors including ENVIRONMENT, regulations, STAKEHOLDERS, finances, the
+MARKET, and approaches to determine and plan daily SCHEDULABLE_TASKS this
+paper proposes a NEW_APPROACH to MODELING well SCHEDULING_PROCESSES in
+oil and GAS_INDUSTRY using the notion of VIRTUAL_ENTERPRISE with
+INTELLIGENT_AGENTS and CONTRACT_NET_PROTOCOL in
+MULTIAGENT_SYSTEMS_TECHNOLOGIES. this MODEL will LEAD to a flexible well
+SCHEDULING_APPLICATION that will assist in the SCHEDULING of RESOURCES
+across the well lifecycle. we show the effectiveness of the approach by
+implementing an EXPERIMENTAL_SYSTEM and giving a CASE_STUDY.  2014 ieee.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 310
+Citations: 2
+Record-ID: Wikarek J., 2016, COMMUN COMPUT INFO SCI, V616, P49
+Title: a MULTI_LEVEL and MULTI_AGENT_APPROACH to MODELING and solving
+SUPPLY_CHAIN_PROBLEMS
+Abstract:
+```
+SUPPLY_CHAIN_PROBLEMS cover several aspects at DIFFERENT_LEVELS and
+areas. there are DECISION on PRODUCTION_ALLOCATION, RESOURCE_ALLOCATION,
+PRODUCTION and INVENTORY_QUANTITIES, DISTRIBUTOR_SELECTION, choice of
+TRANSPORTATION_MODE_ETC. there are many constraints in the
+SUPPLY_CHAIN_PROBLEMS. they concern the following areas (PRODUCTION,
+DISTRIBUTION, TRANSPORT, etc.) and types (linear, non_linear, integer,
+logical, etc.). therefore it is important effective MODELING and solving
+constraints. we consider a multi_level and multi_agent approach to
+MODELING and solving SUPPLY_CHAIN_PROBLEMS using constraint and
+MATHEMATICAL_PROGRAMMING environments. ITS EFFICIENCY_RESULTS from the
+multi_level presolving and multi_agent ARCHITECTURE. an
+ILLUSTRATIVE_EXAMPLE presents effectiveness of the proposed approach. the
+presented approach will be compared with CLASSICAL_MATHEMATICAL
+programming on the same DATA_SETS.  springer international publishing
+switzerland 2016.
+```
+
+--
+
+Record-No: 136
+Citations: 1
+Record-ID: Kusuma P.D., 2021, INTL J ADV  COMPUT SCI APPL, V12, P134
+Title: TRUCK_SCHEDULING_MODEL in the CROSS_DOCKING terminal by using
+MULTI_AGENT_SYSTEM and shortest remaining TIME_ALGORITHM
+Abstract:
+```
+one most important and CRITICAL_PROBLEM in a cross_docking SYSTEM is
+TRUCK_SCHEDULING. many studies in it assumed that the TEMPORARY_STORAGE
+is unlimited which is in the REAL_WORLD, the TEMPORARY_STORAGE is
+limited. many STUDIES_FOCUS on minimizing TOTAL_COMPLETION_TIME.
+meanwhile, studies that focus on minimizing TEMPORARY_STORAGE are hard to
+find, although this aspect is very important. due to ITS COMPLEXITY,
+especially in the cross_docking SYSTEM with MULTIPRODUCT_CHARACTERISTICS,
+MANUAL_SCHEDULING is almost impossible to achieve ITS GOALS. many studies
+used several techniques, such as GENETIC_ALGORITHM (GA) and mixed
+INTEGER_PROGRAMMING where these methods are computationally expensive.
+based on this problem, in this work, we propose
+NEW_TRUCK_SCHEDULING_MODEL in a cross_docking terminal with limited
+TEMPORARY_STORAGE_CONSTRAINT. this MODEL is developed by using
+multi_agent SYSTEM. the MAIN_CONTRIBUTION of this work is proposing the
+multi_agent_based TRUCK_SCHEDULING_MODEL with limited
+TEMPORARY_STORAGE_CAPACITY_CONSTRAINT and TEMPORARY_TRUCK_CHANGEOVER
+permit. in it, there are three AGENTS: inbound_trucks SCHEDULER_AGENT,
+outbound_trucks SCHEDULER_AGENT, and MATERIAL_HANDLER_AGENT. the
+SHORTEST_REMAINING_TIME (srt) ALGORITHM is adopted in every AGENT. based
+on the SIMULATION_RESULT, this proposed MODEL is proven competitive
+compared with the existing fifo based MODELS and integer_programming
+based MODEL. compared with the integer_programming MODEL, it creates 41.8
+percent lower in MAXIMUM_INVENTORY_LEVEL. compared with the fifo based
+MODEL, it creates 52.1 to 55.1 percent lower in MAXIMUM_INVENTORY_LEVEL.
+in TOTAL_TIME_ASPECT, it creates 0.2 to 2.2 percent lower than the fifo
+based MODEL. it creates 7.2 percent higher in TOTAL_TIME compared with
+the integer_programming based MODEL.  2021. all rights reserved.
+```
+
+--
+
+Record-No: 235
+Citations: 1
+Record-ID: Plinere D., 2019, ADV INF ELECTRON ELECTR ENG AIEEE PROC IEEE WORKSHOP,
+V2019-November
+Title: designing a MULTI_AGENT_SYSTEM for improving SUPPLY_CHAIN_PERFORMANCE
+Abstract:
+```
+nowadays, the dynamically CHANGING_ENVIRONMENT requires a TIMELY_RESPONSE
+to changes in the SUPPLY_CHAIN. the AUTHORS_FOCUS on a multi_agent SYSTEM
+as an approach to improving SUPPLY_CHAIN_PERFORMANCE. SOFTWARE_AGENTS are
+successfully applied in SUPPLY_CHAIN_MANAGEMENT tasks. AGENT_BEHAVIOUR is
+defined according to the purpose of ITS DEVELOPMENT. multi_agent systems
+can be used for DOMAIN_AREAS that include negotiations between
+DIFFERENT_FIRMS or people with DIFFERENT_GOALS and
+CONFIDENTIAL_INFORMATION available. SUPPLY_CHAIN can be represented by an
+INTELLIGENT_AGENT set, where each AGENT is responsible for one or more
+FUNCTIONS of the SUPPLY_CHAIN. existing multi_agent systems have shown
+SUCCESSFUL_RESULTS, but these systems have always been developed for each
+case individually, there is no any universal multi_agent SYSTEM. the
+PAPER_DISCUSSES the DEVELOPMENT of a new multi_agent SYSTEM for
+SUPPLY_CHAIN_MANAGEMENT. the paper provides a SEQUENCE_OF_ACTIONS for the
+SYSTEM_DEVELOPMENT starting from discussing SUPPLY_CHAIN_PROCESSES and
+tasks that represent behaviour of AGENTS. the authors also propose to
+develop a multi_agent SYSTEM that can improve SUPPLY_CHAIN_PERFORMANCE
+and PRESENT_PERFORMANCE_MEASUREMENT for the SYSTEM. the proposed
+multi_agent SYSTEM provides DEMAND_FORECASTING, INVENTORY_MANAGEMENT and
+PRODUCTION_SCHEDULING aimed at improving the SUPPLY_CHAIN_PERFORMANCE.
+2019 ieee.
+```
+
+--
+
+Record-No: 296
+Citations: 1
+Record-ID: Tsarev A., 2019, LECT NOTES COMPUT SCI, V11710 LNAI, P81
+Title: MULTI_AGENT SUPPLY_PLANNING methods allowing the REAL_TIME PERFORMANCE of
+the SUPPLY_NETWORK_MANAGEMENT_SYSTEMS
+Abstract:
+```
+the PAPER_DEALS with the questions of how to develop the automated
+PLANNING systems that are fast enough to be used in real_time MANAGEMENT
+of SUPPLY_NETWORKS, considering the MANUAL_PLAN_CORRECTIONS by the users.
+several PRACTICAL_SITUATIONS and PLANNING SYSTEM_USE_CASES are
+considered. the paper proposes several methods that allow the increase of
+the DATA_PROCESSING_SPEED in PRACTICAL_CASES. the methods include
+PARALLEL_DATA_PROCESSING, DYNAMIC_CONTROL of the
+SOLUTIONS_SPACE_DEPTH_SEARCH, self_regulation of the SYSTEM_BEHAVIOR
+based of the specifics of the data processed.  2019,
+SPRINGER_NATURE_SWITZERLAND_AG.
+```
+
+--
+
+Record-No: 391
+Citations: 1
+Record-ID: Guang-Wen H., 2015, PROC INT CONF MEAS TECHNOL MECHATRONICS AUTOM ICMTMA,
+P860
+Title: RESEARCH on COOPERATIVE_METHOD of VIRTUAL_ENTERPRISE based on
+RESOURCE_COOPERATION_SCHEDULING
+Abstract:
+```
+PRODUCTION_SCHEDULING_PROBLEM has always been a RESEARCH_FOCUS of
+PEER_SCHOLARS both at home and abroad and RESEARCH on
+PRODUCTION_SCHEDULING_MODELS under SUPPLY_CHAIN is becoming a HOT_SPOT of
+further exploration. therefore, on this HOT_ISSUE, the PAPER_ESTABLISHES
+a COLLABORATIVE_PRODUCTION_SCHEDULING_MODEL based on multi_agents and
+DISCUSSES_TECHNIQUES and methods for each part to achieve
+COLLABORATIVE_PRODUCTION_SCHEDULING. in addition,
+SUPPLIER_SELECTION_PROCESS on the basis of multi_objective and
+PRICE_NEGOTIATION is proposed and PRIMARY_PARTNER_SELECTION_METHOD is
+determined. ENTERPRISES adopt the combination based on edd + scr RULES to
+determine their TASK_ALLOCATION and set date of delivery for all orders,
+then each workshop makes WORKSHOP_PRODUCTION_SCHEDULING according to
+company'S_PRODUCTION plan. finally, CONDUCT_SIMULATION_ANALYSIS of the
+case by using SWARM_SIMULATION_SOFTWARE_PLATFORM and then verify the
+validity of PRODUCTION_SCHEDULING_MODEL put forward in this paper.  2015
+ieee.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 404
+Citations: 1
+Record-ID: Du T., 2014, IFIP ADVANCES IN INFORMATION AND COMMUNICATION TECHNOLOGY,
+V426, P378
+Title: NASH_NEGOTIATION_METHOD of CONFLICT_RESOLUTION for MSC_PRODUCTION
+MARKETING COORDINATION based on MULTI_AGENT
+Abstract:
+```
+in the face of increasingly MARKET_COMPETITION and diversified DEMAND,
+MANUFACTURERS and dealers of MANUFACTURING SUPPLY_CHAIN (msc) pay
+GREAT_EFFORT to achieve PRODUCTION_MARKETING_COORDINATION. however, it
+often GENERATES_CONFLICTS in the PROCESS of
+PRODUCTION_MARKETING_COORDINATION. for this kind of CONFLICT_PROBLEM,
+multi_agent TECHNOLOGY is introduced. ENTERPRISES of the SUPPLY_CHAIN are
+represented by AGENTS. the CONFLICTS among AGENTS are resolved through
+NASH_NEGOTIATION. a MODEL of NASH_NEGOTIATION based on AGENTS is
+established. the CONFLICT_POINT of NEGOTIATION is determined by
+STACKELBERG_DIFFERENTIAL_GAME. a MEMETIC_ALGORITHM is proposed to solve
+the MODEL. finally, the validity of the ALGORITHM and the MODEL is
+verified by NUMERICAL_EXPERIMENT.  ifip INTERNATIONAL_FEDERATION for
+INFORMATION_PROCESSING 2014.
+```
+
+--
+
+Record-No: 450
+Citations: 1
+Record-ID: Pantke F., 2014, PROCEDIA CIRP, V19, P180
+Title: distributed KEY_FIGURE_OPTIMIZATION_APPROACHES for
+GLOBAL_GOAL_COORDINATION in MULTI_AGENT_SYSTEMS for PRODUCTION_CONTROL
+Abstract:
+```
+PERFORMANCE_MEASUREMENT by means of KEY_PERFORMANCE_INDICATORS (kpis) is
+a WIDESPREAD_DEVICE for communicating qualitative and
+QUANTITATIVE_BUSINESS_OBJECTIVES throughout an ORGANIZATION and
+MONITORING their achievement. it seems desirable to also apply this
+concept to dependably influencing the OPERATIONAL_BEHAVIOUR of
+distributed AGENT controlled processes, which have progressively gained
+in importance in PRODUCTION_LOGISTICS and CONTROL over RECENT_YEARS as
+compared to centralized CONTROL_METHODS. however, PLANNING_AND_SCHEDULING
+with NUMERIC_GOAL_SYSTEMS at present still poses a CHALLENGING_TASK
+within the field of COMPUTATIONAL_INTELLIGENCE. in this paper, a
+framework is presented that enables GLOBAL_COORDINATION of AGENTS in a
+multi_agent SYSTEM through user_configurable numeric
+KEY_PERFORMANCE_INDICATORS and associated objectives. a
+PRACTICAL_APPROACH to DISTRIBUTED_CONTROL based on
+PERIODICAL_MATHEMATICAL_OPTIMIZATION of the defined KPI_GOAL_SYSTEM is
+described that focuses on how AUTOMATIC_KEY_FIGURE_AGGREGATION over
+changing groups and hierarchies of AGENTS and other BUSINESS_OBJECTS can
+be appropriately managed when PROACTIVE_MODIFICATION of these
+ORGANIZATIONAL_STRUCTURES, e.g., AGENTS deliberately FORMING and
+disbanding groups, is an INTEGRAL_PART of the CONTROL_PROBLEM. five
+variants of this approach are compared in a CASE_STUDY with a simulated
+SHOP_FLOOR where incoming MANUFACTURING ORDERS_NEED to be assigned to
+DIFFERENT_MACHINE_TOOLS.  2014 published by elsevier b.v. this is an
+OPEN_ACCESS_ARTICLE under the cc by_nc_nd license.
+```
+
+--
+
+Record-No: 8
+Citations: 0
+Record-ID: Bu L., 2024, APPL ARTIF INTELL, V38
+Title: LOGISTIC_RESOURCE_ALLOCATION based on MULTI_AGENT SUPPLY_CHAIN SCHEDULING
+using meta HEURISTIC_OPTIMIZATION ALGORITHMS
+Abstract:
+```
+LOGISTICS_RESOURCE_ALLOCATION depends on the PRECISE_SCHEDULING of
+SUPPLY_CHAIN (SC) AGENTS. COORDINATION of MANAGEMENT across all sites,
+products, and PRODUCTION_DIVISIONS is essential for EFFECTIVE_SCHEDULING.
+for multi_agent systems in HETEROGENEOUS_SCS, it is crucial to have a
+prior understanding of PRODUCTION, delivery, and connectivity. hence, an
+innovative meta_heuristic OPTIMIZATION inspired by SPARROW_BEHAVIOR is
+introduced as multi_agent_based SCHEDULING and RESOURCE_ALLOCATION
+(ma_sra) to resolve DELIVERY_DELAYS and errors during delivery in
+LOGISTIC_SC_MANAGEMENT. allocating RESOURCES efficiently and creating
+WORKABLE_SCHEDULES in an SC with MULTIPLE_AGENTS are the primary
+SIGNIFICANT_PROBLEMS focused on in this RESEARCH. the ma_sra ALGORITHM
+provides an ACHIEVABLE_SOLUTION to the problem of optimizing
+LOGISTICS_OPERATIONS by combining PRECISE_SCHEDULING with
+PRODUCTION_BALANCE and multi_agent searchers. if the
+SCHEDULING_OPERATIONS are inadequate, SPARSE_AGENTS are repurposed for
+PRODUCTION based on fitness. this maintains balance and connectivity by
+adjusting AGENT_RATIOS. delays are minimized, and connectivity is
+maximized because no ADJUSTMENTS_NEED to be reversed. the
+RESEARCH_FINDINGS show that the proposed
+APPROACH_IMPROVES_OPERATIONAL_EFFICIENCY and brings
+SIGNIFICANT_ADVANTAGES to the INDUSTRY in terms of enhanced allocation of
+RESOURCES, connectivity, DELIVERY_EFFICIENCY, and fewer delays and
+SCHEDULING_ERRORS.  2024 the author(s). published with license by taylor
+& FRANCIS_GROUP, llc.
+```
+
+--
+
+Record-No: 86
+Citations: 0
+Record-ID: Swain S., 2024, SN OPER RES FORUM, V5
+Title: a distributed SOFTWARE_AGENT centric framework for SUPPLY_CHAIN_NETWORKS
+empowered by BLOCKCHAIN: insights into SMART_CONTRACTS
+Abstract:
+```
+the advent of BLOCKCHAIN_TECHNOLOGY (bct), along with the use of
+SMART_CONTRACTS, has triggered a TRANSFORMATIVE_PHASE for
+SUPPLY_CHAIN_NETWORKS (scns). in this work, we propose a distributed,
+smart contract_based SUPPLY_CHAIN_MANAGEMENT (SCM) framework meticulously
+designed to monitor and CONTROL_DISCRETE_OPERATIONAL_PHASES in
+SUPPLY_CHAINS. further, a software agent_based approach has been adopted
+for tracking SUPPLY_CHAIN_OPERATIONS, from the initiation of a
+PURCHASE_ORDER to ITS FINAL_DELIVERY. this RESEARCH_STRIVES to establish
+a COMPREHENSIVE_FRAMEWORK for applying a multi_agent SYSTEM (MAS) infused
+with bct. a number of AGENTS with specified roles have been deployed with
+a well_defined INTERACTION_ARCHITECTURE to drive the
+SUPPLY_CHAIN_OPERATIONS. the AGENTS engage in EFFECTIVE_COORDINATION and
+MONITORING of SCN_ACTIVITIES. the overarching goal is to boost
+SCN_PERFORMANCE in RELIABILITY, SCALABILITY, TRANSPARENCY, TRACEABILITY,
+and RESILIENCE, mitigating deficiencies and enhancing OVERALL_EFFICIENCY.
+the author(s), under EXCLUSIVE_LICENCE to SPRINGER_NATURE_SWITZERLAND_AG
+2024.
+```
+
+--
+
+Record-No: 191
+Citations: 0
+Record-ID: Wang Z., 2022, LECT NOTES COMPUT SCI, V13492 LNCS, P158
+Title: COORDINATION of medical SUPPLY_CHAIN based on MULTI_AGENT_SYSTEMS
+Abstract:
+```
+improving the EFFICIENCY of the medical SUPPLY_CHAIN is the key of
+MEDICAL_SYSTEM_REFORM in CHINA. by analyzing chinese medical
+SUPPLY_CHAIN_EVOLUTION PROCESS in CHINA'S reform and opening_up, based on
+the third LOGISTICS, this PAPER_BUILDS an integrated SUPPLY_CHAIN_MODEL
+consisting of the RAW_MATERIALS_LOGISTICS and the DRUGS_LOGISTICS, and
+the OVERALL_COORDINATION_MODEL above it. then the drugs SUPPLY
+COORDINATION_STRATEGY and RAW_MATERIALS SUPPLY COORDINATION_STRATEGY have
+been established successively to lower MEDICINE_DISTRIBUTION_LOGISTICS
+COST and DRUGS_PRODUCTION_LOGISTICS COST. on the basis of this, in order
+to further reduce the TOTAL_COSTS of the medical SUPPLY_CHAIN, the
+OVERALL_COORDINATION_STRATEGY in the integrated SUPPLY_CHAIN is built.
+finally, by multi_agent TECHNOLOGY, an ILLUSTRATIVE_EXAMPLE is given to
+verify the COORDINATION_STRATEGY and method.  2022, the author(s), under
+EXCLUSIVE_LICENSE to SPRINGER_NATURE_SWITZERLAND_AG.
+```
+
+---------------------------------------------------------------------------
+
+Improve and make more clear the explanation of the relationships among
+the keywords:
+
+OPTIMIZATION; SCHEDULING; COMPETITION; PRODUCTION_CONTROL; COORDINATION;
+GENETIC_ALGORITHM; INTEGER_PROGRAMMING; PRODUCTION_SCHEDULING;
+TRANSPORTATION; MATHEMATICAL_MODELS
+
+in the next paragraphs delimited by '<<<' and '>>>', using only the
+information provided in the records presented below. Add cites to the
+added text using the corresponding Record-No value between brackets.
+
+Here are the text to improve and make more clear:
+
+<<<
+
+>>>
+
+Here are the records:
+
+--
+
+Record-No: 121
+Citations: 0
+Record-ID: Granados-Rivera D., 2021, STUD COMPUT INTELL, V987, P343
+Title: a MULTI_AGENT OPTIMIZATION approach to determine FARMERS_MARKET_LOCATIONS
+in BOGOTA_CITY, colombia
+Abstract:
+```
+this paper describes the implementation of a mixed OPTIMIZATION_METHOD in
+multi_agent SYSTEM approach, that DETERMINES_FARMERS_MARKET (fm)
+locations. occasionally, the OPTIMIZATION_MODELS that locate facilities
+do not consider the INTERACTIONS on MEDIUM_TERM between AGENTS in the
+MARKET. for this reason, the mixed METHOD_CONSIDERS the CONSUMER_PATTERNS
+of buying fruits and vegetables (f&v) in a CERTAIN_PROBABILITY for each
+household from each seller. this PROBABILITY was calibrated using a
+multi_agent SIMULATION to evaluate the INITIAL_SOLUTION given by the
+MATHEMATICAL_MODEL. fm'S LOCATION is a RELEVANT_TOPIC due to the fact
+that this type of MARKET is a GOOD_STRATEGY to ADDRESS_FOOD_INSECURITY in
+areas with a LOW_DENSITY of food SUPPLY. the MODEL was implemented in an
+area of study in the CITY of bogota, colombia. the results showed a
+SATISFACTORY_IDENTIFICATION of sites with a limited number of SUPPLY
+channels. in these areas, the MODEL located fm and thus increased
+FOOD_ACCESS.  2021, the author(s), under EXCLUSIVE_LICENSE to
+SPRINGER_NATURE_SWITZERLAND_AG.
+```
+
+--
+
+Record-No: 260
+Citations: 0
+Record-ID: Li Z./2, 2019, ACM INT CONF PROC SER, P76
+Title: RESEARCH on DECISION_MAKING SCHEDULING_MODEL of distributed MULTI_AGENT
+COLLABORATIVE group in SUPPLY_CHAIN based on MULTI_AGENT_SYSTEM
+Abstract:
+```
+this PAPER_STUDIES the distributed multi_agent COLLABORATION mode of
+multi_agent SYSTEM in the SUPPLY_CHAIN and the multi_task matching
+AGENT_SCHEDULING_STRATEGY. the SUPPLY_CHAIN is a typical multi_agent
+distributed DECISION_SYSTEM , multi_agent SYSTEM solves complex
+multi_objective OPTIMIZATION_PROBLEMS. this PAPER_ESTABLISHES a
+distributed DECISION_MODEL of SUPPLY_CHAIN based on multi_agent SYSTEM,
+and considers that a single ALGORITHM is difficult to solve
+COMPLEX_OPTIMIZATION_PROBLEMS. we introduce a GLOBAL_COORDINATION_AGENT,
+which is responsible for global MONITORING of all PRINCIPAL_AGENTS and
+their running status in MAS. diagnosing and PROCESSING the allocation of
+TASK_RESOURCES, introducing EDF_ALGORITHM and RMS_ALGORITHM into the
+STRATEGY. the combination of the two ALGORITHMS makes the EFFICIENCY of
+the BACKGROUND_MANAGEMENT_PLATFORM of the SYSTEM relatively improved and
+optimized, and the SUPPLY_CHAIN as a WHOLE_TENDS to be optimal. this
+PAPER_ANALYZES and describes the distributed DECISION_MODEL of
+SUPPLY_CHAIN based on multi_agent SYSTEM based on multi_agent SYSTEM and
+BLACKBOARD_MODEL. the distributed multi_task decision_making
+SCHEDULING_MODEL in SUPPLY_CHAIN is given. finally, the MODEL is analyzed
+and evaluated.  2019 association for computing MACHINERY.
+```
+
+--
+
+Record-No: 325
+Citations: 0
+Record-ID: Padilla N.M., 2017, CEUR WORKSHOP PROC, V1987, P443
+Title: a PARTICLE_SWARM_OPTIMIZATION_ALGORITHM implemented on MULTIAGENT_SYSTEMS
+applied to a SUGAR_CANE_DISTRIBUTION_PROBLEM
+Abstract:
+```
+SUGAR_CANE_DISTRIBUTION_OPTIMIZATION_PROBLEM is a CRITICAL_PROBLEM in
+tucuman, argentina, with geographical, environmental and
+ECONOMIC_CHARACTERISTICS that makes it different from
+SIMILAR_TRANSPORTATION or SUPPLY_CHAIN_PROBLEMS. motivated by this
+problem, we introduce in this paper a NEW_HEURISTIC_ALGORITHM to solve
+it. the problem is represented as a non_linear variant of the generalized
+ASSIGNMENT_PROBLEM, and the ALGORITHM introduced is a
+BINARY_PARTICLE_SWARM_OPTIMIZATION implemented on a MULTIAGENT_SYSTEM,
+written in SARL_LANGUAGE. the NEW_ALGORITHM was tested on a previously
+developed BENCHMARK_SUITE, and it can efficiently solve the problem,
+finding the OPTIMAL_SOLUTION for all TEST_INSTANCES of DIFFERENT_TYPES.
+copyright by the paper'S authors.
+```
+
+--
+
+Record-No: 445
+Citations: 0
+Record-ID: He Z., 2014, INF CONTROL, V43, P344
+Title: MODEL of PRODUCT_SERVITIZATION SUPPLY_CHAIN_COLLABORATION based on
+MULTI_AGENT_SYSTEM for SEMANTIC_WEB_SERVICES
+Abstract:
+```
+in order to improve PRODUCT_SERVITIZATION SUPPLY_CHAIN_ENTERPRISES and
+the OVERALL_COMPETITIVENESS of the SUPPLY_CHAIN, the PROCESS of
+PRODUCT_SERVITIZATION SUPPLY_CHAIN_COLLABORATION is analyzed. the
+DIFFERENT_ROLES in the COLLABORATIVE_PROCESS are encapsulated by means of
+a multi_agent SYSTEM. the WEB_SERVICES in the COLLABORATIVE_PROCESS are
+semantically marked using owl_s, and a MODEL of the PRODUCT_SERVITIZATION
+SUPPLY_CHAIN_COLLABORATION is established. finally, a SPECIFIC_CASE is
+used to illustrate the application of the MODEL. the MODEL can not only
+achieve the AUTOMATIC_SEARCH, call, combination and MONITORING of
+WEB_SERVICES in PRODUCT_SERVITIZATION SUPPLY_CHAIN_COLLABORATION, but
+also can lay the foundation for INFORMATION_SHARING and
+BUSINESS_COLLABORATION among SUPPLY_CHAIN_ENTERPRISES.
+```
+
+
