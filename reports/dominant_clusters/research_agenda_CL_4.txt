@@ -1,0 +1,21 @@
+You are an automated scientific writer assistant. 
+
+I am writing a paper about the dominant thematic clusters in multi-agent systems 
+applied to city logistics, urban freight, and last-mile delivery. 
+
+The fifth dominant thematic cluster is defined by the following keywords and its relationships:
+
+NEGOTIATION_MODEL; DEMAND; NEGOTIATION; NEGOTIATION_STRATEGIES;
+NEGOTIATION_MECHANISMS; NEGOTIATION_PROCESS; PROJECT_MANAGEMENT
+
+Build a  research research and describe the challenges for this cluster. Be sure of generate a deep analysis.
+
+Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the record. For example, [1] means that the information is in the Record-No 1. Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
+
+Do not use titles in the generated text.
+
+Use, at least, 30 abstracts for formulate the research agenda and the challenges.
+
+Add references to the supplied abstracts between the phrases in each paragraph as possible. The added references between phrases must be different to the references at the end of the same paragraph.
+
+

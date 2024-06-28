@@ -1,0 +1,130 @@
+
+Record-No: 202
+Record-ID: Hanga K.M., 2019, COMPUT SCI REV, V34
+Title: MACHINE_LEARNING and MULTI_AGENT_SYSTEMS in oil and
+GAS_INDUSTRY_APPLICATIONS: a SURVEY
+Abstract:
+```
+the oil and GAS_INDUSTRY (ogi) has always been associated with challenges
+and complexities. it involves many processes and STAKEHOLDERS, each
+generating a HUGE_AMOUNT of data. due to the global and distributed
+nature of the business, PROCESSING and managing this information is an
+ARDUOUS_TASK. many issues such as orchestrating DIFFERENT_DATA_SOURCES,
+owners and formats; verifying, validating and securing DATA_STREAMS as
+they move along the COMPLEX_BUSINESS_PROCESS_PIPELINE; and getting
+insights from data for improving BUSINESS_EFFICIENCY,
+SCHEDULING_MAINTENANCE and preventing theft and fraud are to be
+addressed. ARTIFICIAL_INTELLIGENCE (ai), and MACHINE_LEARNING (ml) in
+particular, have gained HUGE_ACCEPTANCE in many areas recently, including
+the ogi, to help HUMANS_TACKLE SUCH_COMPLEX_TASKS. furthermore,
+multi_agent systems (MAS) as a sub_field of distributed AI_MEET the
+requirement of DISTRIBUTED_SYSTEMS and have been utilised successfully in
+a VAST_VARIETY of disciplines. several studies have explored the use of
+ml and MAS to increase OPERATIONAL_EFFICIENCY, manage SUPPLY_CHAIN and
+solve various production_ and maintenance_related tasks in the ogi.
+however, ml has only been applied to isolated tasks, and while MAS have
+yielded GOOD_PERFORMANCE in simulated environments, they have not gained
+the expected popularity among oil and GAS_COMPANIES yet. further RESEARCH
+in the fields is necessary to realise the potential of ml and MAS and
+encourage their wider acceptance in the ogi. in particular, embedding ml
+into MAS can bring many benefits for the FUTURE_DEVELOPMENT of the
+INDUSTRY. this PAPER_AIMS to summarise the efforts to date of applying ml
+and MAS to OGI_TASKS, identify POSSIBLE_REASONS for their low and
+SLOW_UPTAKE and suggest ways to ensure a greater adoption of these
+technologies in the ogi.  2019 ELSEVIER_INC.
+```
+
+--
+
+Record-No: 151
+Record-ID: Herrera M., 2020, PROCESS, V8
+Title: MULTI_AGENT_SYSTEMS and COMPLEX_NETWORKS: REVIEW and APPLICATIONS in
+SYSTEMS_ENGINEERING
+Abstract:
+```
+SYSTEMS_ENGINEERING is an UBIQUITOUS_DISCIPLINE of engineering
+overlapping industrial, chemical, mechanical, MANUFACTURING, CONTROL,
+software, electrical, and CIVIL_ENGINEERING. it provides TOOLS for
+dealing with the COMPLEXITY and DYNAMICS related to the OPTIMISATION of
+physical, natural, and VIRTUAL_SYSTEMS_MANAGEMENT. this paper presents a
+REVIEW of how multi_agent systems and COMPLEX_NETWORKS_THEORY are brought
+together to ADDRESS_SYSTEMS_ENGINEERING and MANAGEMENT_PROBLEMS. the
+REVIEW also encompasses CURRENT and FUTURE_RESEARCH_DIRECTIONS both for
+THEORETICAL_FUNDAMENTALS and APPLICATIONS in the INDUSTRY. this is made
+by considering trends such as mesoscale, multiscale, and
+MULTILAYER_NETWORKS along with the state_of_art analysis on
+NETWORK_DYNAMICS and INTELLIGENT_NETWORKS. critical and
+SMART_INFRASTRUCTURE, MANUFACTURING_PROCESSES, and SUPPLY_CHAIN_NETWORKS
+are instances of RESEARCH_TOPICS for which this LITERATURE_REVIEW is
+highly relevant.  2020 by the authors.
+```
+
+--
+
+Record-No: 135
+Record-ID: Domínguez R., 2020, SUSTAINABILITY, V12, P1
+Title: insights on MULTI_AGENT_SYSTEMS APPLICATIONS for SUPPLY_CHAIN_MANAGEMENT
+Abstract:
+```
+in this paper, we REVIEW_RELEVANT_LITERATURE on the DEVELOPMENT of
+multi_agent systems APPLICATIONS for SUPPLY_CHAIN_MANAGEMENT. we give a
+GENERAL_PICTURE of the STATE_OF_THE_ART, showing the MAIN_APPLICATIONS
+developed using this NOVEL_METHODOLOGY for analyzing DIVERSE_PROBLEMS in
+INDUSTRY. we also ANALYZE_GENERIC_FRAMEWORKS for SUPPLY_CHAIN MODELLING,
+showing their MAIN_CHARACTERISTICS. we discuss the MAIN_TOPICS addressed
+with this TECHNIQUE and the degree of DEVELOPMENT of the contributions.
+2020 by the authors. LICENSEE_MDPI, basel, switzerland.
+```
+
+--
+
+Record-No: 351
+Record-ID: Teo J.S.E., 2015, TRANSP RES REC, V2478, P35
+Title: EVALUATION of URBAN_DISTRIBUTION_CENTERS using MULTIAGENT_MODELING with
+GEOGRAPHIC_INFORMATION_SYSTEMS
+Abstract:
+```
+CURRENT_BARRIERS to maintaining economies of scale for delivery include
+far distances of the depots from CUSTOMERS, ROAD_USAGE_RESTRICTIONS,
+CUSTOMERS' DELIVERY_REQUESTS, and social, environmental, and
+ECONOMIC_COSTS. in many developed and DEVELOPING_COUNTRIES, the effects
+of urbanization have increased CITY_POPULATION. SUCH_MIGRATION to cities
+is also attracting more movement of commodities into the CITY_CENTER.
+this RESEARCH aimed to study the effectiveness and VIABILITY of
+URBAN_DISTRIBUTION_CENTERS from a TACTICAL_VIEWPOINT of PLANNING for
+CITY_LOGISTICS. a MULTIAGENT_MODELING approach with
+GEOGRAPHICAL_INFORMATION_SYSTEM_SUPPORT was used to test an
+URBAN_DISTRIBUTION_CENTER (udc) in OSAKA_CITY, JAPAN. the KEY_FINDINGS
+from this RESEARCH concluded that the udc has potential for
+EMISSIONS_REDUCTION, but SUSTAINABILITY of the udc is reliant on the
+UDC_CHARGES and carriers' sensitivity to the rate of charges.
+```
+
+--
+
+Record-No: 465
+Record-ID: Dai H., 2014, INT J PROD RES, V52, P6819
+Title: a FRACTAL_PERSPECTIVE based METHODOLOGICAL_FRAMEWORK for SUPPLY_CHAIN
+MODELLING and DISTRIBUTED_SIMULATION with MULTI_AGENT_SYSTEM
+Abstract:
+```
+with the DEVELOPMENT of GLOBAL_ECONOMY, SUPPLY_CHAIN, as a recognised
+COMPLEX_SYSTEM, is becoming more complex for analysis. in this context,
+it is worth introducing the perspective of COMPLEX_SYSTEM in perceiving
+and MODELLING of SUPPLY_CHAIN_SYSTEM to address ITS dynamic, stochastic
+and UNCERTAIN_CHARACTERISTICS. therefore, this paper proposes a
+METHODOLOGICAL_FRAMEWORK of SUPPLY_CHAIN MODELLING_AND_SIMULATION based
+on the FRACTAL_PERSPECTIVE, and presents an all_round and
+SYSTEMATIC_EXPOSITION of concept MODELLING and DISTRIBUTED_SIMULATION by
+means of multi_agent TECHNOLOGY. in this framework, different
+SUPPLY_CHAIN scenarios focusing on MANUFACTURING, INVENTORY and
+TRANSPORTATION can be easily modelled and simulated at DIFFERENT_SCALES
+and levels. in addition, a PROTOTYPE_SYSTEM which implements the
+METHODOLOGICAL_FRAMEWORK and the KEY_IMPLEMENTATION_TECHNIQUES are
+presented as well. finally, a SUPPLY_CHAIN_EXAMPLE, which
+SUPPOSES_MANUFACTURER as the CORE_MEMBER, is modelled and simulated with
+the PROTOTYPE_SYSTEM to illustrate the effectiveness of the proposed
+framework.  2014 taylor and francis.
+```
+
+
