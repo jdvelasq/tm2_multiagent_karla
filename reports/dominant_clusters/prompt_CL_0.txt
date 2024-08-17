@@ -1,23 +1,15 @@
 You are an automated scientific writer assistant. 
 
-I am writing a paper about the dominant thematic clusters in multi-agent systems 
-applied to city logistics, urban freight, and last-mile delivery. 
+I am writing a paper about the dominant thematic clusters in multi-agent systems applied to supply chain. Emphasize the contributions about: city logistics, urban logistics, urban freight transport, last mile, urban delivery. 
 
 The first dominant thematic cluster is defined by the following keywords and its relationships:
 
-DECISION_MAKING; INTELLIGENT_AGENTS; ARTIFICIAL_INTELLIGENCE;
-DECISION_SUPPORT_SYSTEM; INFORMATION_SYSTEM; CYBER_PHYSICAL_SYSTEMS;
-PLANNING; INTERNET_OF_THINGS; MACHINE_LEARNING; EMBEDDED_SYSTEMS
+DECISION_MAKING; INTELLIGENT_AGENTS; ARTIFICIAL_INTELLIGENCE; DECISION_SUPPORT_SYSTEM; INFORMATION_SYSTEM; CYBER_PHYSICAL_SYSTEMS; PLANNING; INTERNET_OF_THINGS; MACHINE_LEARNING; EMBEDDED_SYSTEMS
 
-Formulate a position or an opinion about the first thematic cluster based on the 
-abstracts available in the attached file. The opinion describes the relationships
-among the keywords and stablish a critical position about the cluster.
+Formulate a position or an opinion about the first thematic cluster based on the abstracts available in the attached file. The opinion describes the relationships among the keywords and stablish a critical position about the cluster.
 
 Be sure of formulating a deep opinion or deep position about the first thematic cluster.
 
-Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the
-record. For example, [1] means that the information is in the Record-No
-1. Use notes below of the generated text to justify the affirmation. Use
-only phrases appearing in the provided text.
+Do not use surname (year) citation style. Use the Record-No value between brackets to indicate the reference to the record. For example, [1] means that the information is in the Record-No 1. Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
 
-Use, at least, 20 abstracts for elaborate the critical review.
+Use, at least, 30 abstracts for elaborate the critical review.
