@@ -1,0 +1,400 @@
+Achatbi I., 2020, DECIS SCI LETT, V9, P337
+    Achatbi I., Amechnoue K., haddadi T.E., Allouch S.A., Advanced system based on ontology and multi agent technology to handle upstream supply chain: Intelligent negotiation protocol for supplier and transportation provider selection, Decision Science Letters, pp. 337-354, (2020)
+Adeyeri M.K., 2015, IEOM INT CONF IND ENG OPER MANAG PROC
+    Adeyeri M.K., Mpofu K., Adenuga O.T., Integration of agent technology into manufacturing enterprise: A review and platform for industry 4.0, International Conference on Industrial Engineering and Operations Management (IEOM), pp. 1-10, (2015)
+Adeyeri M.K., 2015, IEOM INT CONF IND ENG OPER MANAG PROC
+    Adeyeri M.K., Mpofu K., Olukorede T.A., Integration of agent technology into manufacturing enterprise: A review and platform for industry 4.0, International Conference on Industrial Engineering and Operations Management (IEOM), Pp. 1–10. IEEE, (2015)
+Ahmadpour L., 2017, INT J SERV OPER MANAGE, V28, P222
+    Ahmadpour L., Kazemi A., Darestani S.A., Presenting a multi agent system for estimating risk in supply chain management, International Journal of Services and Operations Management, 28, 2, pp. 222-242, (2017)
+Aminzadegan S., 2019, COMPUT IND ENG, V137
+    Aminzadegan S., Tamannaei M., Rasti-Barzoki M., Multi-agent supply chain scheduling problem by considering resource allocation and transportation, Comput Ind Eng, (2019)
+Aminzadegan S., 2019, COMPUT IND ENG, V137
+    Aminzadegan S., Tamannaei M., Rasti-Barzoki M., Multi-agent supply chain scheduling problem by considering resource allocation and transportation, Comput. Ind. Eng., 137, (2019)
+Aminzadegan S., 2019, COMPUT IND ENG, V137
+    Aminzadegan S., Tamannaei M., Rasti-Barzoki M., Multi-agent supply chain scheduling problem by considering resource allocation and transportation, Computers and Industrial Engineering, 137, 11, (2019)
+Avci M.G., 2016, COMPUT IND, V82, P28
+    Avci M.G., Selim H., A multi-agent system model for supply chains with lateral preventive transshipments: Application in a multi-national automotive supply chain, Comput Ind, 82, pp. 28-39, (2016)
+Avci M.G., 2016, COMPUT IND, V82, P28
+    Avci M.G., Selim H., A multi-agent system model for supply chains with lateral preventive transshipments: Application in a multi-national automotive supply chain, Computers in Industry, 82, pp. 28-39, (2016)
+Ballouki I., 2017, J ADV MANUF SYST, V16, P291
+    Ballouki I., Douimi M., Ouzizi L., Decision support tool for supply chain configuration considering new product re-design: An agent-based approach, Journal of Advanced Manufacturing Systems, 16, 4, pp. 291-315, (2017)
+Ballouki I., 2017, J ADV MANUF SYST, V16, P291
+    Ballouki I., Douimi M., Ouzizi L., Decision support tool for supply chain configuration considering new product re-design: And agent-based approach, Journal of Advanced Manufacturing Systems, 16, (2017)
+Belykh D.L., 2018, COMMUN COMPUT INFO SCI, V858, P366
+    Belykh D.L., Botvin G.A., Multi-agent framework for supply chain dynamics modelling with information sharing and demand forecast, Digital transformation and global society, pp. 366-374, (2018)
+Bemthuis R.H., 2019, PROC IEE INT ENTERPRISE DISTRIB OBJ COMPUT WORKSHOP EDOCW, V2019-October, P54
+    Bemthuis R.H., Koot M., Mes M.R.K., Bukhsh F.A., Iacob M.-E., Meratnia N., An agent-based process mining architecture for emergent behavior analysis, 2019 IEEE 23rd International Enterprise Distributed Object Computing Workshop (EDOCW)
+Bemthuis R.H., 2019, PROC IEE INT ENTERPRISE DISTRIB OBJ COMPUT WORKSHOP EDOCW, V2019-October, P54
+    Bemthuis R.H., Koot M., Mes M.R.K., Bukhsh F.A., Iacob M.-E., Meratnia N., Data underlying the publication: An agent-based process mining architecture for emergent behavior analysis, 4TU.Centre for Research Data, (2019)
+Ben Othman S., 2017, CONTROL ENG PRACT, V59, P27
+    Ben Othman S., Zgaya H., Dotoli M., Hammadi S., An agent-based Decision Support System for resources' scheduling in Emergency Supply Chains, Control Engineering Practice, 59, pp. 27-43, (2017)
+Ben Othman S., 2017, CONTROL ENG PRACT, V59, P27
+    Ben Othman S., Zgaya H., Dotoli M., Hammadi S., An agent-based Decision Support System for resources’ scheduling in Emergency Supply Chains, Control Eng. Pract, 59, pp. 27-43, (2017)
+Ben Othman S., 2017, CONTROL ENG PRACT, V59, P27
+    Ben Othman S., Zgaya H., Dotoli M., Hammadi S., An agent-based decision support system for resources' scheduling in emergency supply chains, Control Engineering Practice, 59, pp. 27-43, (2017)
+Ben Othman S., 2017, CONTROL ENG PRACT, V59, P27
+    Ben Othman S., Zgaya H., Dotoli M., Hammadi S., An agent-based decision support system for resources’ scheduling in emergency supply chains, Control Eng. Pract., 59, pp. 27-43, (2017)
+Bi M., 2022, IEEE INT CONF AUTOM SCI ENG, V2022-August, P235
+    Bi M., Chen G., Tilbury D.M., Shen S., Barton K., A model-based multi-agent framework to enable an agile response to supply chain disruptions, Proc. IEEE18th Int.Conf.Automat. Sci. Eng, pp. 235-241, (2022)
+Cannella S., 2019, INT J PROD RES, V57, P985
+    Cannella S., di Mauro C., Dominguez R., Ancarani A., Schupp F., An exploratory study of risk aversion in supply chain dynamics via human experiment and agent-based simulation, Int. J. Prod. Res, 57, pp. 985-999, (2019)
+Chatterjee R., 2016, PROC CONF LOCAL COMPUT NETW LCN, P205
+    Chatterjee R., Greulich C., Edelkamp S., Optimizing last mile delivery using public transport with multi-agent based control, 2016 IEEE 41st Conference on Local Computer Networks Workshops (LCN Workshops), pp. 205-212, (2016)
+Chatterjee R., 2016, PROC CONF LOCAL COMPUT NETW LCN, P205
+    Chatterjee R., Greulich C., Edelkamp S., Optimizing last mile delivery using public transport with multi-agent based control, IEEE 41St Conference on Local Computer Networks Workshops, pp. 205-212, (2016)
+Dahane M., 2017, J INTELL MANUF, V28, P1531
+    Dahane M., Sahnoun M.H., Bettayeb B., Baudry D., Boudhar H., Impact of spare parts remanufacturing on the operation and maintenance performance of offshore wind turbines: A multi-agent approach, J. Intell. Manuf, 28, pp. 1531-1549, (2017)
+De Souza Henriques R., 2019, J INTELL MANUF, V30, P1009
+    De Henriques Souza R., Multi-agent system approach applied to a manufacturer's supply chain using global objective function and learning concepts, Journal of Intelligent Manufacturing, 30, 3, pp. 1009-1019, (2019)
+De Souza Henriques R., 2019, J INTELL MANUF, V30, P1009
+    de Souza Henriques R., Multi-agent system approach applied to a manufacturer's supply chain using global objective function and learning concepts, Journal of Intelligent Manufacturing, 30, 3, pp. 1009-1019, (2019)
+Deqqaq H., 2018, PROC INT CONF IND ENG OPER MANAGE, V2018, P3187
+    Deqqaq H., Abouabdellah A., Agent based modelling for a sustainable distribution network: A Moroccan case study of a retail logistics network, Proceedings of the International Conference on Industrial Engineering and Operations Management, (2018)
+Deshmukh J., 2022, FRONT ROBOT  AI, V9
+    Deshmukh J., Srinivasa S., Computational transcendence: responsibility and agency, Front. Robot. AI, 9, (2022)
+Deshmukh J., 2022, FRONT ROBOT  AI, V9
+    Deshmukh Jayati, Srinivasa Srinath, Computational Transcendence: Responsibility and agency, Frontiers in Robotics and AI, 9, 2022, (2022)
+Dominguez R., 2018, OMEGA, V79, P116
+    Dominguez R., Cannella S., Povoa A.P., Framinan J.M., Information sharing in supply chains with heterogeneous retailers, Omega, 79, pp. 116-132, (2018)
+Dominguez R., 2018, TRANSP RES PART E LOGIST TRANSP REV, V110, P122
+    Dominguez R., Cannella S., Barbosa-Povoa A.P., Framinan J.M., OVAP: A strategy to implement partial information sharing among supply chain retailers, Transp. Res. PartELogist. Transp. Rev, 220, pp. 122-136, (2018)
+Dominguez R., 2020, SUSTAINABILITY, V12, P1
+    Dominguez R, Cannella S., Insights on multi-agent systems applications for supply chain management, Sustain-ability, 12, 5, (2020)
+Dominguez R., 2020, SUSTAINABILITY, V12, P1
+    Dominguez R., Cannella S., Insights on multi-agent systems applications for supply chain management, Sustain, 12, 5, pp. 1-13, (2020)
+Dominguez R., 2020, SUSTAINABILITY, V12, P1
+    Dominguez R., Cannella S., Insights on multi-agent systems applications for supply chain management, Sustainability, 12, 5, (2020)
+Du J., 2020, INF SYST FRONT, V22, P1467
+    Du J., Jing H., Choo K.-K.-R., Sugumaran V., Castro-Lacouture D., An ontology and multi-agent based decision support framework for prefabricated component supply chain, Inf. Syst. Front., 22, pp. 1467-1485, (2020)
+Du J., 2020, INF SYST FRONT, V22, P1467
+    Du J., Jing H., Choo K.K.R., Sugumaran V., Castro-Lacouture D., An ontology and multi-agent based decision support framework for prefabricated component supply chain, Inf. Syst. Front, 22, pp. 1467-1485, (2020)
+Farsi M., 2020, J MANUF MATER PROCESS, V4
+    Farsi M., Latsou C., Erkoyuncu J.A., Morris G., RFID application in a multi-agent cyber physical manufacturing system, Journal of Manufacturing and Materials Processing, 4, 4, (2020)
+Fedorov E., 2022, CEUR WORKSHOP PROC, V3156, P33
+    Fedorov E., Nechyporenko О., Modeling of Negotiations Between Supply Chain Participants Based on a Multi-Agent System, CEUR Workshop Proceedings, 3156, pp. 33-43, (2022)
+Fiedler A., 2022, COMPUT IND ENG, V168
+    Fiedler A., An agent-based negotiation protocol for supply chain finance, Computers & Industrial Engineering, 168, (2022)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A., Modeling city logistics using adaptive dynamic programming based multi-agent simulation, Transp. Res. Part E, 125, pp. 74-96, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A., Modeling city logistics using adaptive dynamic programming based multi-agent simulation, Transp. Res. Part E: Log. Transp. Rev., 125, pp. 74-96, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A.G., Modeling City Logistics using Adaptive Dynamic Programming Based Multi-Agent Simulation, Transportation Research Part E: Logistics and Transportation Review, 125, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A.G., Modeling City Logistics using Adaptive Dynamic Programming Based Multi-Agent Simulation, Transportation Research Part E: Logistics and Transportation Review, 2019, pp. 74-96, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A.G., Modeling City Logistics using Adaptive Dynamic Programming based Multi-Agent Simulation, Transportation Research Part e, 125, pp. 74-96, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A.G., Modeling City Logistics using adaptive dynamic programming based multi-agent simulation, Transportation Research Part e, 125, pp. 74-96, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A.G., Modeling city logistics using adaptive dynamic programming based multi-agent simulation, Transport. Res. E Logist. Transport. Rev., 125, pp. 74-96, (2019)
+Firdausiyah N., 2019, TRANSP RES PART E LOGIST TRANSP REV, V125, P74
+    Firdausiyah N., Taniguchi E., Qureshi A.G., Modeling city logistics using adaptive dynamic programming based multi-agent simulation, Transportation Research Part E: Logistics and Transportation Review, 125, pp. 74-96, (2019)
+Fu J., 2015, ENG APPL ARTIF INTELL, V44, P91
+    Fu J., Fu Y., An adaptive multi-agent system for cost collaborative management in supply chains, Eng Appl Artif Intell, 44, pp. 91-100, (2015)
+Fu J., 2015, ENG APPL ARTIF INTELL, V44, P91
+    Fu J., Fu Y., An adaptive multi-agent system for cost collaborative management in supply chains, Eng. Appl. Artif. Intell., 44, pp. 91-100, (2015)
+Fu J., 2015, ENG APPL ARTIF INTELL, V44, P91
+    Fu J., Fu Y., An adaptive multi-agent system for cost collaborative management in supply chains, Engineering Applications of Artificial Intelligence, 44, pp. 91-100, (2015)
+Gallab M., 2017, J LOSS PREV PROCESS IND, V47, P41
+    Gallab M., Bouloiz H., Garbolino E., Tkiouat M., ElKilani M. A., Bureau N., Risk analysis of maintenance activities in a LPG supply chain with a Multi-Agent approach, J. Loss Prev. Process Ind, 47, pp. 41-56, (2017)
+Gallab M., 2017, J LOSS PREV PROCESS IND, V47, P41
+    Gallab M., Bouloiz H., Garbolino E., Tkiouat M., ElKilani M.A., Bureau N., Risk analysis of maintenance activities in a LPG supply chain with a multi-agent approach, Journal of Loss Prevention in the Process Industries, 47, pp. 41-56, (2017)
+Gallab M., 2017, J LOSS PREV PROCESS IND, V47, P41
+    Gallab M., Bouloiz H., Garbolino E., Tkiouat M., Kilani M.A.E., Bureau N., Risk analysis of maintenance activities in a lpg supply chain with a multi-agent approach, Journal of Loss Prevention in the Process Industries, 47, pp. 41-56, (2017)
+Garcia E., 2016, ENTERP INF SYST, V10, P303
+    Garcia E., Giret A., Botti V., Designing normative open virtual enterprises, Enterprise Information Systems, 10, 3, pp. 303-324, (2016)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Ghassemi Toosi F., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, European Journal of Operational Research, 269 No, 1, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Ghassemi Toosi F., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, European Journal of Operational Research, 269, 1, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Ghassemi Toosi F., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, European Journal of Operational Research, 269, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Ghassemi Toosi F., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain., European Journal of Operational Research, 269, 1, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Toosi F.G., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, Eur. J. Oper. Res, 269, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Toosi F.G., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, Eur. J. Oper. Res., 269, 1, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Toosi F.G., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, European J. Oper. Res., 269, 1, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Toosi F.G., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, European Journal of Operational Research, 269, 1, pp. 286-301, (2018)
+Ghadimi P., 2018, EUR J OPER RES, V269, P286
+    Ghadimi P., Toosi F.G., Heavey C., A multi-agent systems approach for sustainable supplier selection and order allocation in a partnership supply chain, European Journal ofOperational Research, (2018)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M., Heavey C., Intelligent sustainable supplier selection using multi-agent technology: Theory and application for Industry 4.0 supply chains, Computers & Industrial Engineering, 127, pp. 588-600, (2019)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M.K., Heavey C., Intelligent sustainable supplier selection using multi-agent technology: Theory and application for Industry 4.0 supply chains, Comput. Ind. Eng., 127, pp. 588-600, (2019)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M.K., Heavey C., Intelligent sustainable supplier selection using multi-agent technology: Theory and application for industry 4. 0 supply chains, Computers & Industrial Engineering, 127, pp. 588-600, (2019)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M.K., Heavey C., Intelligent sustainable supplier selection using multi-agent technology: Theory and application for industry 4.0 supply chains, Comput. Ind. Eng, 127, pp. 588-600, (2019)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M.K., Heavey C., Intelligent sustainable supplier selection using multi-agent technology: Theory and application for industry 4.0 supply chains, Computers & Industrial Engineering, 127, pp. 588-600, (2019)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M.K., Heavey C., Intelligent sustainable supplier selection using multi-agent technology: theory and application for industry 4.0 supply chains, Computers & Industrial Engineering, 127, pp. 588-600, (2019)
+Ghadimi P., 2019, COMPUT IND ENG, V127, P588
+    Ghadimi P., Wang C., Lim M.K., Heavey C., Intelligent, sustainable supplier selection using multi-agent technology: Theory and application for Industry 4.0 supply chains, Comput Ind Eng, 127, pp. 588-600, (2019)
+Gharaei A., 2018, APPL SOFT COMPUT J, V65, P577
+    Gharaei A., Jolai F., A multi-agent approach to the integrated production scheduling and distribution problem in multi-factory supply chain, Appl Soft Comput, 65, pp. 577-589, (2018)
+Gharaei A., 2018, APPL SOFT COMPUT J, V65, P577
+    Gharaei A., Jolai F., A multi-agent approach to the integrated production scheduling and distribution problem in multi-factory supply chain, Appl. Soft. Comput. J., 65, pp. 577-589, (2018)
+Gharaei A., 2018, APPL SOFT COMPUT J, V65, P577
+    Gharaei A., Jolai F., A multi-agent approach to the integrated production scheduling and distribution problem in multi-factory supply chain, Applied Soft Computing, 65, pp. 577-589, (2018)
+Gharaei A., 2021, INT TRANS OPER RES, V28, P2139
+    Gharaei A., Jolai F., An ERNSGA-III algorithm for the production and distribution planning problem in the multi-agent supply chain, Int. Trans. Oper. Res., 28, 4, pp. 2139-2168, (2021)
+Giannakis M., 2016, J ENTERP INF MANAGE, V29, P706
+    Giannakis M., Louis M., A multi-agent based system with big data processing for enhanced supply chain agility, J. Enterprise Inf. Manag., 29, 5, pp. 706-727, (2016)
+Giannakis M., 2016, J ENTERP INF MANAGE, V29, P706
+    Giannakis M., Louis M., A multi-agent based system with big data processing for enhanced supply chain agility, Journal of Enterprise Information Management, (2016)
+Giannakis M., 2016, J ENTERP INF MANAGE, V29, P706
+    Giannakis M., Louis M., A multi-agent based system with big data processing for enhanced supply chain agility, Journal of Enterprise Information Management, 29, 5, pp. 706-727, (2016)
+Hanga K.M., 2019, COMPUT SCI REV, V34
+    Hanga K.M., Kovalchuk Y., Machine learning and multi-agent systems in oil and gas industry applications: A survey, Computer Science Review, 34, (2019)
+Hanga K.M., 2019, COMPUT SCI REV, V34
+    Hanga K.M., Kovalchuk Y., Machine learning and multi-agent systems in oil and gas industry applications: a survey, Computer Science Review, 34, (2019)
+Hogenboom A., 2015, DECIS SCI, V46, P791
+    Hogenboom A., Ketter W., Dalen J., Kaymak U., Collins J., Gupta A., Adaptive tactical pricing in multi-agent supply chain markets using economic regimes, Decision Sciences, 46, 4, pp. 791-818, (2015)
+Hogenboom A., 2015, DECIS SCI, V46, P791
+    Hogenboom A., Ketter W., van Dalen J., Kaymak U., Collins J., Gupta A., Adaptive Tactical Pricing in Multi-Agent Supply Chain Markets Using Economic Regimes, Decision Sciences, 46, 4, pp. 791-818, (2015)
+Hou Y., 2018, TRANSP RES PART E LOGIST TRANSP REV, V116, P229
+    Hou Y., Wang X., Wu Y.J., He P., How does the trust affect the topology of supply chain network and its resilience? An agent-based approach, Transp. Res. Part E Logist. Transp. Rev, 116, pp. 229-241, (2018)
+Hsieh F.-S., 2019, J IND ENG INT, V15, P249
+    Hsieh F.S., Dynamic configuration and collaborative scheduling in supply chains based on scalable multi-agent architecture, J. Ind. Eng. Int, 15, pp. 249-269, (2019)
+Hsieh F.-S., 2019, J IND ENG INT, V15, P249
+    Hsieh F.S., Dynamic configuration and collaborative scheduling in supply chains based on scalable multi-agent architecture, Journal of Industrial Engineering International, 15, 2, pp. 249-269, (2019)
+Hsu C.-Y., 2016, APPL SOFT COMPUT J, V48, P703
+    Hsu C. Y., Kao B. R., Ho V. L., Li L., Lai K. R., An agent-based fuzzy constraint-directed negotiation model for solving supply chain planning and scheduling problems, Applied Soft Computing, 48, pp. 703-715, (2016)
+Hsu C.-Y., 2016, APPL SOFT COMPUT J, V48, P703
+    Hsu C.-Y., Kao B.-R., Ho V.L., Li L., Lai K.R., An agent-based fuzzy constraint-directed negotiation model for solving supply chain planning and scheduling problems, Appl. Soft Comput., 48, pp. 703-715, (2016)
+Hsu C.-Y., 2016, APPL SOFT COMPUT J, V48, P703
+    Hsu C.-Y., Kao B.-R., Li L., Lai K.R., An agent-based fuzzy constraint-directed negotiation model for solving supply chain planning and scheduling problems, Applied Soft Computing, 48, pp. 703-715, (2016)
+Huang J., 2018, INT J PROD RES, V56, P2322
+    Huang J., Song J., Optimal Inventory Control with Sequential Online Auction in Agriculture Supply Chain: An Agent-Based Simulation Optimisation Approach, International Journal of Production Research, 56, 6, pp. 2322-2338, (2018)
+Huang J., 2018, INT J PROD RES, V56, P2322
+    Huang J., Song J., Optimal inventory control with sequential online auction in agriculture supply chain: An agent-based simulation optimisation approach, Int. J. Prod. Res, 56, pp. 2322-2338, (2018)
+Jiang W., 2016, XITONG FANGZHEN XUEBAO, V28, P51
+    Jiang W.X., Hu X.Z., Liu M.X., Et al., Information collaboration model of cloud computing supply chain based on multi-agent, Journal of System Simulation, 28, 1, pp. 51-56, (2016)
+Julian V., 2019, APPL SCI, V9
+    Palanca J., Terrasa A., Carrascosa C., Julian V., SimFleet: a new transport fleet simulator based on MAS, International Conference on Practical Applications of Agents and Multi-Agent Systems, pp. 257-264, (2019)
+Kamiebisu R., 2022, PROCEDIA CIRP, V107, P687
+    Kamiebisu R., Saso T., Nakao J., Liu Z., Nishi T., Matsuda M., Use cases of the platform for structuring a smart supply chain in discrete manufacturing, Procedia CIRP, 107, pp. 687-692, (2022)
+Khayyat M., 2016, TRANSP RES PROCEDIA, V12, P325
+    Khayyat M., Awasthi A., An Intelligent Multi-agent Based Model for Collaborative Logistics Systems, Transportation Research Procedia, 12, pp. 325-338, (2016)
+Kim B., 2024, IISE TRANS, V56, P715
+    Kim B., Kim J.G., Lee S., A multi-agent reinforcement learning model for inventory transshipments under supply chain disruption, IISE Trans, 56, pp. 715-728, (2024)
+Kong X.T.R., 2021, INT J PROD ECON, V233
+    Kong X.T.R., Kang K., Zhong R.Y., Luo H., Xu S.X., Cyber physical system-enabled on-demand logistics trading, International Journal of Production Economics, 233, (2021)
+Krejci C.C., 2015, JASSS, V18, P1
+    Krejci C., Beamon B., Impacts of farmer coordination decisions on food supply chain structure, J. Artif. Soc. Soc. Simul, 18, (2015)
+Kumari S., 2015, ROB COMPUT INTEGR MANUF, V36, P36
+    Kumari S., Singh A., Mishra N., Garza-Reyes J.A., A Multi-Agent Architecture for Outsourcing SMEs Manufacturing Supply Chain, Robotics and Computer-Integrated Manufacturing, 36, pp. 36-44, (2015)
+Kumari S., 2015, ROB COMPUT INTEGR MANUF, V36, P36
+    Kumari S., Singh A., Mishra N., Garza-Reyes J.A., A multi-agent architecture for outsourcing SMEs manufacturing supply chain, Robot Comput Integr Manuf, 36, pp. 36-44, (2015)
+Kumari S., 2015, ROB COMPUT INTEGR MANUF, V36, P36
+    Kumari S., Singh A., Mishra N., Garza-Reyes J.A., A multi-agent architecture for outsourcing SMEs manufacturing supply chain, Robotics and Computer-Integrated Manufacturing, (2015)
+Lawrence H., 2019, INT CONF HARB MARIT MULTIMODAL LOGIST MODEL SIMUL HMS, P79
+    Lawrence H., Yulia L., Mahwish A., A multi-agent system with blockchain for container stacking and dispatching, Proceedings of the 21st International Conference on Harbor, Maritime and Multimodal Logistic Modeling & Simulation (HMS 2019), pp. 79-87, (2019)
+Liu Z./1, 2022, ENTROPY, V24
+    Liu Z., Jahanshahi H., Volos C., Bekiros S., He S., Alassafi M., Ahmad A., Distributed consensus tracking control of chaotic multi-agent supply chain network: A new fault-tolerant, finite-time, and chatter-free approach, Entropy, 24, (2022)
+Liu Z./1, 2022, ENTROPY, V24
+    Liu Z., Jahanshahi H., Volos C., Bekiros S., He S., Alassafi M.O., Ahmad A.M., Distributed Consensus Tracking Control of Chaotic Multi-Agent Supply Chain Network: A New Fault-Tolerant, Finite-Time, and Chatter-Free Approach, Entropy, 24, 1, (2022)
+Long Q., 2016, KNOWL BASED SYST, V96, P84
+    Long Q.Q., A multi-methodological collaborative simulation for interorganizational supply chain networks, Knowl.-Based Syst, 96, pp. 84-95, (2016)
+Matsuda M., 2020, PROCEDIA CIRP, V93, P688
+    Matsuda M., Nishi T., Hasegawa M., Terunuma T., Construction of a virtual supply chain using enterprise e-catalogues, Procedia CIRP, 93, pp. 688-693, (2020)
+Matsuda M., 2021, PROCEDIA CIRP, V104, P351
+    Matsuda M., Nishi T., Kamiebisu R., Hasegawa M., Alizadeh R., Liu Z., Use of virtual supply chain constructed by cyber-physical systems concept, Procedia CIRP, 104, pp. 351-356, (2021)
+Matsune T., 2019, ICAART PROC INT CONF AGENTS ARTIF INTELL, V1, P194
+    Matsune T., Fujita K., Designing a flexible supply chain network with autonomous agents, ICAART 2019, 1, pp. 194-201, (2019)
+Meisheri H., 2022, NEURAL COMPUT APPL, V34, P1735
+    Meisheri H., Et al., Scalable multi-product inventory control with lead time constraints using reinforcement learning, Neural Comput. Appl., 34, 3, pp. 1735-1757, (2022)
+Mekki A.B., 2019, PROCEDIA COMPUT SCI, V164, P245
+    Ben Mekki A., Tounsi J., Ben Said L., Fuzzy multi agent approach for monitoring SMEs sustainable SC under uncertainty, Procedia Computer Science, 164, C, pp. 245-250, (2019)
+Mekki A.B., 2019, PROCEDIA COMPUT SCI, V164, P245
+    Ben Mekki A., Tounsi J., Lamjed B.S., Fuzzy multi-agent approach for monitoring smes sustainable sc under uncertainty, Procedia Computer Science, (2019)
+Mousa M., 2024, COMPUT CHEM ENG, V188
+    Mousa M., Van De Berg D., Kotecha N., Del Rio Chanona E.A., Mowbray M., An analysis of multi-agent reinforcement learning for decentralized inventory control systems, Comput. Chem. Eng., 188, (2024)
+Nejma M., 2019, DECIS SCI LETT, V8, P175
+    Nejma M., Zair F., Cherkaoui A., Fourka M., Advanced supplier selection: A hybrid multi-agent negotiation protocol supporting supply chain dyadic collaboration, Decis. Sci. Lett, pp. 175-192, (2019)
+Nejma M., 2019, DECIS SCI LETT, V8, P175
+    Nejma M., Zair F., Cherkaoui A., Fourka M., Advanced supplier selection: A hybrid multi-agent negotiation protocol supporting supply chain dyadic collaboration, Decision Science Letters, 8, 2, pp. 175-192, (2019)
+Nejma M., 2019, DECIS SCI LETT, V8, P175
+    Nejma M., Zair F., Cherkaoui A., Fourka M., Advanced supplier selection: A hybrid multi-agent negotiation protocol supporting supply chain dyadic collaboration, Decision Science Letters, pp. 175-192, (2019)
+Nishi T./1, 2020, INT J AUTOM TECHNOL, V14, P713
+    Nishi T., Matsuda M., Hasegawa M., Alizadeh R., Liu Z., Terunuma T., Automatic construction of virtual supply chain as multi-agent system using enterprise E-catalogues, International Journal of Automation Technology, 14, 5, pp. 713-722, (2020)
+Nitsche B., 2023, SUPPLY CHAIN MANAGE, V28, P894
+    Nitsche B., Brands J., Treiblmaier H., Gebhardt J., The impact of multiagent systems on autonomous production and supply chain networks: use cases, barriers and contributions to logistics network resilience, Supply Chain Manag.: Int. J., 28, 5, pp. 894-908, (2023)
+Perera L.C.M., 2016, INT J DES NAT ECODYN, V11, P107
+    Karunananda A., Perera L.C.M., Using a multi-agent system for supply chain management, International Journal of Design & Nature and Ecodynamics, 11, 2, pp. 107-115, (2016)
+Perera L.C.M., 2016, INT J DES NAT ECODYN, V11, P107
+    Perera L.C.M., Karunananda A.S., Using a multi-agent system for supply chain management, Int. J. Des. Nat. Ecodynamics, 11, 2, pp. 107-115, (2016)
+Perera L.C.M., 2016, INT J DES NAT ECODYN, V11, P107
+    Perera M., Karunananda A.S., Using a multi-agent system for supply chain management, Design & Nature and Ecodynamics, 11, 2, pp. 107-115, (2016)
+Perez M.-J., 2024, IFACPAPERSONLINE, V58, P682
+    Perez M.J., Chargui T., Trentesaux D., Improving the environmental impact of empty containers in water-road hubs: A physical internet approach, IFAC-PapersOnLine, 58, pp. 682-687, (2024)
+Plinere D., 2019, ADV INF ELECTRON ELECTR ENG AIEEE PROC IEEE WORKSHOP, V2019-November
+    Plinere D., Merkurvev Y., Designing A Multi-Agent System for Improving Supply Chain Performance, 2019 IEEE 7th IEEE Workshop on Advances in Information, Electronic and Electrical Engineering (AIEEE), pp. 1-7, (2019)
+Rahimi N., 2018, IEEE ROBOT AUTOM, V3, P4415
+    Rahimi N., Liu J., Shishkarev A., Buzytsky I., Banerjee A.G., Auction bidding methods for multiagent consensus optimization in supply-demand networks, IEEE Robot. Automat. Lett, 3, 4, pp. 4415-4422, (2018)
+Ren L., 2022, IEEE TRANS INTELL TRANSP SYST, V23, P16410
+    Ren L., Fan X., Cui J., Et al., A multi-agent reinforcement learning method with route recorders for vehicle routing in supply Chain management, IEEE Trans. Intell. Transport. Syst., 23, 9, pp. 16410-16420, (2022)
+Ren L., 2022, IEEE TRANS INTELL TRANSP SYST, V23, P16410
+    Ren L., Fan X., Cui J., Shen Z., Lv Y., Xiong G., A multi-agent reinforcement learning method With route recorders for vehicle routing in supply chain management, IEEE Transactions on Intelligent Transportation Systems, pp. 16410-16420, (2022)
+Rzevski G., 2018, PROC INT CONF CONTROL ARTIF INTELL ROBOT OPTIM ICCAIRO, P14
+    Rzevski G., Skobelev P., Zhilyaev A., Lakhin O., Mayorov I., Simonova E., Ontology-driven multi-agent engine for real time adaptive scheduling, Proceedings of the International Conference on Control, Artificial Intelligence, Robotics and Optimization (ICCAIRO 2018), pp. 14-22, (2018)
+Saraeian S., 2019, INF SCI, V501, P84
+    Saraeian S., Shirazi B., Motameni H., Optimal autonomous architecture for uncertain processes management, Inf. Sci, 501, pp. 84-99, (2019)
+Sembiring N., 2020, MECNIT INT CONF MECH ELECTRON COMPUT IND TECHNOL, P114
+    Sembiring N., Sipayung R.I.P., Developing Multi-Agent Systems Using Agent-Based and Geographic Information System Simulation, 2020, pp. 114-117, (2020)
+Shukla N., 2016, INT J PROD RES, V54, P6984
+    Shukla N., Kiridena S., A fuzzy rough sets-based multi-Agent analytics framework for dynamic supply chain configuration, IJPR, 54, 23, pp. 6984-6996, (2016)
+Shukla N., 2016, INT J PROD RES, V54, P6984
+    Shukla N., Kiridena S., A fuzzy rough sets-based multi-agent analytics framework for dynamic supply chain configuration, Int. J. Coop. Inf. Syst., 54, 23, pp. 6984-6996, (2016)
+Shukla N., 2016, INT J PROD RES, V54, P6984
+    Shukla N., Kiridena S., A fuzzy rough sets-based multi-agent analytics framework for dynamic supply chain configuration, Int. J. Prod. Res, 54, pp. 6984-6996, (2016)
+Shukla N., 2016, INT J PROD RES, V54, P6984
+    Shukla N., Kiridena S., A fuzzy rough sets-based multi-agent analytics framework for dynamic supply chain configuration, Int. J. Prod. Res., 54, 23, pp. 6984-6996, (2016)
+Shukla N., 2016, INT J PROD RES, V54, P6984
+    Shukla N., Kiridena S., A fuzzy rough sets-based multi-agent analytics framework for dynamic supply chain configuration, International Journal of Production Research, 54, 23, pp. 6984-6996, (2016)
+Skobelev P.O., 2018, LECT NOTES COMPUT SCI, V10978 LNAI, P12
+    Skobelev P., Towards autonomous AI systems for resource management: Applications in industry and lessons learned, Proceedings of The 16th International Conference on Practical Applications of Agents and Multiagent Systems (PAAMS 2018), pp. 12-25, (2018)
+Skobelev P.O., 2018, LECT NOTES COMPUT SCI, V10978 LNAI, P12
+    Skobelev P., Towards autonomous ai systems for resource management: Applications in industry and lessons learned, Advances in Practical Applications of Agents, Multi-Agent Systems, and Complexity: The PAAMS Collection. PAAMS 2018. LNAI, 10978, pp. 12-25, (2018)
+Sun T.-C., 2022, FRACTALS, V30
+    Sun T., Yousefpour A., Karaca E., Alassafi M., Ahmad A., Li Y., Dynamical investigation and distributed consensus tracking control of a variable-order fractional supply chain network using a multi-agent neural network-based control method, Fractals, 30, (2022)
+Swain S., 2022, IEEE INT CONF BLOCKCHAIN DISTRIB SYST SECUR ICBDS
+    Swain S., Patra M.R., A distributed agent-oriented framework for blockchain-enabled supply chain management, 2022 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS), pp. 1-7, (2022)
+Swain S., 2022, IEEE INT CONF BLOCKCHAIN DISTRIB SYST SECUR ICBDS
+    Swain S., Patra M.R., A distributed agent-oriented framework for blockchain-enabled supply chain management, 2022 IEEE International Conference on Blockchain and Distributed Systems Security, pp. 1-7, (2022)
+Swain S., 2022, PROC INT CONF COMPUT INTELL NETW CINE, V2022-December
+    Swain S., Patra M.R., A distributed software agent-oriented traceability milieu for blockchain-enabled supply Cchain, 2022 5Th International Conference on Computational Intelligence and Networks, pp. 1-6, (2022)
+Swain S., 2022, PROC INT CONF COMPUT INTELL NETW CINE, V2022-December
+    Swain S., Patra M.R., A distributed software agent-oriented traceability milieu for blockchain-enabled supply chain, 2022 5Th International Conference on Computational Intelligence and Networks (CINE), pp. 1-6, (2022)
+Swain S., 2024, SN OPER RES FORUM, V5
+    Swain S., Patra M.R., A distributed software agent-centric framework for supply chain networks empowered by blockchain: Insights into smart contracts, Operations., 5, 2, pp. 1-27, (2024)
+Tanaka K., 2016, INT J AUTOM TECHNOL, V10, P632
+    Tanaka K., Gu S. M., Zhang J., Designing multi-agent simulation with big time series data for a global supply chain system, International Journal of Automation Technology, 10, 4, pp. 632-638, (2016)
+Tanaka K., 2016, INT J AUTOM TECHNOL, V10, P632
+    Tanaka K., Gu S., Zhang J., Designing Multi-Agent Simulation with Big Time Series Data for a Global Supply Chain System, International Journal of Automation Technology, 10, 4, pp. 632-638, (2016)
+Tanaka K., 2016, INT J AUTOM TECHNOL, V10, P632
+    Tanaka K., Gu S.-M., Zhang J., Designing multi-agent simulation with big time series data for a global supply chain system, Int. J. Autom. Technol., 10, 4, pp. 632-638, (2016)
+Tanaka K., 2016, INT J AUTOM TECHNOL, V10, P632
+    Tanaka K., Gu S.-M., Zhang J., Designing multi-agent simulation with big time series data for a global supply chain system, Int. J. Automation Technol, 10, 4, pp. 632-638, (2016)
+Tanaka K., 2016, INT J AUTOM TECHNOL, V10, P632
+    Tanaka K., Gu S.-M., Zhang J., Designing multi-agent simulation with big time series data for a global supply chain system, International Journal of Automation Technology, 10, pp. 632-638, (2016)
+Taniguchi E., 2020, TRANSP RES PROCEDIA, V46, P3
+    Taniguchi E., Thompson R.G., Qureshi A.G., Modelling city logistics using recent innovative technologies, Transportation Research Procedia, 46, pp. 3-12, (2020)
+Teo J.S.-E., 2015, TRANSP RES REC, V2478, P35
+    Teo J.S.E., Taniguchi E., Qureshi A.G., Evaluation of urban distribution centers using multiagent modeling with geographic information systems, Transp. Res. Rec. J. Transp. Res. Board, 2478, pp. 35-47, (2015)
+Terrada L., 2018, INT CONF ELECTRON CONTROL OPTIM COMPUT SCI ICECOCS
+    Terrada L., Alloubane A., Bakkoury J., Khaili M.E., IoT contribution in Supply Chain Management for Enhancing Performance Indicators, 2018 International Conference on Electronics, Control, Optimization and Computer Science (ICECOCS), pp. 1-5, (2018)
+Terrada L., 2018, INT CONF ELECTRON CONTROL OPTIM COMPUT SCI ICECOCS
+    Terrada L., Bakkoury J., Khaili M.E., IoT contribution in Supply Chain Management for Enhancing Performance Indicators, International Conference on Electronics, Control, Optimization and Computer Science (ICECOCS), (2018)
+Terrada L., 2020, PROCEDIA COMPUT SCI, V177, P624
+    Terrada L., El Khaili M., Hassan O., Multi-Agents System Implementation for Supply Chain Management Making-Decision, Procedia Computer Science, 177, pp. 624-630, (2020)
+Terrada L., 2020, PROCEDIA COMPUT SCI, V177, P624
+    Terrada L., El Khaili M., Ouajji H., Multi-agents system implementation for supply chain management making-decision, Procedia Comput. Sci., 177, pp. 624-630, (2020)
+Terrada L., 2020, PROCEDIA COMPUT SCI, V177, P624
+    Terrada L., ElKhaili M., Ouajji H., Multi-agents system implementation for supply chain management making-decision, Procedia Comput. Sci, 177, pp. 624-630, (2020)
+Tong X., 2018, J OPER MANAGE, V63, P25
+    Tong X., Lai K.H., Zhu Q., Zhao S., Chen J., Cheng T.C.E., Multinational enterprise buyers' choices for extending corporate social responsibility practices to suppliers in emerging countries: A multi-method study, J. Oper. Manag, 63, pp. 25-43, (2018)
+Wang H., 2022, INT J PROD RES, V60, P4117
+    Wang H., Tao J., Peng T., Brintrup A., Kosasih E.E., Lu Y., Tang R., Hu L., Dynamic inventory replenishment strategy for aerospace manufacturing supply chain: Combining reinforcement learning and multi-agent simulation, Int. J. Prod. Res, 60, pp. 4117-4136, (2022)
+Wang Y., 2015, ADV INTELL SYS COMPUT, V362, P305
+    Wang Y., Wang D., Multi-agent based intelligent supply chain management, Proc. Of the Ninth International Conference on Management Science and Engineering Management, pp. 305-312, (2015)
+Wang Y., 2015, ADV INTELL SYS COMPUT, V362, P305
+    Wang Y., Wang D., Multi-agent based intelligent supply chain management, Proc. of the 9th Int. Conf. on Management Science and Engineering Management, pp. 305-312, (2015)
+Wang Y., 2015, ADV INTELL SYS COMPUT, V362, P305
+    Wang Y., Wang D., Multi-agent based intelligent supply chain management, Proceedings of the Ninth International Conference on Management Science and Engineering Management, pp. 305-312, (2015)
+Wen D., 2019, INT J PROD RES, V57, P3678
+    Wen D., Li J., Xiao T., Impact of quality regulation policy on performance of a remanufacturing supply chain with non-waste returns, Int. J. Prod. Res, 57, pp. 3678-3694, (2019)
+Wen D., 2019, INT J PROD RES, V57, P3678
+    Wen D., Li J., Xiao T., Impact of quality regulation policy on performance of a remanufacturing supply chain with non-waste returns, International Journal of Production Research, 57, 11, pp. 3678-3694, (2019)
+Wen D., 2019, INT J PROD RES, V57, P3678
+    Wen D.P., Li J., Xiao T.J., Impact of quality regulation policy on performance of a remanufacturing supply chain with non-waste returns, Int. J. Prod. Res., 57, 11, pp. 1-17, (2019)
+Wikarek J., 2016, COMMUN COMPUT INFO SCI, V616, P49
+    Wikarek J, Sitek P., A multi-level and multi-agent approach to modeling and solving supply chain problems,  International Conference on Practical Applications of Agents and Multi-Agent Sys-tems. International Workshops of PAAMS 2016, pp. 49-60, (2016)
+Wikarek J., 2016, COMMUN COMPUT INFO SCI, V616, P49
+    Wikarek J., Sitek P., A Multi-level and Multi-agent Approach to Modeling and Solving Supply Chain Problems, Highlights of Practical Applications of Scalable Multi-Agent Systems, 616, (2016)
+Xu L., 2023, IFACPAPERSONLINE, V56, P11076
+    Xu L., Proselkov Y., Schoepf S., Minarsch D., Minaricova M., Brintrup A., Implementation of autonomous supply chains for digital twinning: a multi-agent approach, (2023)
+Xu L., 2023, IFACPAPERSONLINE, V56, P11076
+    Xu L., Proselkov Y., Schoepf S., Minarsch D., Minaricova M., Brintrup A., Implementation of autonomous supply chains for digital twinning: a multi-agent approach, IFAC-PapersOnLine, 56, 2, pp. 11076-11081, (2023)
+Xu L., 2024, COMPUT IND, V161
+    Xu L., Mak S., Minaricova M., Brintrup A., On implementing autonomous supply chains: a multi-agent system approach, Computers in Industry, 161, (2024)
+Yang C., 2018, ADV MECH ENG, V10
+    Yang C., Yang R., Xu T., Et al., Negotiation model and tactics of manufacturing enterprise supply chain based on multi-agent, Adv Mech Eng, 10, pp. 1-8, (2018)
+Yang C., 2018, ADV MECH ENG, V10
+    Yang C., Yang R., Xu T., Li Y., Negotiation Model and Tactics of Manufacturing Enterprise Supply Chain Based on Multi-agent, Advances in Mechanical Engineering, 10, 7, pp. 1-8, (2018)
+Yang C., 2018, ADV MECH ENG, V10
+    Yang C., Yang R., Xu T., Li Y., Negotiation model and tactics of manufacturing enterprise supply chain based on multi-agent, Advances in Mechanical Engineering, 10, 7, (2018)
+Yang C., 2018, ADV MECH ENG, V10
+    Yang C., Yang R., Xu T., Li Y., Negotiation model and tactics of manufacturing enterprise supply chain based on multi-agent, Advances in Mechanical Engineering, 10, 7, pp. 1-8, (2018)
+Yang C., 2018, ADV MECH ENG, V10, MULTI AGENT SINGLE OBJECTIVE 
+    Yang C., Xu T., Yang R., Li Y., Multi-Agent Single-objective Negotiation Mechanism of Personalized Product Supply Chain Base on Personalized Index, Advances in Mechanical Engineering, 10, 10, pp. 1-10, (2018)
+Yang C., 2018, ADV MECH ENG, V10, MULTI AGENT SINGLE OBJECTIVE 
+    Yang C., Xu T., Yang R., Li Y., Multi-agent single-objective negotiation mechanism of personalized product supply chain base on personalized index, Advances in Mechanical Engineering, 10, 10, pp. 1-10, (2018)
+Yang C., 2019, J INTERNET TECHNOL, V20, P389
+    Yang C., Sun J., Research on negotiation of manufacturing enterprise supply chain based on multi-agent, Journal of Internet Technology, 20, 2, pp. 389-398, (2019)
+Yang N., 2022, PROMET TRAFFIC TRANSPORTATION, V34, P711
+    Yang N., Ding Y., Leng J., Zhang L., Supply chain information collaborative simulation model integrating multi-agent and system dynamics, Promet Traffic Transport, 34, 5, pp. 711-724, (2022)
+Yang S., 2019, PROC ACM SIGSPATIAL INT WORKSHOP GEOSPATIAL SIMUL GEOSIM, P24
+    Yang S., Ogawa Y., Ikeuchi K., Akiyama Y., Shibasaki R., Firm-level behavior control after large-scale urban flooding using multi-agent deep reinforcement learning. Proceedings of the 2nd ACM SIGSPATIAL international workshop on GeoSpatial simulation, Chicago, IL, (2019)
+Yu C., 2015, EXPERT SYS APPL, V42, P223
+    Yu C., Wong T.N., An Agent-based Negotiation Model for Supplier Selection of Multiple Products with Synergy Effect, Expert Systems with Applications, 42, 1, pp. 223-237, (2015)
+Yu C., 2015, EXPERT SYS APPL, V42, P223
+    Yu C., Wong T.N., An agent-based negotiation model for supplier selection of multiple products with synergy effect, Expert Syst. Appl, 42, 1, pp. 223-237, (2015)
+Yu C., 2015, EXPERT SYS APPL, V42, P223
+    Yu C., Wong T.N., An agent-based negotiation model for supplier selection of multiple products with synergy effect, Expert Syst. Appl., 42, 1, pp. 223-237, (2015)
+Yu C., 2015, EXPERT SYS APPL, V42, P223
+    Yu C., Wong T.N., An agent-based negotiation model for supplier selection of multiple products with synergy effect, Expert Systems with Applications, 42, 1, pp. 223-237, (2015)
+Yu C., 2015, EXPERT SYS APPL, V42, P223
+    Yu C.X., Wong T.N., An agent-based negotiation model for supplier selection of multiple products with synergy effect, Expert Syst. Appl., 42, pp. 223-237, (2015)
+Yu C., 2015, EXPERT SYS APPL, V42, P223
+    Yu C.X., Wong T.N., An agent-based negotiation model for supplier selection of multiple products with synergy effect, Expert Systems with Applications, 42, pp. 223-237, (2015)
+Yu C., 2015, INT J PROD RES, V53, P6059
+    Yu C., Wong T., A multi-Agent architecture for multi-product supplier selection in consideration of the synergy between products, IJPR, 53, 20, pp. 6059-6082, (2015)
+Yu C., 2015, INT J PROD RES, V53, P6059
+    Yu C., Wong T.N., A Multi-agent Architecture for Multi-product Supplier Selection in Consideration of the Synergy between Products, International Journal of Production Research, 53, 20, pp. 6059-6082, (2015)
+Yu C., 2015, INT J PROD RES, V53, P6059
+    Yu C., Wong T.N., A multi-agent architecture for multi-product supplier selection in consideration of the synergy between products, Int. J. Prod. Res, 53, 20, pp. 6059-6082, (2015)
+Yu C., 2015, INT J PROD RES, V53, P6059
+    Yu C., Wong T.N., A multi-agent architecture for multi-product supplier selection in consideration of the synergy between products, Int. J. Prod. Res., 53, 20, pp. 6059-6082, (2015)
+Yu C., 2015, INT J PROD RES, V53, P6059
+    Yu C., Wong T.N., A multi-agent architecture for multi-product supplier selection in consideration of the synergy between products, International Journal of Production Research, 53, 20, pp. 6059-6082, (2015)
+Yu C., 2017, INT J PROD RES, V55, P18
+    Yu C., Wong T.N., Li Z., A Hybrid Multi-Agent Negotiation Protocol Supporting Supplier Selection for Multiple Products with Synergy Effect, International Journal of Production Research, 55, 1, pp. 18-37, (2017)
+Yu C., 2017, INT J PROD RES, V55, P18
+    Yu C., Wong T.N., Li Z., A hybrid multi-agent negotiation protocol supporting supplier selection for multiple products with synergy effect, Int. J. Coop. Inf. Syst., 55, 1, pp. 18-37, (2017)
+Yu C., 2017, INT J PROD RES, V55, P18
+    Yu C., Wong T.N., Li Z., A hybrid multi-agent negotiation protocol supporting supplier selection for multiple products with synergy effect, International Journal of Production Research, 55, 1, pp. 18-37, (2017)
+Yu F., 2015, INT J PROD RES, V53, P6143
+    Yu F., Kaihara T., Fujii N., Et al., A multi-attribute multi-item negotiation mechanism of supply chain networks between buyers and sellers, International Journal of Production Research, 53, 20, pp. 6143-6160, (2015)
+Yu F., 2015, INT J PROD RES, V53, P6143
+    Yu F., Kaihara T., Fujii N., Sun C., Yang W., A Multi-attribute Multi-item Negotiation Mechanism of Supply Chain Networks between Buyers and Sellers, International Journal of Production Research, 53, 20, pp. 6143-6160, (2015)
+Yu F., 2016, J CLEAN PROD, V137, P29
+    Yu F., Xue L., Sun C., Zhang C., Product transportation distance based supplier selection in sustainable supply chain network, J. Clean. Prod., 137, pp. 29-39, (2016)
+Yu F., 2016, J CLEAN PROD, V137, P29
+    Yu F., Xue L., Sun C.Y., Et al., Product transportation distance based supplier selection in sustainable supply chain network, Journal of Cleaner Production, 137, pp. 29-39, (2016)
+Yu F., 2018, J CLEAN PROD, V170, P880
+    Yu F., Yang Y.S., Chang D.F., Carbon footprint based green supplier selection under dynamic environment, Journal of Cleaner Production, 170, pp. 880-889, (2018)
+Yu F., 2019, IEEE TRANS ENG MANAGE, V66, P266
+    Yu F., Yang Y., Chang D., A complex negotiation model for multi-echelon supply chain networks, IEEE Transactions on Engineering Management, 66, 2, pp. 266-278, (2019)
+Yu Y., 2017, INT J PROD RES, V55, P4341
+    Yu Y., Cao R.Q., Schniederjans D., Cloud Computing and Its Impact on Service Level: A Multi-Agent Simulation Model, International Journal of Production Research, 55, 15, pp. 4341-4353, (2017)
+Yu Y., 2017, INT J PROD RES, V55, P4341
+    Yu Y., Cao R.Q., Schniederjans D., Cloud Computing and its Impact on Service Level: A Multi-agent Simulation Model, International Journal of Production Research, 55, 15, pp. 4341-4353, (2017)
+Yu Y., 2017, INT J PROD RES, V55, P4341
+    Yu Y., Cao R.Q., Schniederjans D., Cloud computing and its impact on service level: A multi-agent simulation model, Int. J. Coop. Inf. Syst., 55, 15, pp. 4341-4353, (2017)
+Zhang K., 2020, TRANSP RES PART C EMERG TECHNOL, V121
+    Zhang K., He F., Zhang Z., Lin X., Li M., Multi-vehicle routing problems with soft time windows: A multi-agent reinforcement learning approach, Transp. Res. Part C: Emerg. Technol., 121, (2020)
+Zhang K., 2020, TRANSP RES PART C EMERG TECHNOL, V121
+    Zhang K., He F., Zhang Z., Lin X., Li M., Multi-vehicle routing problems with soft time windows: A multi-agent reinforcement learning approach, Transp. Res. Pt. C-Emerg. Technol., 121, (2020)
+Zhang K., 2020, TRANSP RES PART C EMERG TECHNOL, V121
+    Zhang K., He F., Zhang Z., Lin X., Li M., Multi-vehicle routing problems with soft time windows: A multi-agent reinforcement learning approach, Transportation Research Part C: Emerging Technologies, 121, (2020)
+Zhang K., 2020, TRANSP RES PART C EMERG TECHNOL, V121
+    Zhang K., Li M., Zhang Z., Lin X., He F., Multi-vehicle routing problems with soft time windows: A multi-agent reinforcement learning approach, Transp. Res. C, 121, (2020)
+Zhang X., 2016, ENERGY POLICY, V97, P276
+    Zhang X., Luo K., Tan Q., A feedstock supply model integrating the official organization for China’s biomass generation plants, Energy Policy, 97, pp. 276-290, (2016)

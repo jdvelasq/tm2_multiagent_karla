@@ -1,0 +1,1422 @@
+[UKN] Actoron GmbH, Germany (DEU)
+    Actoron GmbH, Germany
+[UKN] Actoron GmbH, Richardstr. 49, Hamburg, 22081, Germany (DEU)
+    Actoron GmbH, Richardstr. 49, Hamburg, 22081, Germany
+[UKN] Beijing Key Lab of Energy Econ and Env Manag, Beijing, 100081, China (CHN)
+    Beijing Key Lab of Energy Economics and Environmental Management, Beijing, 100081, China
+[UKN] Bits Pilani K. K. Birla Goa Camp, Dept of Comput Sci and Information Syst, Appcair Lab, Goa, 403726, India (IND)
+    Bits Pilani K. K. Birla Goa Campus, Department of Computer Science and Information Systems, Appcair Laboratory, Goa, 403726, India
+[UKN] BITS Pilani, APPCAIR Lab, KK Birla Goa Camp, Goa, India (IND)
+    BITS Pilani, APPCAIR Lab, KK Birla Goa Campus, Goa, India
+[UKN] Canada Bombardier Ltd, 800 René-Lévesque Blvd, West Montreal, QC, Canada (CAN)
+    Canada Bombardier Limited, 800 René-Lévesque Blvd, West Montreal, QC, Canada
+[UKN] Central Excise Govt. of India, New Delhi, India (IND)
+    Central Excise Govt. of India, New Delhi, India
+[UKN] CESI Lille, LINEACT, Rouen, France (FRA)
+    CESI Lille, LINEACT, Rouen, France
+[UKN] CESI Rouen, LINEACT, Rouen, France (FRA)
+    CESI Rouen, LINEACT, Rouen, France
+[UKN] CHN Energy, Dongcheng, Beijing, 100011, China (CHN)
+    CHN Energy, Dongcheng, Beijing, 100011, China
+[UKN] CIIRC CTU, Jugoslávských Partyzánů 1580/3, Prague, 160 00, Czech Republic (CZE)
+    CIIRC CTU, Jugoslávských Partyzánů 1580/3, Prague, 160 00, Czech Republic
+[UKN] CIRAD, UPR Biowooeb, Montpellier, F-34398, France (FRA)
+    CIRAD, UPR Biowooeb, Montpellier, F-34398, France
+[UKN] Cryogatt Syst Ltd, Kings Langley, WD4 8FR, United Kingdom (GBR)
+    Cryogatt Systems Limited, Kings Langley, WD4 8FR, United Kingdom
+[UKN] Departments of Robotics and Mechanical Eng, Ann Arbor, 48109, MI, United States (USA)
+    Departments of Robotics and Mechanical Engineering, Ann Arbor, 48109, MI, United States
+[UKN] Dept of Artif Intell and Data Sci Koneru Lakshmaiah Education Found, Andhra Pradesh, Vaddeswaram, India (IND)
+    Department of Artificial Intelligence and Data Science Koneru Lakshmaiah Education Foundation, Andhra Pradesh, Vaddeswaram, India
+[UKN] Dept of Artif Intell, Cainiao Network, China (CHN)
+    Department of Artificial Intelligence, Cainiao Network, China
+[UKN] Dept of Bus Design and Manag, Waseda Universty, 3-4-1, Ohkubo, Shinjuku-ku, Tokyo, 169-0072, Japan (JPN)
+    Department of Business Design and Management, Waseda Universty, 3-4-1, Ohkubo, Shinjuku-ku, Tokyo, 169-0072, Japan
+[UKN] Dept. of Informatics, Télécom SudParis, Évry, France (FRA)
+    Dept. of Informatics, Télécom SudParis, Évry, France
+[UKN] DFKI Kaiserslautern, Trippstadter Str 122, Kaiserslautern, 67663, Germany (DEU)
+    DFKI Kaiserslautern, Trippstadter Str 122, Kaiserslautern, 67663, Germany
+[UKN] ECAM Rennes Louis de Broglie, Bruz, France (FRA)
+    ECAM Rennes Louis de Broglie, Bruz, France
+[UKN] ECAM-EPMI, Cergy Pontoise Cedex, 95092, France (FRA)
+    ECAM-EPMI, Cergy Pontoise Cedex, 95092, France
+[UKN] Fetch.ai, Cambridge, CB4 0WS, United Kingdom (GBR)
+    Fetch.ai, Cambridge, CB4 0WS, United Kingdom
+[UKN] Guangdong Provincial Key Lab of Advanced Welding Technol for Ships, CSSC Huangpu Wenchong Shipbuilding Co Ltd, Guangzhou, China (CHN)
+    Guangdong Provincial Key Laboratory of Advanced Welding Technology for Ships, CSSC Huangpu Wenchong Shipbuilding Company Limited, Guangzhou, China
+[UKN] HappyMonk Ai, Bengaluru, 560078, India (IND)
+    HappyMonk Ai, Bengaluru, 560078, India
+[UKN] Hochschule Merseburg, Eberhard-Leibnitz-Str. 2, Merseburg, 06217, Germany (DEU)
+    Hochschule Merseburg, Eberhard-Leibnitz-Str. 2, Merseburg, 06217, Germany
+[UKN] ICCS RAS, Samara, Russian Federation (RUS)
+    ICCS RAS, Samara, Russian Federation
+[UKN] IETR, UMR CNRS 6164, CentraleSupélec, Rennes, France (FRA)
+    IETR, UMR CNRS 6164, CentraleSupélec, Rennes, France
+[UKN] IIT Bombay, Mumbai, India (IND)
+    IIT Bombay, Mumbai, India
+[UKN] IMT Atlantique, IRISA, Rennes, France (FRA)
+    IMT Atlantique, IRISA, Rennes, France
+[UKN] JD Logistic, Beijing, China (CHN)
+    JD Logistic, Beijing, China
+[UKN] KAMAZ, Naberezhnye Chelny, Russian Federation (RUS)
+    KAMAZ, Naberezhnye Chelny, Russian Federation
+[UKN] Knowledge Genesis Group, Samara, Russian Federation (RUS)
+    Knowledge Genesis Group, Samara, Russian Federation
+[UKN] Laboratoire Ingénierie, Manag Industriel et Innovation, FST, Hassan i Univ, BP: 577, Settat, 26000, Morocco (MAR)
+    Laboratoire Ingénierie, Management Industriel et Innovation, FST, Hassan i Univ, BP: 577, Settat, 26000, Morocco
+[UKN] Laboratoire sur les usages informatiques et numériques en entreprises (LUSINE), CESI, 1, Rue G. Marconi, Mont-Saint-Aignan, France (FRA)
+    Laboratoire sur les usages informatiques et numériques en entreprises (LUSINE), CESI, 1, Rue G. Marconi, Mont-Saint-Aignan, France
+[UKN] LINEACT Cesi Rouen, LMI INSA Rouen, Rouen, France (FRA)
+    LINEACT Cesi Rouen, LMI INSA Rouen, Rouen, France
+[UKN] OOO Mezhregionekspertiza, Moskovsky PR., 22, St. Petersburg, 190013, Russian Federation (RUS)
+    OOO Mezhregionekspertiza, Moskovsky PR., 22, St. Petersburg, 190013, Russian Federation
+[UKN] PRIMAGAZ Co, Rue de la Poudrerie, Saint-Pierre des Corps Cedex, 359 37703, France (FRA)
+    PRIMAGAZ Company, Rue de la Poudrerie, Saint-Pierre des Corps Cedex, 359 37703, France
+[UKN] Room C1-1-183, Kyotodaigaku Katsura, Japan (JPN)
+    Room C1-1-183, Kyotodaigaku Katsura, Japan
+[UKN] Room C1-2-335, Japan (JPN)
+    Room C1-2-335, Japan
+[UKN] Room C1-2-338, Japan (JPN)
+    Room C1-2-338, Japan
+[UKN] Schaeffler Industries, Bühl, Germany (DEU)
+    Schaeffler Industries, Bühl, Germany
+[UKN] SEC Smart Solutions, Samara, Russian Federation (RUS)
+    SEC Smart Solutions, Samara, Russian Federation
+[UKN] Signavio GmbH, Berlin, 10787, Germany (DEU)
+    Signavio GmbH, Berlin, 10787, Germany
+[UKN] Simula Res Lab, Oslo, Norway (NOR)
+    Simula Research Laboratory, Oslo, Norway
+[UKN] Soft Eng Co Smart Solutions, Moskovskoe shosse 13, Samara, 443013, Russian Federation (RUS)
+    Software Engineering Company Smart Solutions, Moskovskoe shosse 13, Samara, 443013, Russian Federation
+[UKN] Soft Eng Co «Smart Solutions», 17, Moscovskoe St., Samara, 443013, Russian Federation (RUS)
+    Software Engineering Company «Smart Solutions», 17, Moscovskoe St., Samara, 443013, Russian Federation
+[UKN] Soft Syst & Serv Res, TCS Res, Pune, India (IND)
+    Software Systems & Services Research, TCS Research, Pune, India
+[UKN] SQLI Serv, Technopole Manouba, Manouba, 2010, Tunisia (TUN)
+    SQLI Services, Technopole Manouba, Manouba, 2010, Tunisia
+[UKN] SULLY Group, France (FRA)
+    SULLY Group, France
+[UKN] TCS Res, Mumbai, India (IND)
+    TCS Research, Mumbai, India
+[UKN] TCS Res, Pune, India (IND)
+    TCS Research, Pune, India
+[UKN] Technologie-Initiative SmartFactory KL e.V., Trippstadter Str. 122, Kaiserslautern, 67663, Germany (DEU)
+    Technologie-Initiative SmartFactory KL e.V., Trippstadter Str. 122, Kaiserslautern, 67663, Germany
+[UKN] Telenor Res, Snarøyveien, Fornebu, Norway (NOR)
+    Telenor Research, Snarøyveien, Fornebu, Norway
+[UKN] Test and Evaluation Command, Japan Ground Self Defense Force, Sizuoka Prefecture, Gotemba City, Japan (JPN)
+    Test and Evaluation Command, Japan Ground Self Defense Force, Sizuoka Prefecture, Gotemba City, Japan
+[UKN] TNO Sustainable Transport and Logistics, The Hague, Netherlands (NLD)
+    TNO Sustainable Transport and Logistics, The Hague, Netherlands
+[UKN] Univ. Manouba, ENSI, RIADI LR99ES26, Camp Universitaire Manouba, Manouba, 2010, Tunisia (TUN)
+    Univ. Manouba, ENSI, RIADI LR99ES26, Campus Universitaire Manouba, Manouba, 2010, Tunisia
+[UKN] Wakayama IT Educations, Japan (JPN)
+    Wakayama IT Educations, Japan
+[UKN] Walmart, Bengaluru, India (IND)
+    Walmart, Bengaluru, India
+[UKN] Westfälische Hochschule, Bocholt, 46395, Germany (DEU)
+    Westfälische Hochschule, Bocholt, 46395, Germany
+Abdelhamid Mehri Constantine-2 Univ ([UNKNWON])
+    LIRE Laboratory, Abdelhamid Mehri Constantine-2 University, Ali Mendjeli, Constantine
+Abdelmalek Essaadi Univ (MAR)
+    Department of Mechanical Engineering, Faculty of Sciences and Technics, University of Abdelmalek Essaadi, Tangier, Morocco
+    Mathematics, Informatic & Applications Team, National School of Applied Sciences, Abdelmalek Essaadi University, BP 1818, Tangier, Morocco
+    National School of Applied Sciences Tangier, Abdelmalek Essaadi University, Tangier, Morocco
+    Natural Risk Research Team, Faculty of Science and Technology, Abdelmalek Essaadi University, BP 1818, Tangier, Morocco
+Aberystwyth Univ (GBR)
+    School of Management and Business, Aberystwyth University, United Kingdom
+Addis Ababa Univ (ETH)
+    School of Mechanical and Industrial Engineering, Addis Ababa Institute of Technology, Addis Ababa University, Addis Ababa, Ethiopia
+AGH Univ of Sci and Technol (POL)
+    AGH University of Science and Technology, Krakow, Poland
+Air Force Eng Univ (CHN)
+    Equipment Management and Unmanned Aerial Vehicle Engineering School, Air Force Engineering University, Xi’an, 710051, China
+    Graduate School, Air Force Engineering University, Xi’an, 710051, China
+Air Inst (ESP)
+    Air Institute, IoT Digital Innovation Hub (Spain), Carbajosa de la Sagrada, 37188, Spain
+Al-Balqa' Appl Univ (JOR)
+    Faculty of Prince Abdullah Bin Ghazi of Information Technology, Software Engineering Department, Al-Balqa' Applied University, Salt, Jordan
+Al-Zaytoonah Univ (JOR)
+    Faculty of Science and Information Technology, Department of Software Engineering, Al-Zaytoonah University, Amman, Jordan
+Alan Turing Inst (GBR)
+    Alan Turing Institute, London, NW1 2DB, United Kingdom
+Alexander Technological Educational Inst of Thessaloniki (GRC)
+    Department of Automation Engineering, Alexander Technological Educational Institute of Thessaloniki, 141, Thessaloniki, 574 00, Greece
+    Department of Automation Engineering, Alexander Technological Educational Institute of Thessaloniki, P.O. Box 141, GR-574 00, Thessaloniki, Hellas, Greece
+    Department of Automation Engineering, Alexander Technological Educational Institute of Thessaloniki, P.O. Box 141, Thessaloniki, Hellas, GR-574 00, Greece
+American Univ of Beirut (LBN)
+    Suliman S. Olayan's School of Business, Business Information and Decision Systems, American University of Beirut, Beirut, Lebanon
+Amirkabir Univ (Tehran Polytech) (IRN)
+    Computer and Information Technology Engineering Department, Amirkabir University (Tehran Polytechnic), Tehran, Iran
+Amirkabir Univ of Technol (IRN)
+    Department of Industrial Engineering, Amirkabir University of Technology, 424 Hafez Avenue, Tehran, Iran
+Amity Univ Uttar Pradesh (IND)
+    Department of Information Technology, Amity Institute of Information Technology, Amity University Uttar Pradesh, Noida, India
+    Department of Mathematics, Amity Institute of Applied Sciences, Amity University Uttar Pradesh, Noida, India
+Aristotle Univ of Thessaloniki (GRC)
+    Laboratory of Nonlinear Systems, Circuits & Complexity (LaNSCom), Department of Physics, Aristotle University of Thessaloniki, Thessaloniki, 54124, Greece
+Aston Univ (GBR)
+    Aston University, Birmingham, United Kingdom
+    School of Engineering and Applied Science, University of Aston, Birmingham, United Kingdom
+Athabasca Univ (CAN)
+    School of Computing and Information Systems, Athabasca University, AB, Canada
+Auburn Univ (USA)
+    Auburn University, Auburn, AL, United States
+Audencia Bus Sch (FRA)
+    Audencia Business School, Nantes, France
+Baliuag Univ (PHL)
+    Baliuag University, Bulacan, Baliuag, 3006, Philippines
+Bauman Moscow State Tech Univ (RUS)
+    Sub Department of Dynamics and Flight Control of Rockets and Spacecrafts, Bauman Moscow State Technical University, ul. Baumanskaya 2-ya, 5, Moscow, 105005, Russian Federation
+BBD Univ (IND)
+    Department of Computer Science, BBD University, Lucknow UP, India
+Beihang Univ (CHN)
+    School of Economics and Management, Beihang University, Beijing, China
+    The Beijing Advanced Innovation Center for Big Data-based Precision Medicine, Beihang University, Beijing, 100191, China
+    The Ningbo Institute of Technology, Beihang University, Ningbo, 315800, China
+    The Research Institute for Frontier Science, Beihang University, Beijing, 100191, China
+    The School of Automation Science and Electrical Engineering, Beihang University, Beijing, 100191, China
+Beijing Information Sci Technol Univ (CHN)
+    Beijing Information Science Technology University, School of Automation, Beijing, 100192, China
+    School of Automation, Beijing Information Science and Technology University, Beijing, 100192, China
+    School of Automation, Beijing Information Science and Technology University, Beijing, China
+Beijing Inst of Technol (CHN)
+    School of Management and Economics, Beijing Institute of Technology, Beijing, 100081, China
+Beijing Jiaotong Univ (CHN)
+    School of Economics and Management, Beijing Jiaotong University, Beijing, 100044, China
+    School of Traffic and Transportation, Beijing Jiaotong University, Beijing, China
+Beijing Univ of Technol (CHN)
+    Beijing Dublin International College (BDIC), Beijing University of Technology, Beijing, 100124, China
+    Faculty of Information Technology, Beijing University of Technology, Beijing, China
+    Research Base of Beijing Modern Manufacturing Development, College of Economics and Management, Beijing University of Technology, Beijing, 100124, China
+Berhampur Univ (IND)
+    Berhampur University, Department of Computer Science, Odisha, Berhampur, India
+    Department of Computer Science, Berhampur University, Odisha, Berhampur, 760007, India
+    Department of Computer Science, Berhampur University, Odisha, Berhampur, India
+Berlin Univ of Technol (DEU)
+    Dept. of Logistics and SCM, Institute of Technology and Management, Berlin University of Technology, Strasse des 17. Juni 135, Berlin, 10623, Germany
+BIBA Bremer Institut für Produktion und Logistik GmbH (DEU)
+    BIBA Bremer Institut für Produktion und Logistik GmbH, Bremen, 28359, Germany
+    BIBA Bremer Institut für Produktion und Logistik GmbH, Germany
+Binghamton Univ (USA)
+    Binghamton University, Binghamton, NY, United States
+BioISI – Biosystems and Integrative Sciences Inst (PRT)
+    BioISI – Biosystems and Integrative Sciences Institute, Lisbon, Portugal
+Birmingham City Univ (GBR)
+    Faculty of Computing, Engineering and the Built Environment, Birmingham City University, United Kingdom
+Blekinge Inst of Technol (SWE)
+    Blekinge Institute of Technology, Karlshamn, Sweden
+Boeing Operation Cent (USA)
+    Boeing Operation Center, Boeing Commercial Airplanes, Seal Beach, CA, United States
+Bosch Rexroth AG (DEU)
+    Bosch Rexroth AG, Automation and Electrification Solutions, Lohr am Main, 97816, Germany
+Boston Univ (USA)
+    Center for Polymer Studies and Department of Physics, Boston University, Boston, 02215, MA, United States
+    Metropolitan College, Boston University, United States
+Brandenburg Univ of Appl Sciences (DEU)
+    Brandenburg University of Applied Sciences, Germany
+    Brandenburg University of Applied Sciences, Magdeburger Str. 50, Brandenburg, 14770, Germany
+Brawijaya Univ (IDN)
+    Brawijaya University, Jl. Veteran, Malang, 65145, Indonesia
+    Brawijaya University, Malang, 65145, Indonesia
+    Urban and Regional Planning Department, Brawijaya University, Malang, Indonesia
+Brunel Univ London (GBR)
+    Brunel University London, Uxbridge, United Kingdom
+Bu-Ali Sina Univ (IRN)
+    Department of Industrial Engineering, Bu-Ali Sina University, Hamedan, Iran
+Budapest Univ of Technol and Econ (HUN)
+    Faculty of Mechanical Engineering, Department of Fluid Mechanics, Budapest University of Technology and Economics, Budapest, Hungary
+    Faculty of Transportation Engineering and Vehicle Engineering, Department of Transport Technology and Economics, Budapest University of Technology and Economics, Budapest, Hungary
+Bus Cent “Vertical” (RUS)
+    Business Center “Vertical”, office 1201, Smart Solutions, Ltd., Moskovskoye Shosse 17, Samara, 443013, Russian Federation
+Cadi Ayyad Univ (MAR)
+    EST-Safi, Cadi Ayyad University, Marrakech-Safi, Morocco
+    LISI Laboratory, Faculty of Sciences Semlalia, Cadi Ayyad University, Marrakech, Morocco
+Canon IT Solutions Inc (JPN)
+    Canon IT Solutions Inc, Japan
+    Canon It Solutions Inc., Mathematical Science Department, Osaka, Japan
+Capital Univ of Econ and Bus (CHN)
+    College of Business Administration, Capital University of Economics and Business, Beijing, China
+    College of Business Administration, Capital University of Economics and Business, No.121, Zhangjialukou Road, Fengtai District, Beijing, 100070, China
+Carnegie Mellon Univ (USA)
+    Department of Chemical Engineering, Carnegie Mellon University, Pittsburgh, PA, United States
+Cent Fed de Educacao Tecnologica de Minas Gerais (BRA)
+    Centro Federal de Educacao Tecnologica de Minas Gerais, Belo Horizonte, MG, Brazil
+Cent for Energy & Env Policy Res (CHN)
+    Center for Energy & Environmental Policy Research, Beijing Institute of Technology, Beijing, 100081, China
+Cent for Transport Studies (GBR)
+    Centre for Transport Studies, Department of Civil and Environmental Engineering, Imperial College London, London, United Kingdom
+Cent of Disaster Manag and Risk Reduction Technol (CEDIM) (DEU)
+    Institute of Nuclear and Energy Technology (IKET), Center of Disaster Management and Risk Reduction Technology (CEDIM), Karlsruhe Institute of Technology (KIT), Germany
+Cent of Technol and Syst (PRT)
+    Centre of Technology and Systems, CTS, UNINOVA, Caparica, Portugal
+Central South Univ (CHN)
+    School of Physics and Electronics, Central South University, Changsha, 410083, China
+Chaoyang Univ of Technol (TWN)
+    Department of Computer Science and Information Engineering, Chaoyang University of Technology, Taichung, Taiwan
+    Dept. of Computer Science and Information Engineering, Chaoyang University of Technology, Taiwan
+Chengdu Univ of Technol (CHN)
+    College of Management Science, Chengdu University of Technology, Chengdu, 610059, China
+Cherkasy State Technological Univ (UKR)
+    Cherkasy State Technological University, Cherkasy, Ukraine
+    Cherkasy State Technological University, Shevchenko blvd., 460, Cherkasy, 18006, Ukraine
+    Cherkasy State Technological University, Shevchenko blvd., 460, Cherkasy, Ukraine
+China Acad of Aeroesp Syst Sci and Eng (CHN)
+    China Academy of Aerospace Systems Science and Engineering, Beijing, 100048, China
+    China Aerospace Academy of Systems Science and Engineering, Beijing, China
+China Nanhu Acad of Electronic and Information Technol (CHN)
+    China Nanhu Academy of Electronic and Information Technology, Jiaxing, 314107, China
+China United Network Communications Co. (CHN)
+    Qingdao Branch, China United Network Communications Co., Ltd., 15 West Dong Hai Road, Shandong, Qingdao, 266071, China
+China Univ of Geosciences (CHN)
+    School of Mathematics and Physics, China University of Geosciences, Wuhan, 430074, China
+China Univ of Petroleum (CHN)
+    School of Economics and Management, China University of Petroleum, Qingdao, China
+China Univ of Petroleum-Beijing (CHN)
+    Academy of Chinese Energy Strategy, China University of Petroleum-Beijing, Beijing, China
+    Academy of Chinese Energy Strategy, China University of Petroleum-Beijing, Changping, Beijing 102249, 18 Fuxue Road, China
+Chinese Acad of Sciences (CHN)
+    The Beijing Engineering Research Center of Intelligent Systems and Technology, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+    The Cloud Computing Center, Chinese Academy of Sciences, Dongguan, 523808, China
+    The State Key Laboratory for Management and Control of Complex Systems, Institute of Automation, Chinese Academy of Sciences, Beijing, 100190, China
+Chongqing Jiaotong Univ (CHN)
+    School of Economics and Management, Chongqing Jiaotong University, Chongqing, 400000, China
+    School of Economics and Management, Chongqing Jiaotong University, No.66, Xuefu Avenue, Nan'an District, Chongqing, 400074, China
+Chongqing Univ (CHN)
+    College of Mechanical Engineering, Chongqing University, Chongqing, 400044, China
+Christ Univ Delhi NCR (IND)
+    Christ University Delhi NCR, Ghaziabad, India
+City Univ London (GBR)
+    Department of Computer Science, School of Mathematics, Computer Science and Engineering, City University London, United Kingdom
+City Univ of Appl Sciences (DEU)
+    City University of Applied Sciences, Bremen, Germany
+City Univ of Appl Sciences Bremen (DEU)
+    City University of Applied Sciences Bremen, Neustadtswall 30, Bremen, 28199, Germany
+City Univ of Hong Kong (HKG)
+    Department of Management Sciences, City University of Hong Kong, Hong Kong
+Collaborative Innovation Cent of Electric Vehicles in Beijing (CHN)
+    Collaborative Innovation Center of Electric Vehicles in Beijing, Beijing, 100081, China
+Columbus State Univ (USA)
+    D. Abbott Turner College of Business, Columbus State University, 4225 University Avenue, Columbus, 31907, GA, United States
+COMAC Shanghai Aircraft Manufacturing Co. (CHN)
+    COMAC Shanghai Aircraft Manufacturing Co., Ltd, Shanghai, 201324, China
+Concordia Univ (CAN)
+    Concordia University, Montreal, Canada
+CONICET (ARG)
+    Consejo Nacional de Investigaciones Científicas y Tecnicas (CONICET), Av. Rivadavia 1917, Ciudad Autónoma de Buenos Aires, Argentina
+    INGAR(CONICET-UTN), Institute of Development and Design, National Council of Scientific and Technological Research, Avellaneda 3657, Santa Fe, S3002GJC, Argentina
+Coventry Univ (GBR)
+    Centre for Business in Society, Coventry University, Coventry, CV1 5FB, United Kingdom
+CRAN Université de Lorraine (FRA)
+    CRAN Université de Lorraine, CNRS, Villers-lès-Nancy, France
+Cranfield Univ (GBR)
+    School of Aerospace, Transport and Manufacturing, Cranfield University, Cranfield, MK43 0AL, United Kingdom
+Crisis and Risk Res Cent (CRC) (FRA)
+    Crisis and Risk Research Centre (CRC), Mines Paris-Tech, 1 Rue Claude Daunesse, Sophia Antipolis Cedex, 10207 06904, France
+CUCEA Univ de Guadalajara (MEX)
+    CUCEA Universidad de Guadalajara, Information Technology, Zapopan, JAL, Mexico
+Czech Tech Univ in Prague (CZE)
+    Czech Technical University in Prague, Prague, Czech Republic
+DAMO Acad (CHN)
+    DAMO Academy, China
+Data-Chef. Co. (JPN)
+    Data-Chef. Co., Ltd., 2-10-1 Yasakadai, Suma, Kobe, Hyogo, 654-0161, Japan
+Delft Univ of Technol (NLD)
+    Delft University of Technology, Department of Transport & Planning, Faculty of Civil Engineering and Geosciences, CN Delft, 2628, Netherlands
+Dokuz Eylul Univ (TUR)
+    Department of Industrial Engineering, Dokuz Eylul University, Izmir, 35397, Turkey
+    Department of Maritime Business Administration, Dokuz Eylul University, Izmir, Turkey
+Dongguan Polytech (CHN)
+    Department of Computer Engineering, Dongguan Polytechnic, Dongguan, 523808, China
+Dongguan Univ of Technol (CHN)
+    School of Electronic Engineering, Dongguan University of Technology, Dongguan, 523808, China
+Eastern Mediterranean Univ (TUR)
+    Faculty of Tourism, Eastern Mediterranean University, TRNC via Mersin 10, Famagusta, Lefkosa, 99010, Turkey
+Ecole Nationale d’Ingenieurs de Tarbes (FRA)
+    Ecole Nationale d’Ingenieurs de Tarbes, Tarbes, France
+    Laboratory Production Engineering, Ecole Nationale d’Ingenieurs de Tarbes, Tarbes, France
+Ecole Nationale Superieure Des Arts Et Metiers (MAR)
+    Department of Industrial Engineering and Production, Ecole Nationale Supérieure des Arts et Métiers, B.P. 15290 El Mansour, Meknés, Morocco
+    Department of Industrial Engineering, Department of Mechanical Engineering, Ecole Nationale Superieure Des Arts Et Metiers, 15290, ENSAM-Meknes, C.P, Meknes, 50500, Morocco
+    Ecole Nationale Supérieure des Arts et Métiers, Meknès, Morocco
+Ecole nationale Supérieure d'Informatique (ESI) (DZA)
+    Ecole nationale Supérieure d'Informatique (ESI), BP 68M, Oued-Smar Algiers, 16270, Algeria
+Ecole Nationale Supérieure des Arts et Métiers (ENSAM) (MAR)
+    Department of Industrial Engineering and Production, Ecole Nationale Supérieure des Arts et Métiers (ENSAM), Meknès, Morocco
+Ed. Züblin AG (DEU)
+    Ed. Züblin AG, Germany
+Eindhoven Univ of Technol (NLD)
+    Industrial Engineering and Innovation Sciences, Eindhoven University of Technology, Eindhoven, Netherlands
+Emines—Univ Mohammed VI Polytech (MAR)
+    Emines—University Mohammed VI Polytechnic, Benguerir, Morocco
+Encana Serv Co Ltd. (CAN)
+    Encana Services Company Ltd., Calgary, AB, Canada
+Eng 3S Res Cent (MAR)
+    EMISys Team, Engineering 3S Research Center, Mohammadia School of Engineering, Rabat, Morocco
+ENSIAS - Mohammed v Univ in Rabat (MAR)
+    TIME - Information Technology and Management of Enterprises, ENSIAS - Mohammed v University in Rabat, Morocco
+Erasmus Univ Rotterdam (NLD)
+    Econometric Institute, Erasmus University Rotterdam, Rotterdam, Netherlands
+    Rotterdam School of Management, Erasmus University Rotterdam, Rotterdam, Netherlands
+Eur Univ Inst (ITA)
+    Department of Economics, European University Institute, Florence, I-50014, Italy
+Ewha Womans Univ (KOR)
+    Department of Chemical Engineering and Materials Science, Ewha Womans University, Seoul, 03760, South Korea
+    Graduate Program in System Health Science and Engineering, Ewha Womans University, Seoul, 03760, South Korea
+Fed Univ of Minas Gerais (BRA)
+    Graduate Program in Electrical Engineering, Federal University of Minas Gerais, Av. Antônio Carlos 6627, Belo Horizonte, MG, 31270-901, Brazil
+Fed Univ of Santa Catarina (UFSC) (BRA)
+    Department of Production Engineering and Systems (EPS), Federal University of Santa Catarina (UFSC), Florianópolis, Brazil
+    Graduate Program in Production Engineering (PPGEP), Department of Production Engineering and Systems (EPS), Federal University of Santa Catarina (UFSC), Florianópolis, Brazil
+Ferdowsi Univ of Mashhad (IRN)
+    Industrial Engineering Department, Faculty of Engineering, Ferdowsi University of Mashhad, PO Box 9177948944, Mashhad, Iran
+Fudan Univ (CHN)
+    Fudan University, Shanghai, China
+Fund Univ CEIPA (COL)
+    School of Management, Fundación Universitaria CEIPA, Sabaneta, 055450, Colombia
+Fuzhou Univ (CHN)
+    Fuzhou University, Fuzhou, Fujian, 350116, China
+Galgotias Coll of Eng and Technol (IND)
+    Galgotias College of Engineering and Technology, Uttar Pradesh, Greater Noida, India
+Galgotias Univ (IND)
+    Department of Mechanical Engineering, Galgotias University, Greater Noida, Uttar Pradesh, India
+    Galgotias University, Department of Mechanical Engineering, Greater Noida, India
+    Galgotias University, School of Computer Science and Engineering, Greater Noida, India
+    School of Computing Science and Engineering, Galgotias University, Greater Noida, India
+    School of Computing Science and Engineering, Galgotias University, Greater Noida, Uttar Pradesh, India
+Gangneung-Wonju Nac Univ (KOR)
+    Department of Industrial and Management Engineering, Gangneung-Wonju National University, Gangneung-si, Gangwon-do, 210-702, South Korea
+Genoa Univ (ITA)
+    Department of Informatics Bioengineering Robotics and System Engineering, University of Genoa, Via all’Opera Pia 15, Genoa, 16145, Italy
+    Department of Mechanical Engineering Energetics Management and Transportation (DIME), University of Genoa, Via all’Opera Pia 15, Genoa, 16145, Italy
+    Novigo Technology s.r.l., Genoa University, Genoa, Italy
+Georgia Inst of Technol (USA)
+    School of Building Construction, Georgia Institute of Technology, Atlanta, GA, United States
+German Res Cent for Artif Intell (DEU)
+    Innovative Factory Systems, German Research Center for Artificial Intelligence, Kaiserslautern, Germany
+German Res Cent for Artif Intell (DFKI) (DEU)
+    German Research Center for Artificial Intelligence (DFKI), Trippstadter Str. 122, Kaiserslautern, 67663, Germany
+Griffith Univ (AUS)
+    Griffith University, 170 Kessels Road, Nathan, 4111, QLD, Australia
+Guangdong Univ of Technol (CHN)
+    Guangdong Provincial Key Laboratory of Computer Integrated Manufacturing System, School of Electromechanical Engineering, Guangdong University of Technology, Guangzhou, 510006, China
+    Guangdong Provincial Key Laboratory of Computer Integrated Manufacturing, Guangdong University of Technology, Guangzhou, China
+Hailiang Group Co. (CHN)
+    Hailiang Group Co., Ltd., China
+Hamad Bin Khalifa Univ (QAT)
+    Division of Engineering Management and Decision Sciences, College of Science and Engineering, Hamad Bin Khalifa University, Qatar Foundation, Doha, 34110, Qatar
+Hangzhou Dianzi Univ (CHN)
+    Management School, Hangzhou Dianzi University, Hangzhou, Zhejiang, 310018, China
+Hangzhou Normal Univ (CHN)
+    Institute for Advanced Study Honoring Chen Jian Gong, Hangzhou Normal University, Hangzhou, 311121, China
+Harbin Eng Univ (CHN)
+    School of Economics and Management, Harbin Engineering University, Harbin, 150001, China
+Harbin Inst of Technol (CHN)
+    Intelligent Transportation Lab, Shenzhen Key Laboratory of Urban Planning and Decision Making, Harbin Institute of Technology, Shenzhen, Guangdong, China
+    School of Architecture, Harbin Institute of Technology, Shenzhen, Guangdong, China
+Harbin Univ of Commerce (CHN)
+    School of Vocational & Technical Education, Harbin University of Commerce, Harbin, 150028, China
+Hassan First Univ of Settat (MAR)
+    Laboratory of Industrial Management and Innovation, Hassan First University of Settat, FST de Settat, Km 3, B.P. 577 Route de Casablanca, Morocco
+    Mechanical Engineering Department, Faculty of Sciences and Technologies Mechanical, Hassan First University of Settat, P.O. Box 577, Settat, Morocco
+Hassan II Univ (MAR)
+    2IACS Laboratory, ENSET, Hassan II University, Casablanca, Morocco
+    Distributed Systems and Artificial Intelligence, ENSET Mohammedia, Hassan II University, Laboratory Signals, Casablanca, Morocco
+    EESS Laboratory, ENSET, Hassan II University, Casablanca, Morocco
+Hassan II Univ of Casablanca (MAR)
+    Laboratory SSDIA, ENSET Mohammedia, Hassan II University of Casablanca, BP. 159, Mohammedia, Morocco
+    Laboratory SSDIA, ENSET Mohammedia, Hassan II University of Casablanca, Morocco
+Hassan II Univ-ENSEM (MAR)
+    Equipe Architecture des Systèmes, Laboratoire d'Informatique Système et Energie Renouvelable (LISER), Hassan II University-ENSEM, Casablanca, Morocco
+Hebei Agric Univ (CHN)
+    College of Economics and Management, Hebei Agricultural University, Baoding, 071000, China
+Hellenic Mediterranean Univ (GRC)
+    Department of Electrical and Computer Engineering, Hellenic Mediterranean University, Heraklion, 71410, Greece
+Heriot-Watt Univ (GBR)
+    School of Engineering and Physical Sciences, Heriot-Watt University, Edinburgh, EH14 4AS, United Kingdom
+Huaqiao Univ (CHN)
+    Huaqiao University, Quanzhou, China
+Huawei Technol Co. Ltd. (CHN)
+    Huawei Technologies Co. Ltd., Bantian, Longgang District, Shenzhen, 518129, China
+    Huawei Technologies Co. Ltd., China
+Hubei Univ of Technol (CHN)
+    Hubei University of Technology, Wuhan, China
+Hull Univ Bus Sch (GBR)
+    Hull University Business School, University of Hull, Hull, United Kingdom
+Humanitarian and Tech Acad (KAZ)
+    Department of Economics and Finance, Humanitarian and Technical Academy, Kokshetau, Kazakhstan
+Hunan Agric Univ (CHN)
+    School of Economics, Hunan Agricultural University, Changsha, 410128, China
+Hunan Open Univ (CHN)
+    School of Economics and Management, Hunan Open University, Changsha, 410004, China
+Hunan Univ of Technol (CHN)
+    College of Business, Hunan University of Technology, Zhuzhou, 412007, China
+Huzhou Coll (CHN)
+    Public Teaching and Research Department, Huzhou College, Huzhou, 313000, China
+Huzhou Univ (CHN)
+    Department of Mathematics, Huzhou University, Huzhou, 313000, China
+Ibn Tofail Univ (MAR)
+    Research Laboratory in Computer Science, Faculty of Sciences, Ibn Tofail University, Kenitra, Morocco
+Ibn Tofail university (MAR)
+    Laboratory Systems Engineering, Research team ' Modelling and Optimization of the Industrial and logistic Systems ' MOSIL, National School of Applied sciences, Ibn Tofail university, Kenitra, Morocco
+Ibn Zohr Univ (MAR)
+    Industrial Engineering Department, LG2I, National School of Applied Sciences, Ibn Zohr University, E.N.S.A, Agadir, 1136, Morocco
+ICOSI Lab Univ (DZA)
+    ICOSI Lab University, Abbes Laghrour khenchela, BP 1252 El Houria, Khenchela, 40004, Algeria
+Imperial Coll Incubator (GBR)
+    Imperial College Incubator, Digital Eco-Systems, London, United Kingdom
+Inc. (JPN)
+    Mitsubishi Research Institute, Inc., Tokyo, Japan
+    Toyota Central R and D Labs., Inc., Japan
+Inc. (USA)
+    Bias Intelligence, Inc., Roswell, 30076, GA, United States
+Indian Inst of Manag (IND)
+    Indian Institute of Management, Calcutta, India
+    Indian Institute of Management, Indore, India
+Indian Inst of Technol (IND)
+    Department of Computer Science and Engineering, Indian Institute of Technology, Roorkee, Uttarakhand, India
+Indian Inst of Technol (Indian Sch of Mines) Dhanbad (IND)
+    Department of Management Studies & Industrial Engineering, Indian Institute of Technology (Indian School of Mines) Dhanbad, Jharkhand, Dhanbad, 826004, India
+Indian Inst of Technol Kharagpur (IND)
+    Department of Mathematics, Indian Institute of Technology Kharagpur, Kharagpur, India
+Indian Inst of Technol Roorkee (IND)
+    Department of Computer Science and Engineering, Indian Institute of Technology Roorkee, Uttarakhand, Roorkee, 247667, India
+Information Technol Inst - CERTH (GRC)
+    Information Technologies Institute - CERTH, 6th km Harilaou - Thermis, Thessaloniki, Greece
+InfoWings Ltd. (RUS)
+    InfoWings Ltd., Lev Tolstoy str., 1/3, Saint Petersburg, 197022, Russian Federation
+Inst for Production and Ind Information Manag (DEU)
+    Institute for Production and Industrial Information Management, Essen, Germany
+Inst for the Control of Complex Syst of RAS (RUS)
+    Institute for the Control of Complex Systems of RAS, 61, Sadovaya St., Samara, 443020, Russian Federation
+Inst for the Control of Complex Syst of Russian Acad of Sciences (RUS)
+    Institute for the Control of Complex Systems of Russian Academy of Sciences, Samara, Russian Federation
+Inst of High Perform Comput (SGP)
+    Computing Science, Institute of High Performance Computing, A STAR, Singapore, Singapore
+    Interns, Computing Science, Institute of High Performance Computing, A STAR, Singapore, Singapore
+Inst Tec de Aeronáutica (ITA) (BRA)
+    Instituto Tecnológico de Aeronáutica (ITA), Computer Science Division, São Paulo, São José dos Campos, 12228-900, Brazil
+Inst Tec Metropolitano (COL)
+    Department of Quality and Production Engineering, Faculty of Economic and Administrative Science, Instituto Tecnológico Metropolitano, Cra 76A # 32A -73, Medellín, Colombia
+    Instituto Tecnológico Metropolitano, Medellín, Colombia
+Inst Tecnol Metropolitano (COL)
+    Department of Quality and Production Engineering, Instituto Tecnologico Metropolitano, Medellín, 050036, Colombia
+Institucion Univ CEIPA (COL)
+    Institución Universitaria CEIPA, Sabaneta, Colombia
+Institut de Recherche (FRA)
+    Institut de Recherche, ESTP, 28 Avenue du Président Wilson, Cachan, F-94230, France
+Institut de recherche en communications et cybernétique de Nantes (IRCCyN - UMR CNRS 6597) (FRA)
+    Institut de recherche en communications et cybernétique de Nantes (IRCCyN - UMR CNRS 6597), Systèmes Logistiques et de Production (SLP), École des Mines de Nantes, B.P. 20722, Nantes Cedex 3, F-44307, France
+Institut de recherche en innovation et science de l’entreprise (IRISE) (FRA)
+    Institut de recherche en innovation et science de l’entreprise (IRISE), CESI, 1, Rue G. Marconi, Mont-Saint-Aignan, France
+Int Eur Univ (UKR)
+    International European University, Acad. Glushkov avenue, 42 V, Kyiv, Ukraine
+Int Inst of Information Technol (IND)
+    International Institute of Information Technology, Bangalore, Bangalore, India
+    International Institute of Information Technology, Bangalore, India
+Int Univ of Rabat (MAR)
+    Rabat Business School, International University of Rabat, Rabat, Morocco
+Iowa State Univ (USA)
+    Iowa State University, 3004 Black Engineering Building, Ames, 50011, IA, United States
+    Iowa State University, 3031 Black Engineering Building, Ames, 50011, IA, United States
+IPAG Bus Sch (IPAG) (FRA)
+    IPAG Business School (IPAG), 184, bd Saint-Germain, Paris, 75006, France
+Iran Univ of Sci and Technol (IRN)
+    Industrial Engineering Department, Center of Excellence for the Optimization of Advanced Production and Service Systems, Iran University of Science and Technology, Tehran, Iran
+Isfahan Univ of Technol (IRN)
+    Department of Industrial and Systems Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran
+    Department of Transportation Engineering, Isfahan University of Technology, Isfahan, 84156-83111, Iran
+Islamic Azad Univ (IRN)
+    Department of Computer Engineering, Gorgan Branch, Islamic Azad University, Gorgan, Iran
+    Department of Computer Engineering, Sari Branch, Islamic Azad University, Sari, Iran
+    Department of Industrial Engineering, Faculty of Industrial and Mechanical Engineering, Qazvin Branch, Islamic Azad University, Qazvin, Iran
+    Department of Industrial Engineering, Science and Research Branch, Islamic Azad University, Tehran, Iran
+    Faculty of Industrial and Mechanical Engineering, Qazvin Branch, Islamic Azad University, Qazvin, Iran
+Isra Univ (JOR)
+    Faculty of Information Technology, Software Engineering Department, Isra University, Amman, 11622, Jordan
+Istanbul Tech Univ (TUR)
+    Artificial Intelligence and Data Science Application and Research Center, Istanbul Technical University, ITU Ayazaga Campus, Istanbul, 34469, Turkey
+    Department of Aeronautics Engineering, Istanbul Technical University, ITU Ayazaga Campus, Istanbul, 34469, Turkey
+Izmir Univ of Econ (TUR)
+    Department of Logistics Management, Izmir University of Economics, Izmir, Turkey
+Japanese Standard Assoc (JPN)
+    Japanese Standard Association, Tokyo, Japan
+Jiangsu Open Univ (CHN)
+    School of Business, Jiangsu Open University, Nanjing, 210011, China
+Jiangxi Normal Univ (CHN)
+    School of Management Science and Engineering Research Center, Jiangxi Normal University, Nanchang, 330000, China
+Jiangxi Univ of Finan and Econ (CHN)
+    School of Finance, Jiangxi University of Finance and Economics, Nanchang, 330013, China
+    School of Information Technology, Jiangxi University of Finance and Economics, No.168, East Shuanggang Road, Chang bei, Nanchang, 330013, China
+Jiaxing Univ (CHN)
+    School of Business, Jiaxing University, Jiaxing, 314001, China
+Jimei Univ (CHN)
+    College of Navigation, Jimei University, Xiamen, China
+Jinan Univ (CHN)
+    Department of Business Administration, Jinan University, Guangzhou, 510632, China
+    School of Management, Jinan University, Guangzhou, China
+Jinan Univ (Zhuhai Camp) (CHN)
+    Institute of Physical Internet, Jinan University (Zhuhai Campus), Zhuhai, Guangdong, China
+    School of Intelligent Systems Science and Engineering, Jinan University (Zhuhai Campus), Zhuhai, Guangdong, China
+Jinling Univ of Sci and Technol (CHN)
+    Business College, Jinling University of Science and Technology, Nanjing, 211169, China
+K. N. Toosi Univ of Technol (IRN)
+    Faculty of Industrial Engineering, K. N. Toosi University of Technology, Tehran, Iran
+    K. N. Toosi University of Technology, Tehran, Iran
+Kanagawa Inst of Technol (JPN)
+    Kanagawa Institute of Technology, 1030 Shimo-ogino, Atsugi-shi, Kanagawa, 243-0292, Japan
+    Kanagawa Institute of Technology, 1030 Shimo-ogino, Kanagawa, Atsugi-shi, 243-0292, Japan
+    Kanagawa Institute of Technology, Kanagawa, Atsugi-Shi, 243-0292, Japan
+Kazan Nac Res Tech Univ (RUS)
+    Kazan National Research Technical University, A.N. Tupolev – KAI, Kazan, Russian Federation
+Kennesaw State Univ (USA)
+    Mechatronics Engineering Department, Kennesaw State University, Marietta, 30066, GA, United States
+Kielce Univ of Technol (POL)
+    Department of Information Systems, Kielce University of Technology, Kielce, Poland
+King Abdulaziz Univ (SAU)
+    Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, 21589, Saudi Arabia
+    Department of Information Technology, Faculty of Computing and Information Technology, King Abdulaziz University, Jeddah, Saudi Arabia
+    King Abdulaziz University, Jeddah, Saudi Arabia
+King Fahd Univ of Petroleum and Minerals (SAU)
+    Information & Computer Science Department, King Fahd University of Petroleum and Minerals, Academic Belt Road, Dhahran, 31261, Saudi Arabia
+King Khalid Univ (SAU)
+    Department of Industrial Engineering, King Khalid University, Abha, Saudi Arabia
+Kings Coll of Eng (IND)
+    Department of Electrical and Electronics Engineering, Kings College of Engineering, Thanjavur, India
+Kobe Univ (JPN)
+    Graduate School of System Informatics, Kobe University, Nada, Japan
+Konkuk Univ (KOR)
+    Department of Aerospace Information Engineering, Konkuk University, Seoul, South Korea
+    Department of Computer Science and Engineering, Konkuk University, Seoul, South Korea
+    Konkuk Aerospace Design-Airworthiness Research Institute, Konkuk University, Seoul, South Korea
+Korea Univ (KOR)
+    Department of Chemical and Biological Engineering, Korea University, Seoul, 02841, South Korea
+Kyoto Univ (JPN)
+    Department of Social Informatics, Kyoto University, Kyoto, Japan
+    Department of Urban Management, Graduate School of Engineering, Kyoto University, Nishikyo, Kyoto, 615-8540, Japan
+    Department of Urban Management, Kyoto University, Japan
+    Department of Urban Management, Kyoto University, Katsura campus C-1, Kyoto, 615-8540, Japan
+    Kyoto University, Katsura, Nishikyo-ku, Kyoto, 615-8540, Japan
+    Kyoto University, Kyoto, Japan
+    Resilience Research Unit, Kyoto University, Japan
+    Resilience Research Unit, Kyoto University, Rohm Plaza, Katsura, 615-8540, Japan
+Lastra Tampere Univ of Technol (FIN)
+    Lastra Tampere University of Technology, Tampere, Finland
+Leibniz Univ Hannover (DEU)
+    Institute of Automatic Control, Leibniz University Hannover, Hannover, 30167, Germany
+Liaoning Petrochemical Univ (CHN)
+    School of Information and Control, Liaoning Petrochemical University, Fushun, 113001, China
+Liaoning Tech Univ (CHN)
+    School of Business Administration, Liaoning Technical University, Huludao, 125000, China
+Lincoln Univ (NZL)
+    The Complex Systems, Big Data and Informatics Initiative, Lincoln University, Canterbury, New Zealand
+Lincoln Univ (USA)
+    Faculty of Environment, Society and Design, Lincoln University, Christchurch, Lincoln, 7647, United States
+London Sch of Econ and Political Sci (GBR)
+    LSE Health, Department of Health Policy, London School of Economics and Political Science, London, WC2A2AE, United Kingdom
+Lorraine Univ (FRA)
+    Lorraine University, LGIPM, France
+Ltd. - Knowledge Genesis Group (RUS)
+    Smart Solutions, Ltd. - Knowledge Genesis Group, Samara, Russian Federation
+Ludong Univ (CHN)
+    School of Transportation, Ludong University, Shandong, Yantai, 264025, China
+Manag Sch Jinan Univ (CHN)
+    Management School Jinan University, Guangzhou, 510632, China
+Mannheim Univ of Appl Sciences (DEU)
+    Center for Mass Spectrometry and Optical Spectroscopy, Mannheim University of Applied Sciences, Paul-Wittsack-Straße 10, Mannheim, 68163, Germany
+Massachusetts Inst of Technol (USA)
+    Intelligent Transportation Systems Lab, Department of Civil and Environmental Engineering, Massachusetts Institute of Technology, Cambridge, MA, United States
+    Massachusetts Institute of Technology, Cambridge, MA, United States
+Maynooth Univ (IRL)
+    School of Business, Maynooth University, Maynooth, Ireland
+Mazandaran Univ of Sci and Technol (IRN)
+    Department of Industrial Engineering, Mazandaran University of Science and Technology, Babol, Iran
+Meharry Med Coll (USA)
+    Department of CSandDS, School of Applied Computational Sciences, Meharry Medical College, Nashville, TN, United States
+Miami Univ (USA)
+    Miami University, Department of Computer Science and Software Engineering, Oxford, 45056, OH, United States
+    Miami University, Miami, United States
+Middlesex Univ (GBR)
+    Middlesex University, London, United Kingdom
+Minjiang Univ (CHN)
+    Newhuadu Business School, Minjiang University, Fujian, China
+    Newhuadu Business School, Minjiang University, No.200, Xiyuangong Road, Shangjie Town, Minhou County, Fujian, Fuzhou City, 350108, China
+Modul Univ Vienna (AUT)
+    School of International Management, Modul University Vienna, Vienna, Austria
+Mohammadia Sch of Eng (MAR)
+    Studies and Research Laboratory in Applied Mathematics, Mohammadia School of Engineering, Rabat, Morocco
+Mohammed V Univ (MAR)
+    Al-Qualsadi Research and Development Team, National Higher School for Computer Science and System Analysis (ENSIAS), Mohammed V University, Rabat, Morocco
+    LERMA, Engineers' Mohammadia School, Mohammed V University, Avenue Ibn Sina- BP 765, Agdal, Rabat, Morocco
+Mohammedia Hassan II Univ of Casablanca (MAR)
+    Laboratory SSDIA, ENSET, Mohammedia Hassan II University of Casablanca, Morocco
+Monmouth Univ (USA)
+    School of Computer Science and Software Engineering, Monmouth University, West Long Branch, 07764, NJ, United States
+Moulay Ismail Univ (MAR)
+    Industrial and production engineering department, Ecole Nationale Supérieure des Arts et Métiers, Moulay Ismail University, Meknès, Morocco
+    Moulay Ismail University, ENSAM, Meknes, Morocco
+Munster Technological Univ (IRL)
+    Department of Process, Energy and Transport Engineering, Munster Technological University, Cork, Ireland
+Nac Aeroesp Univ “Kharkiv Aviation Inst” (UKR)
+    National Aerospace University “Kharkiv Aviation Institute”, Kharkiv, Ukraine
+Nac Aviation Univ (UKR)
+    National Aviation University, L. Gyzara avenue, 1, Kyiv, Ukraine
+Nac Cheng Kung Univ (TWN)
+    Institute of Manufacturing Information and Systems, National Cheng Kung University, Tainan City, 701, Taiwan
+Nac Defense Acad (JPN)
+    Department of Computer Science, National Defense Academy, Kanagawa Prefecture, Yokosuka City, Japan
+Nac Higher Sch of Mathematics (DZA)
+    National Higher School of Mathematics, Scientific and Technology Hub of Sidi Abdellah, Algiers, 16093, Algeria
+Nac Inst of Ind Eng (NITIE) (IND)
+    National Institute of Industrial Engineering (NITIE), Maharashtra, Mumbai, India
+Nac Inst of Technol (IND)
+    National Institute of Technology, Hamirpur, India
+Nac Inst of Technol Calicut (IND)
+    Department of Mechanical Engineering, National Institute of Technology Calicut, Kozhikode, India
+Nac Inst of Technol Karnataka (IND)
+    School of Management, National Institute of Technology Karnataka, Surathkal, India
+Nac Sch of Appl Sciences of Tetouan ([UNKNWON])
+    National School of Applied Sciences of Tetouan
+Nac Sch of Eng (ENIM) (FRA)
+    Laboratory of Industrial Engineering, Production and Maintenance (LGIPM), National School of Engineering (ENIM), 1, route d’Ars Laquenexy CS65820, Metz Cedex 3, 57078, France
+Nac Taipei Univ of Technol (TWN)
+    Department of Industrial Engineering and Management, National Taipei University of Technology, Taipei, 106, Taiwan
+Nac Taiwan Normal Univ (TWN)
+    Graduate Institute of Global Business and Strategy, National Taiwan Normal University, 31 Shida Rd., Daan Dist., Taipei, 10645, Taiwan
+Nac Taiwan Univ (TWN)
+    Department of Information Management, National Taiwan University, Taipei, 106, Taiwan
+Nac Univ of Defense Technol (CHN)
+    National University of Defense Technology, Changsha, China
+Nac Univ of La Plata (ARG)
+    LIFIA, CIC/Faculty of Informatics, National University of La Plata, La Plata, Argentina
+Nagoya Inst of Technol (JPN)
+    Nagoya Institute of Technology, Department of Computer Science, Aichi, Nagoya, 466-8555, Japan
+    Nagoya Institute of Technology, Gokiso, Showa, Nagoya, 466-8555, Japan
+Nanchang Inst of Technol (CHN)
+    School of Business Administration, Nanchang Institute of Technology, Nanchang, Jiangxi, 330099, China
+Nanjing Agric Univ (CHN)
+    Faculty of Engineering, Nanjing Agricultural University, Nanjing, China
+Nanjing Forestry Univ (CHN)
+    College of Economics and Management, Nanjing Forestry University, Nanjing, 210037, China
+Nanjing Inst of Technol (CHN)
+    School of Economics & Management, Nanjing Institute of Technology, Nanjing, 211167, China
+    School of Economics and Management, Nanjing Institute of Technology, Nanjing, 211167, China
+    School of Mechanical Engineering, Nanjing Institute of Technology, Nanjing, 211167, China
+Nanjing Normal Univ (CHN)
+    Jiangsu Province Engineering Research Center of Environmental Risk Prevention and Emergency Response Technology, Nanjing Normal University, Nanjing, 210023, China
+    School of Environment, Nanjing Normal University, Nanjing, 210023, China
+Nanjing Univ (CHN)
+    School of Management and Engineering, Nanjing University, Nanjing, 210093, China
+    School of Management and Engineering, Nanjing University, Nanjing, China
+Nanjing Univ of Finan and Econ (CHN)
+    Institute of Game Behavior and Operations Management, Nanjing University of Finance and Economics, Nanjing, China
+Nanjing Univ of Information Sci & Technol (CHN)
+    School of Management Science and Engineering, Nanjing University of Information Science & Technology, Nanjing, 210044, China
+Nanjing Univ of Information Sci and Technol (CHN)
+    School of Remote Sensing and Geomatics Engineering, Nanjing University of Information Science and Technology, Nanjing, 210044, China
+Nanjing Univ of Posts and Telecomm (CHN)
+    School of Computer Science and Technology, Nanjing University of Posts and Telecommunication, China
+    School of Computer Science and Technology, Nanjing University of Posts and Telecommunication, Nanjing, 210023, China
+    School of Computer Science, Nanjing University of Posts and Telecommunications, Nanjing, 210023, China
+Nankai Univ (CHN)
+    College of Software, Nankai University, Tianjin, 300071, China
+Nanyang Technological Univ (SGP)
+    College of Computing and Data Science, Nanyang Technological University, 50 Nanyang Ave, Singapore, 639798, Singapore
+    School of Mechanical and Aerospace Engineering, Nanyang Technological University, 50 Nanyang Ave, Singapore, 639798, Singapore
+Neoma Bus Sch (FRA)
+    Neoma Business School, LINEACT Cesi Rouen, Rouen, France
+New Mexico State Univ (USA)
+    New Mexico State University, Las Cruces, NM, United States
+    New Mexico State University, United States
+Newcastle Univ (GBR)
+    Business School, Newcastle University, Newcastle upon Tyne, United Kingdom
+Ningbo Supply Chain Innovation Inst China (CHN)
+    Ningbo Supply Chain Innovation Institute China, Mit Global Supply Chain and Logistics Excellence (SCALE) Network, Ningbo, 315000, China
+Nitte Meenakshi Inst of Technol (IND)
+    Nitte Meenakshi Institute of Technology, Bangalore, India
+    Nitte Meenakshi Institute of Technology, Department of Information Science and Engineering, Bengaluru, 560064, India
+Nong Lam Univ (VNM)
+    Faculty of Agronomy, Nong Lam University, Ho Chih Minh, Viet Nam
+Normandy Univ (FRA)
+    Faculty of International Business, Normandy University, France
+North China Electric Power Univ (CHN)
+    Beijing Key Laboratory of New Energy and Low-Carbon Development, North China Electric Power University, Changping, Beijing, 102206, China
+    School of Economics and Management, North China Electric Power University, Beijing, 102206, China
+Northern Border Univ (SAU)
+    Faculty of Sciences, Northern Border University, Saudi Arabia
+Northwestern Polytechnical Univ (CHN)
+    School of Management, Northwestern Polytechnical University, 127 West Youyi Road, Shaanxi, Xi'an, 710072, China
+    School of Mechanical Engineering, Northwestern Polytechnical University, 127 West Youyi Road, Shaanxi, Xi'an, 710072, China
+Oakland Univ (USA)
+    Center for Data Science and Big Data Analytics, Department of Decision and Information Sciences, Oakland University, Rochester, MI, United States
+    Oakland University, Rochester, 48309, MI, United States
+    Oakland University, Rochester, MI, United States
+    Oakland University, United States
+Okayama Univ (JPN)
+    Graduate School of Natural Science and Technology, Okayama University, 1-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530, Japan
+    Graduate School of Natural Science and Technology, Okayama University, 3-1-1 Tsushima-naka, Kita-ku, Okayama, Okayama City, 700-8530, Japan
+    Okayama University, 3-1-1 Tsushima-naka, Kita-ku, Okayama, 700-8530, Japan
+    Okayama University, 3-1-1 Tsushima-naka, Kita-ku, Okayama, Okayama City, 700-8530, Japan
+    Okayama University, Tsushima-Naka, Kita-Ku, Okayama-Shi, 700-8530, Japan
+Osaka Inst of Technol (JPN)
+    Department of Electronics, Information and Communication, Faculty of Engineering, Osaka Institute of Technology, Osaka, 535-8585, Japan
+Osaka Univ (JPN)
+    Graduate School of Engineering Science, Osaka University, 1-3 Machikaneyama-cho, Toyonaka city, Osaka, 560-8531, Japan
+    Osaka University, Toyonaka, Japan
+Otago Univ (NZL)
+    Department of Information Science, Otago University, Dunedin, New Zealand
+Pamukkale Univ (TUR)
+    Department of Industrial Engineering, Pamukkale University, Kinikli Campus, Denizli, Turkey
+Peking Univ (CHN)
+    Department of Industrial Engineering and Management, College of Engineering, Peking University, Beijing, China
+    Guanghua School of Management, Peking University, Beijing, China
+    Institute for Artificial Intelligence, PKU-Wuhan Institute for Artificial Intelligence, Peking University, Beijing, China
+    PKU-Wuhan Institute for Artificial Intelligence, Guanghua School of Management, Xiangjiang Laboratory, Peking University, Beijing, China
+    School of Software and Microelectronics, Peking University, Beijing, 102600, China
+Pennsylvania State Univ (USA)
+    Pennsylvania State University, United States
+Physical Internet Cent (USA)
+    Physical Internet Center, Supply Chain and Logistics Institute, H. Milton Stewart School of Industrial and Systems Engineering, Georgia Institute of Technology, Atlanta, United States
+Plekhanov Russian Univ of Econ (RUS)
+    Department of Financial Control, Analysis and Audit, Plekhanov Russian University of Economics, Moscow, Russian Federation
+Plymouth Univ (GBR)
+    Plymouth Business School, Plymouth University, Plymouth, United Kingdom
+Politec di Bari (ITA)
+    Dipartimento di Ingegneria Elettrica e dell'Informazione, Politecnico di Bari, Via Re David 200, Bari, 70125, Italy
+Polytech Inst of Viana Do Castelo (PRT)
+    Polytechnic Institute of Viana Do Castelo, School of Business Sciences of Valenc¸a, Avenida Miguel Dantas, Valenc¸a, 4930-678, Portugal
+Powertech Technol Inc. (TWN)
+    Powertech Technology Inc., No. 10, Datong Rd., Hukou Township, Hsinchu, 303035, Taiwan
+Poznan Univ of Technol (POL)
+    Poznan University of Technology, Poznan, Poland
+Pukyong Nac Univ (KOR)
+    Department of Chemical Engineering, Pukyong National University, Busan, 48513, South Korea
+Purdue Univ (USA)
+    PRISM Center and School of Industrial Engineering, Purdue University, West Lafayette, IN, United States
+    School of Industrial Engineering, Purdue University, West Lafayette, IN, United States
+Pusan Nac Univ (KOR)
+    Industrial Engineering Department, Pusan National University, Busan, South Korea
+Qingdao Lanzhi Modern Service Industry Digital Eng Technol Res Cent (CHN)
+    Qingdao Lanzhi Modern Service Industry Digital Engineering Technology Research Center, 23 East Hong Kong Road, Shandong, Qingdao, 266071, China
+Qinhuangdao Vocational and Tech Coll (CHN)
+    Department of Business and Trade, Qinhuangdao Vocational and Technical College, Hebei, Qinhuangdao, 066100, China
+    Department of Business and Trade, Qinhuangdao Vocational and Technical College, Qinhuangdao, 066100, China
+Rajiv Gandhi Coll of Engg (IND)
+    Dept of CSE, Rajiv Gandhi College of Engg, Sriperambudur, India
+    Rajiv Gandhi College of Engg, Sriperumbudur, India
+Res Cent (MAR)
+    EMISys Team (Energetic, Mechanic and Industrial Systems), Engineering 3S (Smart and Sustainable Systems), Research Center, Mohammadia School of Engineering, Rabat, Morocco
+Res Cent for Beijing Energy Dev (CHN)
+    Research Center for Beijing Energy Development, Beijing, 102206, China
+Res Cent in Comput Sci (FRA)
+    CRISTAL, Research Centre in Computer Science, Signals and Automatic Systems of Lille, Ecole Centrale de Lille, Lille, France
+Riga Tech Univ (LVA)
+    Department of Modelling and Simulation, Riga Technical University, Riga, Latvia
+RMIT Univ (AUS)
+    School of Engineering, RMIT University, Melbourne, Australia
+Robert Bosch Cent for Data Sci and AI (IND)
+    Robert Bosch Centre for Data Science and AI, IIT Madras, Chennai, India
+Rochester Inst of Technol (USA)
+    Management Information Systems, Saunders College of Business, Rochester Institute of Technology, Rochester, NY, United States
+Russian Acad of Sciences (SPIIRAS) (RUS)
+    St. Petersburg Institute of Informatics and Automation, Russian Academy of Sciences (SPIIRAS), St. Petersburg, Russian Federation
+Saint Joseph's Univ (USA)
+    Saint Joseph's University, United States
+Saint Joseph’s Univ (USA)
+    Saint Joseph’s University, Philadelphia, PA, United States
+Saint Petersburg Nac Res Univ of Information Technol (RUS)
+    Saint Petersburg National Research University of Information Technologies, Mechanics and Optics (ITMO), St. Petersburg, Russian Federation
+Saint Petersburg State Univ (RUS)
+    Saint Petersburg State University, 7-9 Universitetskaya Emb., St Petersburg, 199034, Russian Federation
+    Saint Petersburg State University, 7/9 Universitetskaya nab., St. Petersburg, 199034, Russian Federation
+Saint Petersburg State Univ of Architecture and Civ Eng (RUS)
+    Saint Petersburg State University of Architecture and Civil Engineering, 4 Vtoraya Krasnoarmeiskaya, St. Petersburg, 190005, Russian Federation
+Samara Nac Res Univ (RUS)
+    Samara National Research University, 34, Moscovskoe St., Samara, 443086, Russian Federation
+    Samara National Research University, Samara, Russian Federation
+Samara State Tech Univ (RUS)
+    Samara State Technical University, Molodogvardeyskaya str., 244, Samara, 443100, Russian Federation
+    Samara State Technical University, Samara, Russian Federation
+Sargent Cent for Process Syst Eng (GBR)
+    Sargent Centre for Process Systems Engineering, Department of Chemical Engineering, Imperial College London, London, SW7 2AZ, United Kingdom
+Sch of Comput Sci and Eng Nanyang Technological Univ (SGP)
+    School of Computer Science and Engineering Nanyang Technological University, Singapore, Singapore
+Seoul Nac Univ (KOR)
+    Department of Industrial Engineering, Seoul National University, 1 Gwanak-ro, Gwanak-gu, Seoul, 151-744, South Korea
+Shaanxi Univ of Sci and Technol (CHN)
+    Faculty of Mechanical and Electronic Engineering, Shaanxi University of Science and Technology, Xi'an, 710021, China
+Shandong Technol and Bus Univ (CHN)
+    School of Finance, Shandong Technology and Business University, Yantai, China
+    School of Foreign Studies, Shandong Technology and Business University, Yantai, China
+Shanghai Jiao Tong Univ (CHN)
+    Antai College of Economics and Management, Shanghai Jiao Tong University, 1954 Huashan Rd, Shanghai, 20030, China
+    Antai College of Economics and Management, Shanghai Jiao Tong University, Shanghai, 200030, China
+    Sino-US Global Logistics Institute, Shanghai Jiao Tong University, 1954 Huashan Rd, Shanghai, 20030, China
+Shanghai Maritime Univ (CHN)
+    Institute of Logistics Science Engineering, Shanghai Maritime University, China
+    Institute of Logistics Science and Engineering, Shanghai Maritime University, 1550 Haigang Ave, Shanghai, 201306, China
+    Institute of Logistics Science and Engineering, Shanghai Maritime University, Shanghai, 201306, China
+    Institute of logistics science & Engineering, Shanghai Maritime University, 1550 Haigang Ave, Shanghai, 201306, China
+    School of Economics and Management, Shanghai Maritime University, Shanghai, 201306, China
+Shanghai Normal Univ (CHN)
+    Shanghai Normal University, Shanghai, China
+Shanghai Univ (CHN)
+    SHU-UTS Business School, Shanghai University, Shanghai, 201800, China
+    SHU-UTS SILC Business School, Shanghai University, Shanghai, China
+    School of Mechanical Engineering and Automation, Shanghai University, Shanghai, 200072, China
+    Shanghai Univ. and Shanghai Urban Constr. (Grp.) Corp. Res. Center for Building Industrialization, Shanghai University, Shanghai, 200072, China
+    Shanghai University, School of Mechanical Engineering and Automation, Shanghai, 200072, China
+Shanghai Univ of Finan and Econ (CHN)
+    School of Public Economics and Administration, Shanghai University of Finance and Economics, Shanghai, China
+Shanghai Univ of France and Econ (CHN)
+    College of Business, Shanghai University of France and Economics, Shanghai, China
+Shangqiu Normal Univ (CHN)
+    School of Economics and Management, Shangqiu Normal University, Shangqiu, 476000, China
+Shanxi Univ (CHN)
+    School of Mathematical Sciences, Shanxi University, Taiyuan, China
+Sharif Univ of Technol (IRN)
+    Chemical and Petroleum Engineering Department, Sharif University of Technology, Tehran, Iran
+Sheffield Univ Manag Sch (GBR)
+    Sheffield University Management School, University of Sheffield, Sheffield, United Kingdom
+Shenzhen Univ (CHN)
+    Department of Transportation Economics and Logistics Management, College of Economics, Shenzhen University, Shenzhen, China
+    Department of Transportation Economy and Logistics Management, Shenzhen University, Shenzhen, China
+Siberian State Univ of Telecomm and Informatics (RUS)
+    Dept. ITA, Siberian State University of Telecommunications and Informatics, Novosibirsk, Russian Federation
+Sichuan Univ (CHN)
+    Business School, Sichuan University, Chengdu, 610064, China
+    Business School, Sichuan University, Sichuan, China
+Sidi Mohammed Ben Abdellah Univ (MAR)
+    Mechanical Engineering Laboratory, Sidi Mohammed Ben Abdellah University, Faculty of Science and Techniques, Fez, Morocco
+Siegen Univ (DEU)
+    Institute for Production Technology, Mechanical Engineering Department, Siegen University, Siegen, Germany
+    University of Siegen, Germany
+Singapore Inst of Manufacturing Technol (SIMTech) (SGP)
+    Singapore Institute of Manufacturing Technology (SIMTech), Agency for Science, Technology and Research (A*STAR), 5 CleantTech Loop, Singapore, 636732, Singapore
+Singapore Manag Univ (SGP)
+    School of Information Systems, Singapore Management University, Singapore, 178902, Singapore
+Sino-Danish Cent for Education and Res (CHN)
+    Sino-Danish Centre for Education and Research, Beijing, 100190, China
+South China Normal Univ (CHN)
+    School of Economics & Management, South China Normal University, Guangzhou, Guangdong, China
+South China Univ of Technol (CHN)
+    School of Business Administration, South China University of Technology, Guangzhou, 510640, China
+    South China University of Technology, Guangzhou, China
+Southeast Univ (CHN)
+    Jiangsu Key Laboratory of Urban ITS, Jiangsu Province Collaborative Innovation Center of Modern Urban Traffic Technologies, School of Transportation, Southeast University, Nanjing, China
+    Key Laboratory of Measurement and Control of Complex Systems of Engineering, Ministry of Education, Southeast University, Nanjing, 210096, China
+    Key Laboratory of Measurement and Control of Complex Systems of Engineering, Ministry of Education, Southeast University, Nanjing, China
+    School of Instrument Science and Engineering, Southeast University, Nanjing, China
+    Southeast University, Nanjing, China
+    Wuxi Campus, Southeast University, Wuxi, China
+Southwest Univ for Nationalities (CHN)
+    Business School, Southwest University for Nationalities, Sichuan, Chengdu, 611731, China
+Space Cent (RUS)
+    Space Center, Skolkovo Institute of Science and Technology, Nobelya Ulitsa 3, Moscow, 121205, Russian Federation
+SRM Inst of Sci and Technol (IND)
+    Department of Mathematics, SRM Institute of Science and Technology, Delhi NCR Campus, Uttar Pradesh, Ghaziabad, Modinagar, India
+SRM Univ (IND)
+    Paari School of Business, SRM University, Andhra Pradesh, Amaravati, India
+St John's Innovation Cent (GBR)
+    Fetch.ai, St John's Innovation Centre, Cowley Rd, Cambridge, CB4 0WS, United Kingdom
+St Petersburg State Univ (RUS)
+    Department of Economic History and History of Economic Thought, St Petersburg State University, Saint-Petersburg, Russian Federation
+St. Petersburg Inst for Information and Automation of the Russian Acad of Sciences (RUS)
+    St. Petersburg Institute for Information and Automation of the Russian Academy of Sciences, St. Petersburg, Russian Federation
+Stanford Univ (USA)
+    Department of Physics, Stanford University, 450 Serra Mall, Stanford, 94305-2004, CA, United States
+State Univ of Manag (RUS)
+    Department of management organization in engineering, State University of Management, Moscow, Russian Federation
+Stavropol State Agrarian Univ (RUS)
+    Stavropol State Agrarian University, 12 Zootechnicheskiy Ln, Stavropol, 355017, Russian Federation
+Sungkyunkwan Univ (KOR)
+    Convergence Research Institute, Sungkyunkwan University, Suwon, South Korea
+    Dept. of AI Systems Engineering, Sungkyunkwan University, Suwon, South Korea
+    Dept. of Artificial Intelligence, Sungkyunkwan University, Suwon, South Korea
+    Dept. of Electrical and Computer Engineering, Sungkyunkwan University, Suwon, South Korea
+Sustainable Dev Res Inst for Econ and Soc of Beijing (CHN)
+    Sustainable Development Research Institute for Economy and Society of Beijing, Beijing, 100081, China
+Syst of Russian Acad of Sciences (RUS)
+    Institute for the Control of Complex, Systems of Russian Academy of Sciences, Samara, Russian Federation
+    Knowledge Genesis Group, Systems of Russian Academy of Sciences, Institute for the Control of Complex, Samara, Russian Federation
+Taif Univ (SAU)
+    Department of Mechanical Engineering, College of Engineering, Taif University, Taif, 21944, Saudi Arabia
+Taylor's Univ (MYS)
+    School of Computer Science (SCS), Taylor's University, Selangor, Malaysia
+Tech Univ of Lisbon (PRT)
+    Centre for Management Studies, Instituto Superior Técnico (CEG-IST), Technical University of Lisbon, Lisbon, Portugal
+    Centre for Management Studies, Instituto Superior Técnico (CEG-IST), Technical University of Lisbon, Portugal
+    Centre for Management Studies, Instituto Superior Técnico, Technical University of Lisbon, Portugal
+Technische Univ Berlin (DEU)
+    Chair of Logistics, Technische Universität Berlin, Berlin, Germany
+    Chair of Methods for Product Development and Mechatronics, Technische Universität Berlin, Straße des 17. Juni 135, Berlin, 10623, Germany
+    Chair of Transport Systems Planning and Transport Telematics, Technische Universität Berlin, Salzufer 17-19, Berlin, 10587, Germany
+    Chair of Transport Systems Planning and Transport Telematics, Technische Universität Berlin, Straße des 17. Juni 135, Berlin, 10623, Germany
+    DAI-Lab, Technische Universität Berlin, Ernst-Reuter-Platz 7, Berlin, 10587, Germany
+Technische Univ Kaiserslautern (DEU)
+    Technische Universität Kaiserslautern, Gottlieb-Daimler-Str. 42, Kaiserslautern, 67663, Germany
+Technol and Res Singapore Inst of Manufacturing Technol (SGP)
+    Technology and Research Singapore Institute of Manufacturing Technology, Agency for Science, Singapore, Singapore
+Telkom Univ (IDN)
+    Computer Engineering, Faculty of Electrical Engineering, Telkom University, Bandung, Indonesia
+    Computer Engineering, Telkom University, Bandung, Indonesia
+Tennessee State Univ (USA)
+    Department of CS, Tennessee State University, Nashville, TN, United States
+Texas AandM Univ (USA)
+    Department of Mechanical Engineering, Texas AandM University, 77843, TX, United States
+The British Univ in Egypt (EGY)
+    Mechanical Engineering Department, The British University in Egypt, Cairo, Shorouk City, 11837, Egypt
+The Hong Kong Polytech Univ (HKG)
+    Department of Building and Real Estate, The Hong Kong Polytechnic University, Kowloon, Hong Kong
+    Faculty of Business, The Hong Kong Polytechnic University, 1 Yuk Choi Road, Hung Hom, Kowloon, Hong Kong
+Thiagarajar Coll of Eng (IND)
+    Department of Computer Science and Engineering, Thiagarajar College of Engineering, Madurai, Tamil Nadu, India
+Tianjin Foreign Studies Univ (CHN)
+    Binhai School of Foreign Affairs, Tianjin Foreign Studies University, Tianjin, China
+Tianjin Univ (CHN)
+    Key Laboratory of Advanced Ceramics and Machining Technology, Ministry of Education, Tianjin University, Tianjin, 300072, China
+    Key Laboratory of Mechanism Theory and Equipment Design of Ministry of Education, Tianjin University, Tianjin, 300072, China
+Tianjin Univ of Technol (CHN)
+    Tianjin Key Laboratory of Intelligence Computing and Novel Software Technology, Tianjin University of Technology, Tianjin, 300384, China
+Tohoku Univ (JPN)
+    Graduate School of Information Sciences, Tohoku University, Miyagi, Sendai, Japan
+Tokyo Inst of Technol (JPN)
+    Tokyo Institute of Technology, Tokyo, Japan
+Tokyo Univ of Agric and Technol (JPN)
+    Tokyo University of Agriculture and Technology, Koganei, Tokyo, Japan
+    Tokyo University of Agriculture and Technology, Tokyo, Koganei, Japan
+Tokyo Univ of Marine Sci and Technol (JPN)
+    Department of Logistics and Information Engineering, Tokyo University of Marine Science and Technology, Japan
+Tokyo Univ of Sci (JPN)
+    Tokyo University of Science, 2641, Yamazaki, Noda, Chiba, 278-8510, Japan
+    Tokyo University of Science, Chiba, Noda, Japan
+    Tokyo University of Science, Department of Industrial Administration, Chiba, Japan
+    Tokyo University of Science, Japan
+Tongji Univ (CHN)
+    College of Electronics and Information Engineering, Tongji University, Shanghai, 201804, China
+    School of Economic and Management, Tongji University, Cao'an Road 4800, Shanghai, 201804, China
+    School of Economic and Management, Tongji University, Siping Road 1239, Shanghai, 200092, China
+    School of Electronic and Information Engineering, Tongji University, Shangqhai, 201804, China
+    Tongji University, Shanghai, 201804, China
+Tshwane Univ of Technol (ZAF)
+    Department of Industrial Engineering, Tshwane University of Technology, Pretoria, South Africa
+Tsinghua Univ (CHN)
+    Department of Civil Engineering, Tsinghua University, Beijing, 100084, China
+    Department of Civil Engineering, Tsinghua University, Beijing, China
+    Department of Industrial Engineering, Tsinghua University, Beijing, 100084, China
+TU Dortmund Univ (DEU)
+    Institute of Transport Logistics, TU Dortmund University, Dortmund, Germany
+UiT- The Arctic Univ of Norway (NOR)
+    Department of Industrial Engineering, UiT- The Arctic University of Norway, Lodve Langesgate 2, Narvik, 8514, Norway
+Ulm Tech Univ of Appl Sciences (DEU)
+    Institute for Industrial Engineering and Supply Chain Management, Ulm Technical University of Applied Sciences, Prittwitzstraße 10, Ulm, 89075, Germany
+    Institute for Manufacturing Technology and Material Science, Ulm Technical University of Applied Sciences, Prittwitzstraße 10, Ulm, 89075, Germany
+Uman Nac Univ of Horticulture (UKR)
+    Uman National University of Horticulture, Uman, Instytutska str., 1, Uman, 20305, Ukraine
+Umeå Univ (SWE)
+    Department of Computing Science, Umeå University, Umeå, 90187, Sweden
+Univ Arturo Prat (CHL)
+    Universidad Arturo Prat, Facultad de Ingeniería y arquitectura, Iquique, Chile
+Univ Bremen (DEU)
+    Center for Computing and Communication Technologies, University of Bremen, Germany
+    Department of Production Engineering, University of Bremen, Bremen, 28359, Germany
+    Department of Production Engineering, University of Bremen, Germany
+    University of Bremen, Am Fallturm 1, Bremen, 28359, Germany
+    Universität Bremen, Bibliothekstraße 1, Bremen, 28359, Germany
+Univ Coll Cork (IRL)
+    Insight SFI Research Centre for Data Analytics, School of Computer Science and IT, University College Cork, Cork, Ireland
+    SFI Centre for Research Training in AI, School of Computer Science and IT, University College Cork, Cork, Ireland
+Univ Coll Dublin (IRL)
+    Laboratory for Advanced Manufacturing Simulation and Robotics, School of Mechanical and Materials Engineering, University College Dublin, Dublin 4, Belfield, Ireland
+    School of Mechanical and Materials Engineering, University College Dublin, Dublin 4, Belfield, Ireland
+    School of Mechanical and Materials Engineering, University College Dublin, Dublin, Ireland
+    University College Dublin, Dublin, Ireland
+Univ de Guadalajara (MEX)
+    Universidad de Guadalajara, Smart Cities Innovation Center, CUCEA, Guadalajara, JAL, Mexico
+Univ de La Frontera (CHL)
+    Universidad de La Frontera, Temuco, Chile
+Univ de La Sabana (COL)
+    Faculty of Engineering, Universidad de La Sabana, Km 7, Autopista Norte de Bogotá D.C., Chía, Cundinamarca, Colombia
+    Maestría en Diseño y Gestión de Procesos, Universidad de La Sabana, Chía, Colombia
+    Universidad de La Sabana, Chia, Colombia
+Univ de Lisboa (PRT)
+    Faculdade de Ciências, Universidade de Lisboa, Lisbon, Portugal
+Univ de Salamanca (ESP)
+    BISITE Research Group, Universidad de Salamanca, Espejo 2, Salamanca, 37007, Spain
+Univ de São Paulo (BRA)
+    Department of Mechatronics and Mechanical Systems, Escola Politécnica, Universidade de São Paulo, São Paulo, Brazil
+Univ de São Paulo (USP) (BRA)
+    Universidade de São Paulo (USP), Instituto de Ciências Matemáticas e de Computação, São Paulo, São Carlos, 13566-590, Brazil
+Univ degli Studi di Modena e Reggio Emilia (ITA)
+    Department of Sciences and Methods of Engineering, Università degli Studi di Modena e Reggio Emilia, Reggio Emilia, 42122, Italy
+Univ del Pacifico (PER)
+    Universidad del Pacifico, Lima, Peru
+Univ del Valle (COL)
+    Universidad del Valle, Calle 13 No 100-00, Cali, 760050, Colombia
+Univ di Bologna (ITA)
+    Department of Computer Science and Engineering, Università di Bologna, Cesena, 47521, Italy
+Univ Fed de Minas Gerais (BRA)
+    Universidade Federal de Minas Gerais, Belo Horizonte, Minas Gerais, Brazil
+Univ Fed de Pernambuco (BRA)
+    Universidade Federal de Pernambuco, Brazil
+Univ Fed de São Paulo (UNIFESP) (BRA)
+    Universidade Federal de São Paulo (UNIFESP), Instituto de Ciência e Tecnologia, São Paulo, São José dos Campos, 12247-014, Brazil
+Univ Frères Mentouri Constantine 1 (DZA)
+    Laboratory of Transportation Engineering and Environment, University Frères Mentouri Constantine 1, Constantine, 25000, Algeria
+    Laboratory of Transportation Engineering and Environment, University Frères Mentouri-Constantine 1, Constantine, Algeria
+    MISC Laboratory, University Frères Mentouri Constantine 1, Constantine, 25000, Algeria
+Univ Hassan First (MAR)
+    Mechanical, Industrial management and Innovation laboratory, Faculty of Sciences and Technologies, University Hassan First, Settat, Morocco
+Univ Malaysia Kelantan (MYS)
+    Pusat Komputeran Dan Informatik, Universiti Malaysia Kelantan, Karung Berkunci 36, Pengkaan Chepa Kota Bharu Kelantan, 16100, Malaysia
+    Pusat Komputeran dan Informatik, Universiti Malaysia Kelantan, Karung Berkunci 36, Pengkaan Chepa, Kota Bharu, 16100, Kelantan, Malaysia
+Univ Montpellier (FRA)
+    CIRAD, BioWooEB, University Montpellier, Montpellier, France
+Univ Nac de Colombia (COL)
+    Universidad Nacional de Colombia, Medellín, Colombia
+Univ Nac de Tucuman (ARG)
+    Universidad Nacional de Tucuman, Facultad de Ciencias Exactas y Tecnología, Av. Independencia 1800, S.M. de Tucumón - Tucumán, Argentina
+Univ of Appl Sciences (CHE)
+    Zhaw School of Engineering, Institute of Applied Information Technology, University of Applied Sciences, Technikumstrasse 9, Winterthur, 8401, Switzerland
+Univ of Appl Sciences Merseburg (DEU)
+    Faculty of Business Administration and Information Sciences, University of Applied Sciences Merseburg, Eberhard-Leibnitz-Str. 2, Merseburg, 06217, Germany
+    Faculty of Business Administration and Information Sciences, University of Applied Sciences Merseburg, Merseburg, Germany
+Univ of Auckland (NZL)
+    Department of Mechanical Engineering, The University of Auckland, Auckland, New Zealand
+    Department of Mechanical Engineering, University of Auckland, Auckland, New Zealand
+Univ of Badji Mokhtar (DZA)
+    Computer Science Department, University of Badji Mokhtar, Annaba, Algeria
+Univ of Burgos (ESP)
+    University of Burgos, Department of Applied Economics, Faculty of Economics and Business, Plaza Infanta Doña Elena s/n, Burgos, 09001, Spain
+Univ of Calgary (CAN)
+    Department of Mechanical and Manufacturing Engineering, University of Calgary, Calgary, Canada
+Univ of California (USA)
+    Department of Mechanical and Aerospace Engineering, University of California, Irvine, 92697, CA, United States
+    University of California, Robotics and Mechanisms Laboratory (RoMeLa), Department of Mechanical and Aerospace Engineering, Los Angeles, 90095, CA, United States
+Univ of Cambridge (GBR)
+    Institute for Manufacturing, Department of Engineering, University of Cambridge, 17 Charles Babbage Road, Cambridge, CB3 0FS, United Kingdom
+    Institute for Manufacturing, Department of Engineering, University of Cambridge, Cambridge, CB3 0FS, United Kingdom
+    Institute for Manufacturing, Department of Engineering, University of Cambridge, Cambridge, United Kingdom
+    Supply Chain AI Lab, Institute for Manufacturing, Department of Engineering, University of Cambridge, CB3 0FS, United Kingdom
+    Supply Chain AI Lab, Institute for Manufacturing, Department of Engineering, University of Cambridge, Cambridge, CB3 0FS, United Kingdom
+Univ of Campinas (BRA)
+    Graduate Program in Electrical Engineering, University of Campinas, Cidade Universitária Zeferino Vaz, Barão Geraldo, Campinas, SP, Brazil
+Univ of Catania (ITA)
+    DICAR, University of Catania, Catania, Italy
+    Department of Civil Engineering and Architecture (DICAR), University of Catania, Catania, 95131, Italy
+    Department of Civil Engineering and Architecture, Management and Business Engineering Research Group, University of Catania, Catania, Italy
+Univ of Chinese Acad of Sciences (CHN)
+    College of Economics and Management, University of Chinese Academy of Sciences, Beijing, 100190, China
+    Sino-Danish College, University of Chinese Academy of Sciences, Beijing, 100190, China
+Univ of Concepción (CHL)
+    Department of Industrial Engineering, University of Concepción, Concepción, Chile
+Univ of Constantine 1 (DZA)
+    Faculty Science of Technology, Transportation Engineering Department, University of Constantine 1, Laboratory Engineering of Transport and Environment, Constantine, 25017, Algeria
+Univ of Derby (GBR)
+    Centre for Supply Chain Improvement, University of Derby, Derby, DE22 1GB, United Kingdom
+Univ of Duisburg-Essen (DEU)
+    Faculty of Engineering, University of Duisburg-Essen, Duisburg, 47057, Germany
+Univ of Dąbrowa Górnicza (POL)
+    The University of Dąbrowa Górnicza, Poland
+Univ of El Oued (DZA)
+    LIAP Laboratory, University of El Oued, El Oued, 39000, Algeria
+Univ of Electro-Communications (JPN)
+    The University of Electro-Communications, Tokyo, Chofu, Japan
+Univ of Electronic Sci and Technol of China (CHN)
+    School of Management and Economics, University of Electronic Science and Technology of China, Chengdu, 611731, China
+    School of Management and Economics, University of Electronic Science and Technology of China, Sichuan, Chengdu, 611731, China
+Univ of Ferhat Abbas Setif 1 (DZA)
+    Computer Science Department, University of Ferhat Abbas Setif 1, Setif, Algeria
+Univ of Florida (USA)
+    University of Florida, United States
+Univ of Groningen (NLD)
+    Faculty of Economics and Business, University of Groningen, Nettelbosje 2, Groningen, 9747, AE, Netherlands
+Univ of Guadalajara (MEX)
+    University of Guadalajara, Department of Electronics, CUCEI, Guadalajara, JAL, Mexico
+Univ of Hagen (DEU)
+    Enterprise-Wide Software Systems, University of Hagen, Universitätsstraße 1, Hagen, 58097, Germany
+Univ of Hohenheim (DEU)
+    Information Systems 2, University of Hohenheim, Germany
+Univ of Hong Kong (CHN)
+    HKU-ZIRI Lab for Physical Internet, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, Hong Kong, China
+Univ of Hong Kong (HKG)
+    Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, Hong Kong, Hong Kong
+    Department of Industrial and Manufacturing Systems Engineering, University of Hong Kong, Hong Kong, Hong Kong
+    Department of Industrial and Manufacturing Systems Engineering, University of Hong Kong, Hong Kong, Pokfulam Road, Hong Kong
+    HKU-ZIRI Lab for Physical Internet, Department of Industrial and Manufacturing Systems Engineering, Faculty of Engineering, University of Hong Kong, Hong Kong, Hong Kong
+    HKU-ZIRI Lab for Physical Internet, Department of Industrial and Manufacturing Systems Engineering, The University of Hong Kong, Hong Kong
+Univ of Houston–Downtown (USA)
+    Supply Chain Management, Management, Marketing, and Business Administration Department, College of Business, University of Houston–Downtown, Houston, TX, United States
+Univ of Hradec Kralove (CZE)
+    University of Hradec Kralove, Hradec Kralove, Czech Republic
+    University of Hradec Kralove, Rokitanskeho 62, Hradec Kralove, 500 03, Czech Republic
+Univ of Jeddah (SAU)
+    Department of Information Technology, College of Computing and Information Technology, University of Jeddah, Jeddah, Saudi Arabia
+Univ of Johannesburg (ZAF)
+    University of Johannesburg, Post Graduate School of Engineering Management, South Africa
+Univ of Larbi Ben m'Hidi (DZA)
+    Computer Science Department, University of Larbi Ben m'Hidi, Oum El Bouaghi, Algeria
+Univ of Leeds (GBR)
+    University of Leeds, School of Computing, Leeds, United Kingdom
+Univ of Limerick (IRL)
+    Department of Computer Science and Information Systems, University of Limerick, Ireland
+    Enterprise Research Centre, University of Limerick, Limerick, Ireland
+Univ of Lincoln (GBR)
+    School of Engineering and Physical Sciences, University of Lincoln, Brayford Pool, Lincoln, LN6 7TS, United Kingdom
+Univ of Lisbon (PRT)
+    Centre for Management Studies, Instituto Superior Técnico, University of Lisbon, Porto Salvo, Portugal
+Univ of Liverpool (GBR)
+    Management School, The University of Liverpool, Liverpool, United Kingdom
+Univ of Liverpool Manag Sch (GBR)
+    Centre for Supply Chain Research, University of Liverpool Management School, Liverpool, L69 7ZH, United Kingdom
+    University of Liverpool Management School, Liverpool, United Kingdom
+Univ of Luxembourg (LUX)
+    AI-Robolab/ICR, Computer Science and Communications, University of Luxembourg, Esch-sur-Alzette, 4365, Luxembourg
+Univ of Lyon (FRA)
+    University of Lyon, University of Saint-Etienne, Laboratory of Signal and Industrial Process Analysis (LASPI), Roanne, France
+Univ of Macedonia (GRC)
+    University of Macedonia, 156, Egnatia str, Macedonia, Greece
+Univ of Malta (MLT)
+    Department of Banking and Finance, FEMA, University of Malta, Msida, MSD 2080, Malta
+    FEMA, University of Malta, MSD, Msida, 2080, Malta
+Univ of Manitoba (CAN)
+    Department of Mechanical Engineering, University of Manitoba, Winnipeg, R3T 5V6, MB, Canada
+Univ of Massachusetts Med Sch (USA)
+    University of Massachusetts Medical School, Worcester, 01655, MA, United States
+Univ of Melbourne (AUS)
+    The University of Melbourne, Parkville, Melbourne, 3010, Australia
+    The University of Melbourne, Parkville, Melbourne, Australia
+    University of Melbourne, Parkville, 3010, Australia
+Univ of Michigan (USA)
+    University of Michigan, Department of Electrical Engineering and Computer Science, Ann Arbor, 48109, MI, United States
+    University of Michigan, Department of Industrial and Operations Engineering, Ann Arbor, 48109, MI, United States
+    University of Michigan, Department of Robotics, Ann Arbor, 48109, MI, United States
+    University of Michigan, Robotics Department, Ann Arbor, 48109, MI, United States
+    University of Michigan, Robotics Institute and the Department of Mechanical Engineering, Ann Arbor, 48109, MI, United States
+    University of Michigan, Robotics Institute, Ann Arbor, 48109, MI, United States
+Univ of Minnesota (USA)
+    Carlson School of Management, University of Minnesota, Minneapolis, MN, United States
+    Computer Science and Engineering, University of Minnesota, Minneapolis, MN, United States
+Univ of Moratuwa (LKA)
+    Department of Computational Mathematics, University of Moratuwa, Sri Lanka
+Univ of Naples Federico II (ITA)
+    Department of Chemical, Materials and Industrial Production Engineering, University of Naples Federico II, Piazzale Tecchio 80, Naples, 80125, Italy
+Univ of New England (AUS)
+    University of New England, Armidale, NSW, Australia
+Univ of Newcastle (AUS)
+    University of Newcastle, Callaghan, NSW, Australia
+Univ of Notre Dame (USA)
+    Electrical Engineering Department, University of Notre Dame, Notre Dame, IN, United States
+Univ of Oum El Bouaghi (DZA)
+    Research Laboratory on Computer Science's Complex Systems ReLa(CS)2, University of Oum El Bouaghi, Oum El Bouaghi, Algeria
+Univ of Oviedo (ESP)
+    University of Oviedo, Department of Business Administration, Polytechnic School of Engineering, Gijón, 33204, Spain
+Univ of Rhode Island (USA)
+    Supply Chain Management, College of Business Administration, University of Rhode Island, Kingston, RI, United States
+Univ of Roehampton (GBR)
+    Department of Marketing and Supply Chain Management, Roehampton Business School, University of Roehampton, London, United Kingdom
+Univ of Rome Tor Vergata (ITA)
+    Department of Enterprise Engineering, University of Rome Tor Vergata, Rome, 00133, Italy
+Univ of Salamanca (ESP)
+    BISITE Digital Innovation Hub, University of Salamanca, Edificio Multiusos I+D+i, Salamanca, 37007, Spain
+    BISITE Research Group, University of Salamanca, Calle Espejo 2, Salamanca, 37007, Spain
+    BISITE, University of Salamanca, Spain
+Univ of Sci and Technol of Oran Mohamed- Boudiaf (DZA)
+    SIMPA Laboratory, University of Science and Technology of Oran Mohamed- Boudiaf, Algeria
+Univ of Sci and Technol of Oran Mohamed-Boudiaf (DZA)
+    University of Science and Technology of Oran Mohamed-Boudiaf, Algeria
+Univ of Seville (ESP)
+    Design Engineering Department, Polytechnic School, University of Seville, Seville, 41011, Spain
+    Industrial Management & Business Administration Department, Industrial Management Research Group, School of Engineering, University of Seville, Seville, Spain
+    Industrial Management & Business Administration Department, School of Engineering, University of Seville, Spain
+    Industrial Management and Business Administration Department, School of Engineering, University of Seville, Seville, Spain
+    Industrial Management and Business Administration Department, University of Seville, Sevilla, Spain
+    Industrial Management and Business Administration Department, University of Seville, Seville, 41004, Spain
+    Industrial Management and Business Administration, School of Engineering, University of Seville, Seville, Spain
+Univ of Sindh (PAK)
+    Institute of Information and Communication Technology, University of Sindh, Jamshoro, Pakistan
+Univ of Stuttgart (DEU)
+    Institute for Systems Theory and Automatic Control, University of Stuttgart, Germany
+    Institute for Systems Theory and Automatic Control, University of Stuttgart, Pfaffenwaldring 9, Stuttgart, 70569, Germany
+Univ of Technol Sydney (AUS)
+    Center on Persuasive Systems for Wise Adaptive Living, School of Information, Systems and Modelling, Faculty of Engineering and Information Technology, University of Technology Sydney, 2007, NSW, Australia
+    Economics Discipline Group, Business School, University of Technology Sydney, Australia
+    University of Technology Sydney, School of Information Systems and Modelling, Faculty of Engineering and Information Technology, Ultimo, 2007, NSW, Australia
+Univ of Tehran (IRN)
+    College of Engineering, Alborz Campus, University of Tehran, Tehran, Iran
+    College of Engineering, Alborz campus, University of Tehran, Tehran, Iran
+    Department of Governance, University of Tehran, Tehran, 1439814151, Iran
+    School of Industrial Engineering, College of Engineering, Alborz campus, University of Tehran, Tehran, Iran
+    School of Industrial Engineering, College of Engineering, University of Tehran, Alborz Campus, Tehran, Iran
+    School of Industrial Engineering, College of Engineering, University of Tehran, P.O. Box: 11155/4563, Tehran, Iran
+    School of Industrial Engineering, College of Engineering, University of Tehran, Tehran, Iran
+Univ of Texas at Arlington (USA)
+    College of Business, University of Texas at Arlington, 701 West Street, Arlington, 76019, TX, United States
+    Department of Information Systems, College of Business, University of Texas at Arlington, P.O. Box 19437, Arlington, 76019, TX, United States
+Univ of Texas at San Antonio (USA)
+    Department of Information Systems and Cyber Security, University of Texas at San Antonio, San Antonio, TX, United States
+Univ of Tlemcen (DZA)
+    Manufacturing Engineering Laboratory of Tlemcen (MELT), University of Tlemcen, Higher School in Applied Sciences of Tlemcen (ESSA-Tlemcen), Tlemcen, 13000, Algeria
+Univ of Tokyo (JPN)
+    Center of Spatial Information Science, The University of Tokyo, Tokyo, Japan
+    Center of Spatial Information Science, University of Tokyo, Tokyo, Japan
+    Department of System Innovation, Graduate School of Engineering, The University of Tokyo, 7-3-1 Hongo, Bunkyo-ku, 113-8656, Tokyo, Japan
+    Graduate School of Engineering, The University of Tokyo, Tokyo, Japan
+    Graduate School of Engineering, University of Tokyo, Tokyo, Japan
+    Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan
+    Graduate School of Frontier Sciences, University of Tokyo, Tokyo, Japan
+    Institute of Industrial Science, The University of Tokyo, Tokyo, Japan
+    Institute of Industrial Science, University of Tokyo, Tokyo, Japan
+Univ of Toronto (CAN)
+    Enterprise Integration Laboratory, University of Toronto, 4 Taddle Creek Road, Rosebrugh Building, Toronto, M5S 3G9, ON, Canada
+    Rotman School of Management, University of Toronto, Toronto, ON, Canada
+Univ of Twente (NLD)
+    Datamanagement and Biometrics, University of Twente, Enschede, Netherlands
+    Industrial Engineering and Business Information Systems, University of Twente, Enschede, Netherlands
+    Pervasive Systems, University of Twente, Enschede, Netherlands
+    University of Twente, Netherlands
+Univ of Valenciennes and Hainaut-Cambresis (FRA)
+    University of Valenciennes and Hainaut-Cambresis, LAMIH UMR CNRS 8201, Valenciennes, France
+Univ of Verona (ITA)
+    Department of Business Administration, University of Verona, Verona, Italy
+Univ of Washington (USA)
+    Department of Industrial and Systems Engineering, University of Washington, Seattle, 98115, WA, United States
+    Department of Mechanical Engineering, University of Washington, Seattle, 98195, WA, United States
+Univ of Wollongong (AUS)
+    SMART Infrastructure Facility, Faculty of Engineering and Information Sciences, University of Wollongong, Wollongong, Australia
+    School of Mechanical, Materials and Mechatronics Engineering, Faculty of Engineering and Information Sciences, University of Wollongong, Wollongong, Australia
+    University of Wollongong, School of Mechanical Materials Mechatronic and Biomedical Engineering, Faculty of Engineering and Information Sciences, Wollongong, 2522, NSW, Australia
+Univ of York (GBR)
+    School for Business and Society, University of York, Heslington, York, YO10 5DD, United Kingdom
+Univ Priv Boliviana (BOL)
+    Universidad Privada Boliviana, Cochabamba, Cochabamba, Bolivia
+Univ Sidi Mohamed Ben Abdellah (MAR)
+    Faculty of Science Dhar El Mahraz, University Sidi Mohamed Ben Abdellah, Laboratory of Informatics Image Processing and Numerical Analysis (LIIAN), Fez, Morocco
+Univ Sumatera Utara (IDN)
+    Universitas Sumatera Utara, Industrial Engineering, Faculty of Engineering, Medan, Indonesia
+Univ Tecnológica Nac (ARG)
+    Grupo de Investigación en Tecnologías Avanzadas de Tucumán (GITIA), Universidad Tecnológica Nacional, Facultad Regional Tucuman, Rivadavia 1050, S.M. de Tucuman - Tucumón, Argentina
+Universitat Politecnica de Valencia (ESP)
+    Departamento de Sistemas Informaticos y Computacion, Universitat Politecnica de Valencia, Valencia, Spain
+    Departamento de Sistemas Informáticos y Computación, Universitat Politecnica de Valencia, Camino de Vera s-n, Valencia, 46980, Spain
+    Departamento de Sistemas Informáticos y Computación, Universitat Politècnica de València, Camino de Vera s/n, Valencia, 46022, Spain
+    Dpto. Sistemas Informáticos y Computación, Universitat Politècnica de València, València, Spain
+    Dpto. Sistemas Informáticos y Computación, Universitat Politécnica de Valencia, Valencia, Spain
+    Fluing, Institute for Multidisciplinary Mathematics, Universitat Politècnica de València, Valencia, 40022, Spain
+    Institut Valencià d'Investigació en Intel·ligència Artificial (VRAIN), Universitat Politècnica de València, Spain
+    Research Centre on Production Management and Engineering (CIGIP), Universitat Politècnica de València, València, Spain
+    Valencian Res. Institute for Artificial Intelligence, Universitat Politècnica de València, Valencia, Spain
+Université Aix-Marseille (FRA)
+    LSIS—CNRS UMR 6168, Université Aix-Marseille, Marseille, France
+Université Centrale de Tunis Rue du Lac Biwa (TUN)
+    Université Centrale de Tunis Rue du Lac Biwa, Les Berges du Lac 1, Tunis, 1053, Tunisia
+Université de Bourgogne Franche-Comté (FRA)
+    Mechanical Engineering and Design Department, Université de Bourgogne Franche-Comté, Université de Technologie de Belfort-Montbéliard, ICB UMR CNRS 6303, Belfort Cedex, 90010, France
+Université de Lorraine (FRA)
+    Laboratoire ERPI, ENSGSI, Université de Lorraine, 8 rue Bastien Lepage, Nancy, 54000, France
+    Laboratory of Industrial Engineering, Production and Maintenance (LGIPM), Université de Lorraine, 1, route d’Ars Laquenexy CS65820, Metz Cedex 3, 57078, France
+Université de Nantes (FRA)
+    LS2N, UMR CNRS 6004, Université de Nantes, IUT de Nantes, Carquefou, 44 470, France
+Université de Technologie de Compiègne (FRA)
+    Department of Mechanical Systems Engineering, Sorbonne Universités, Université de Technologie de Compiègne, Roberval Laboratory, CS 60319, Compiègne Cedex, 60203, France
+Université de Technologie Tarbes Occitanie Pyrénées (FRA)
+    Laboratoire Génie de Production, Université de Technologie Tarbes Occitanie Pyrénées, Tarbes, 65016, France
+Université de Toulouse (FRA)
+    Laboratoire de Génie Chimique, Université de Toulouse, CNRS, INP, UPS, Toulouse, France
+Université de Tunis (TUN)
+    High Institute of Management, Université de Tunis, Tunisia
+    Université de Tunis, Higher Institute of Management of Tunis, SMART Lab, Bardo, 2000, Tunisia
+    Université de Tunis, SMART LAB, Higher Institute of Management of Tunis, Bardo, Tunisia
+Université Lille 2 (FRA)
+    ILIS – Lille Institute of Healthcare Engineering, Université Lille 2, Lille, France
+Université Paris (FRA)
+    Laboratoire MGSI, FIUT de Montreuil, Université Paris, Montreuil, 93100, France
+Université Polytechnique Hauts-de-France (FRA)
+    LAMIH, UMR CNRS 8201, Université Polytechnique Hauts-de-France, Le Mont Houy, Valenciennes, 59313, France
+    LAMIH, UMR CNRS 8201, Université Polytechnique Hauts-de-France, Valenciennes, 59313, France
+    LAMIH, UMR CNRS 8201, Université Polytechnique Hauts-de-France, Valenciennes, France
+Ural Fed Univ N. A. the First President of Russia B.N. Yeltsin (RUS)
+    Dept. ITA, Ural Federal University N. A. the First President of Russia B.N. Yeltsin, Ekaterinburg, Russian Federation
+V.A. Trapeznikov Inst of Control Sciences (RUS)
+    V.A. Trapeznikov Institute of Control Sciences, 65, Profsoyuznaya, Moscow, 117997, Russian Federation
+V.N. Karazin Kharkiv Nac Univ (UKR)
+    V.N. Karazin Kharkiv National University, Kharkiv, Ukraine
+Vasyl' Stus Donetsk Nac Univ (UKR)
+    Vasyl' Stus Donetsk National University, 600-richchia str., 21, Vinnytsia, 21021, Ukraine
+Vellore Inst of Technol (IND)
+    Vellore Institute of Technology, Vellore, India
+Vels Inst of Sci (IND)
+    Department of Information Technology, Vels Institute of Science, Technology and Advanced Studies, Chennai, India
+    Vels Institute of Science, Technology and Advanced Studies, Chennai, India
+Victoria Univ (AUS)
+    Center for Strategic Economic Studies, Victoria University, Melbourne, 8001, VIC, Australia
+Volkswagen AG (DEU)
+    Volkswagen AG, Berliner Ring 2, Wolfsburg, 30884, Germany
+VTT Tech Res Cent of Finland Ltd. (FIN)
+    VTT Technical Research Centre of Finland Ltd., Espoo, Finland
+Wageningen Univ & Res (NLD)
+    Operations Research and Logistics Group, Wageningen University & Research, Wageningen, Netherlands
+Wichita State Univ (USA)
+    Department of Industrial, Systems, and Manufacturing Engineering, Wichita State University, Wichita, KS, United States
+Wrocław Univ of Sci and Technol (POL)
+    Wrocław University of Science and Technology, Wrocław, Poland
+Wsb Univ in Poznań (POL)
+    Wsb University in Poznań, Powstańców Wielkopolskich, Poznań, Poland
+Wuhan Bus Univ (CHN)
+    Business Administration, Wuhan Business University, Wuhan, China
+Wuhan Textile Univ (CHN)
+    Wuhan Textile University, School Of Management, Wuhan, China
+Wuhan Univ (CHN)
+    Wuhan University, School Of Information Engineering, Wuhan, China
+Wuhan Univ of Technol (CHN)
+    School of Logistics Engineering, Wuhan University of Technology, Wuhan, 430063, China
+Xi'an Aeroesp Precision Electromechanical Inst (CHN)
+    Xi'an Aerospace Precision Electromechanical Institute, Xi'an, 710010, China
+Xi'An Univ of Posts and Telecomm (CHN)
+    School of Economics and Management, Xi'An University of Posts and Telecommunications, Xi'an, 710121, China
+Xi'An Univ of Technol (CHN)
+    Faculty of Mechanical and Precision Instrument Engineering, Xi'an University of Technology, Xi'an, 710048, China
+    School of Economics and Management, Xi'An University of Technology, Xi'an, 710048, China
+Xiamen Univ (CHN)
+    Center for Accounting Studies, Xiamen University, Xiamen, 361005, China
+Xiangnan Univ (CHN)
+    School of Physics, Electronic Electrical Engineering, Xiangnan University, Chenzhou, 423000, China
+Xinjiang Univ of Finan and Econ (CHN)
+    School of Statistics and Information, Xinjiang University of Finance and Economics, Urumqi, 830012, China
+Xi’an Shiyou Univ (CHN)
+    School of Civil Engineering, Xi’an Shiyou University, Xi’an, 710065, China
+Yanshan Univ (CHN)
+    School of Economics and Management, Yanshan University, Qinhuangdao, 066004, China
+    School of Economics and Management, Yanshan University, Qinhuangdao, Hebei, China
+Yokohama Nac Univ (JPN)
+    Yokohama National University, Kanagawa, Japan
+Yuan Ze Univ (TWN)
+    Department of Computer Science & Engineering, Yuan Ze University, Chungli, Taiwan
+    Department of Information Management, Yuan Ze University, Chungli, Taiwan
+    Innovation Center for Big Data and Digital Convergence, Yuan Ze University, Chungli, 32003, Taoyuan, Taiwan
+Zagazig Univ (EGY)
+    Industrial Engineering Department, Zagazig University, Sharkia, Zagazig, 44519, Egypt
+Zhanjiang Univ of Sci and Technol (CHN)
+    School of Intelligent Manufacturing Engineering, Zhanjiang University of Science and Technology, Zhanjiang 524000, China
+Zhejiang Ocean Univ (CHN)
+    School of Mathematics, Physics and Information Science, Zhejiang Ocean University, No.1, Haida South Road, Lincheng, Changzhi Island, Zhoushan, 316022, Zhejiang, China
+Zhejiang Univ (CHN)
+    State Key Laboratory of Fluid Power and Mechatronic Systems, Key Laboratory of Advanced Manufacturing Technology of Zhejiang Province, School of Mechanical Engineering, Zhejiang University, Hangzhou, China
+Zhejiang Univ of Finan and Econ (CHN)
+    School of Information, Zhejiang University of Finance and Economics, Hangzhou, Zhejiang, 310018, China
+Zhejiang Univ of Technol (CHN)
+    School of Computer Science and Technology, Zhejiang University of Technology, Hangzhou, 310023, China
+    Zhejiang University of Technology, China
+Zhengzhou Bus Univ (CHN)
+    General Education Center, Zhengzhou Business University, Zhengzhou, China
+Zhengzhou Univ (CHN)
+    School of Business, Zhengzhou University, China
+    School of Business, Zhengzhou University, Henan, China
+    School of Business, Zhengzhou University, Zhengzhou, China
+    School of Mechanical Engineering, Zhengzhou University, Henan, China
+    School of Mechanical Engineering, Zhengzhou University, Zhengzhou, China
+    Zhengzhou University, China
+Zhongnan Univ of Econ and Law (CHN)
+    Finance and Taxation Department, Zhongnan University of Economics and Law, Wuhan, 430073, China
+“Babeş–Bolyai” Univ (ROU)
+    “Babeş–Bolyai” University, Business Information Systems Department, 58-60 Teodor Mihali Street, Cluj-Napoca, 400591, Romania
