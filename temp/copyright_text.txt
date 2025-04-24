@@ -1,0 +1,453 @@
+ORM . 2021 the authors . this is an open access article under the cc by nc nd license ( http : creativecommons . org licenses by nc nd 4.0 )
+ONS . 2021 the authors . this is an open access article under the cc by nc nd license ( http : creativecommons . org licenses by nc nd 4.0 )
+GE . 2022 the authors . this is an open access article under the cc by nc nd license ( https : creativecommons . org licenses by nc nd 4.0 )
+ight 2023 the authors . this is an open access article under the cc by nc nd license ( https : creativecommons . org licenses by nc nd 4.0 )
+ight 2023 the authors . this is an open access article under the cc by nc nd license ( https : creativecommons . org licenses by nc nd 4.0 )
+ight 2023 the authors . this is an open access article under the cc by nc nd license ( https : creativecommons . org licenses by nc nd 4.0 )
+hed by elsevier b . v . this is an open access article under the cc by nc nd license ( https : creativecommons . org licenses by nc nd 4.0 )
+rform A_DISTRIBUTED_MODEL_BASED_SOLUTION in MOST_CASES , whilst respecting THE_INFORMATION_CONSTRAINTS of THE_SYSTEM . 2024 the author ( s )
+ . 2024 copyright for this paper by its authors . use permitted under creative commons license attribution 4.0 international ( cc by 4.0 ) .
+_ECONOMIC_AND_ECOLOGICAL_POINT of VIEW , considering THE_INCREASING_SHARES of RENEWABLE_ENERGIES in THE_GRID_MIX . 2022 , the author ( s ) .
+ MULTIPLE_PLANS in A_SUSTAINABLE_SUPPLY_CHAIN , aiming at THE_SOCIAL_IMPLEMENTATION of SUSTAINABLE_SUPPLY_CHAINS . 2023 , the author ( s ) .
+COLLABORATION between PARTNERS and provides A_SCALABLE_SOLUTION for THE_INCREASING_SIZE of SUPPLY_CHAIN_NETWORKS . 2018 , the author ( s ) .
+OLLER_EXCELLENT_PERFORMANCE for DISTRIBUTED_CONSENSUS_TRACKING of MULTI_AGENT_SUPPLY_CHAIN_NETWORK is demonstrated . 2022 the author ( s ) .
+_TOTAL_PROFIT of THE_GREEN_SUPPLY_CHAIN_NETWORK is improved , and THE_HARM to THE_ENVIRONMENT is decreased as well . the author ( s ) 2020 .
+E and SEVERITY in ADVANCE , THE_SYSTEM also serves to support PREVENTIVE_SUPPLY_CHAIN_DESIGN_CHANGES . springer nature switzerland ag 2020 .
+ by INCREASING_ORGANIZATION , SECURITY , TRANSPARENCY and significantly improving DISTRIBUTION_TIMES . springer nature switzerland ag 2020 .
+es THE_USEFULNESS of THE_DISTRIBUTED_COMPUTING to decrease THE_TOTAL_COST in THE_LOGISTICS_OPERATION . springer nature switzerland ag 2021 .
+SATISFACTION_MEASURES , and is shown quite significant under CERTAIN_SETTINGS in THE_NUMERICAL_STUDIES . edp sciences , roadef , smai 2021 .
+ERPRISES is constructed to provide GUIDANCE for achieving COLLABORATION among SUPPLY_CHAIN_ENTERPRISES . operational research society 2021 .
+EMENTATION_DATES , THE_AGENT_SYSTEM provides ADDITIONAL_CAPACITY and DECISION_MAKING_SUPPORT to THE_ORGANISATION . the author ( s ) , 2022 .
+D_SCREENLINE_COUNTS with REASONABLE_COMPUTATIONAL_COST for CALIBRATION . national academy of sciences : transportation research board 2022 .
+dvantageous for REAL_TIME_CONTROL , at_least for SMALL_SIZED_INSTANCES . national academy of sciences : transportation research board 2022 .
+HNOLOGY ( ICT ) . the editor ( s ) ( if applicable ) and the author ( s ) , under exclusive license to springer nature switzerland ag 2022 .
+SUPPLY_CHAIN than THE_SERIAL_SUPPLY_CHAIN . 2015 international institute for innovation , industrial engineering and entrepreneurship i4e2 .
+SITIVE_SUPPLY_CHAINS_TO_ROBUST_AND_RESILIENT_ONES . the author ( s ) , under exclusive license to springer nature singapore pte ltd . 2023 .
+of SUPPLIER_SELECTION . the author ( s ) , under exclusive licence to springer science+business media , llc , part of springer nature 2023 .
+UCTION , and PRODUCTION_RATE . the author ( s ) under exclusive licence to german academic society for production engineering ( wgp ) 2024 .
+BLEMS . this study will serve as A_BASIS for further developing THIS_PRACTICAL_YET_UNDERSTUDIED_SCHEDULING_PROBLEM . the author ( s ) 2024 .
+HELON_INVENTORY_MANAGEMENT_PROBLEMS with COMPLEX_SUPPLY_CHAIN_STRUCTURES and in NON_STATIONARY_MARKET_ENVIRONMENTS . the author ( s ) 2024 .
+d to be in THE_INITIAL_PHASE of PI_IMPLEMENTATION . the author ( s ) , under exclusive license to springer nature singapore pte ltd . 2024 .
+ ITS_EFFECTIVENESS in COMPLEX_LOGISTICS_SCENARIOS . the author ( s ) , under exclusive license to springer nature singapore pte ltd . 2024 .
+INESS_MANAGEMENT_SYSTEM has achieved GOOD_RESULTS . the author ( s ) , under exclusive license to springer nature singapore pte ltd . 2024 .
+n SUPPLY_CHAIN_DECISION_MAKING . the author ( s ) , under exclusive licence to springer verlag london ltd . , part of springer nature 2024 .
+tigating DEFICIENCIES and enhancing OVERALL_EFFICIENCY . the author ( s ) , under exclusive licence to springer nature switzerland ag 2024 .
+SEFULNESS of THE_SOLUTIONS used in THE_DESCRIBED_AREAS . the author ( s ) , under exclusive license to springer nature switzerland ag 2024 .
+DEVELOPMENT while also improving THE_LIVES of CITIZENS . the author ( s ) , under exclusive license to springer nature switzerland ag 2024 .
+ENT are THE_MOST_COVERED_ACTIVITIES in INTELLIGENT_DSS . the author ( s ) , under exclusive license to springer nature switzerland ag 2024 .
+_STANDARDIZATION of ENTERPRISE_E_PROFILES is discussed . the author ( s ) , under exclusive license to springer nature switzerland ag 2024 .
+CHASER , THE_TIME_NEGOTIATING_MECHANISM is implemented . the author ( s ) , under exclusive license to springer nature switzerland ag 2024 .
+RATED_INSTANCES that show PROMISING_RESULTS for THE_MANUFACTURING_INDUSTRY . ifip international federation for information processing 2024 .
+ust ensure that THE_UNIT_COST of PRODUCTS remains within A_REASONABLE_RANGE . the authors . published by edp sciences , roadef , smai 2024 .
+IONS decline . we verify THE_ABOVE_CONCLUSIONS using MULTI_AGENT_SIMULATION . the authors . published by edp sciences , roadef , smai 2024 .
+_SUPPLY_CHAIN that ensures THE_ACCURATE_EXECUTION of ACTIVITIES throughout THE_ENTIRE_SUPPLY_CHAIN_LIFECYCLE . higher education press 2024 .
+STEM is able to find THE_BEST_NEGOTIATION_STRATEGY that makes ALL_MEMBERS of THE_SCM satisfied in A_SIMPLE_SCM . avestia publishing , 2015 .
+E_INTELLIGENT_COORDINATION_ALGORITHM_PROCESSES and ITS_INFLUENCE to THE_WHOLE_SUPPLY_CHAIN_VALUES . springer verlag berlin heidelberg 2015 .
+_DOMAINS collaborate effectively towards A_COMMON_GOAL . the author ( s ) , under exclusive license to springer nature switzerland ag 2025 .
+UNDERSTANDING of SUCH_COMPLEX_SYSTEMS as SUPPLY_CHAINS . the author ( s ) , under exclusive license to springer nature switzerland ag 2025 .
+rder_to maintain EFFICIENCY while benifitting from THE_ADVANTAGES of DECENTRALIZATION . springer international publishing switzerland 2016 .
+ON_SUPPORT regarding THE_DESIGNING and applying RFID_INFRASTRUCTURES in SUPPLY_CHAINS . springer international publishing switzerland 2016 .
+ SIMULATIONS_SHOWS that OUR_AGENT has BETTER_PERFORMANCE in TWO_DIFFERENT_SIMULATIONS . springer international publishing switzerland 2016 .
+PROACH will be compared with CLASSICAL_MATHEMATICAL_PROGRAMMING on THE_SAME_DATA_SETS . springer international publishing switzerland 2016 .
+T_SYSTEM_PROTOTYPE are presented that indicate that THE_PROPOSED_APPROACH is feasible . springer international publishing switzerland 2016 .
+TORS and give A_MORE_REALISTIC_VISION onto MANUFACTURING_COORDINATION in THE_SUPPLY_CHAIN . the authors , published by edp sciences , 2017 .
+_SIMULATOR and THE_INTERACTION_SEQUENCE are reported and validated by AN_EXPERIMENTAL_CAMPAIGN . springer international publishing ag 2017 .
+SUPPLY_CHAIN , and realize the efficient , flexible , and QUICK_OPERATION of MANUFACTURING_ENTERPRISE_SUPPLY_CHAIN . the author ( s ) 2018 .
+UCT_SUPPLY_CHAIN , and realize the efficient , flexible , and QUICK_OPERATION of PERSONALIZED_PRODUCT_SUPPLY_CHAIN . the author ( s ) 2018 .
+evaluate currently operating TEMPORARY_ACCOMMODATION_SITES in GREECE . springer international publishing ag , part of springer nature 2018 .
+e caused by DELIVERY_TRUCKS . moreover it can reduce THE_TRAFFIC_CONGESTION and NOISE in URBAN_AREAS . springer nature switzerland ag 2018 .
+ENT and presents A_MODEL for THE_MULTI_AGENT_FRAMEWORK in_order_to investigate SUPPLY_CHAIN_DYNAMICS . springer nature switzerland ag 2018 .
+hin THIS_ENVIRONMENT , THE_SOLUTION scales up well and is profitable across DIFFERENT_CONFIGURATIONS . springer nature switzerland ag 2018 .
+NEGOTIATION_MECHANISM and FEW_RESULTS from A_TEST_CASE are presented . springer international publishing ag , part of springer nature 2019 .
+_BLOCKCHAIN and describe AN_EXAMPLE_SUPPLY_CHAIN_MANAGEMENT_SCENARIO_TYPE to_illustrate THE_APPROACH . springer nature switzerland ag 2019 .
+T_BUSINESSES . THE_RESULTS also show THE_CRITICAL_ROLE of companies ' RISK_AVERSION conceiving A_SCN . springer nature switzerland ag 2019 .
+LEMENTATION of MULTI_AGENT_TECHNOLOGY makes THE_SYSTEM much more flexible to make THE_FINAL_DECISION . springer nature switzerland ag 2019 .
+learned from EARLY_TESTS with THE_REFERENCE_IMPLEMENTATION of THE_PLATFORM . ifip international federation for information processing 2019 .
+T : PAST , present , and FUTURE . AMERICAN_VS_GERMAN_TEAMS : the case of HUMAN_RESOURCES_CONSUMPTION . SIMULATION of BANK_TRANSACTION_DATA .
+ERGENCY_DEPARTMENTS : DEFINITION and CHARACTERIZATION . EXPLORATION of ( DE ) centralising SCHEDULING in AN_EMERGENCY_DEPARTMENT . PREFACE .
+SIZE_DISTRIBUTION of THESE_FARMERS . RESULTS suggest that THE_FOOD_HUB_SELECTION_POLICY significantly impacts LONG_TERM_SYSTEM_PERFORMANCE .
+during THE_OPERATIONAL_LIFE_CYCLE_PHASE . refocuses THE_WORK_TASKS of THE_SITE_MANAGERS , and reduces THE_CONSTRUCTION_BUDGET and SCHEDULE .
+ SMARTNESS_VERSUS_EMBEDDABILITY : A_TRADEOFF for THE_DEPLOYMENT of SMART_AGVS in INDUSTRY . h2cm based HOLONIC_MODELLING of A_GAS_PIPELINE .
+D_SCENARIOS . DYNAMIC_E_LEARNING_CONTENT_SELECTION with BDI_AGENTS and MULTI_PLATAFORM_INTERFACE to AN_ITS of PROPOSICIONAL_LOGIC_TEACHING .
+EOUS_USER_BEHAVIORS during THE_INTERACTION with DIALOG_SYSTEMS and BELIEF_BASED_ARGUMENTATION in INTELLIGENCE_ANALYSIS and DECISION_MAKING .
+4.0 ) peer review under responsibility of the scientific committee of the international conference on industry 4.0 and SMART_MANUFACTURING .
+ore , share and respond to MARKET_INFORMATION_DATA conveniently and quickly and has PRACTICAL_GUIDANCE for THE_REALISTIC_COLLABORATIVE_SCM .
+USER_DECISION . BLOCKCHAIN enabled REWARD_SYSTEM for SUSTAINABLE_LAST_MILE_DELIVERY in URBAN_LOGISTICS : a CASE_STUDY on SIMFLEET_PLATFORM .
+ENT_SUBSIDY_POLICY . the AGENT_BASED_MODELING_AND_SIMULATION method provides A_NOVEL_APPROACH to explore THE_IMPACT on PROFIT_DISTRIBUTION .
+UILDINGS . ROBUST_DETECTION of OUTDOOR_URBAN_ADVERTISING_PANELS in STATIC_IMAGES . SIMFLEET : A_NEW_TRANSPORT_FLEET_SIMULATOR based on MAS .
+LITIES_INTEGRATION on balancing MECHANISMS in AGENT_BASED_SMART_GRIDS and A_HOLONIC_MULTI_AGENT_CONTROL_SYSTEM for NETWORKS of MICRO_GRIDS .
+AL for EMISSIONS_REDUCTION , but SUSTAINABILITY of THE_UDC is reliant on THE_UDC_CHARGES and carriers ' sensitivity to THE_RATE of CHARGES .
+ for HIGH_RISK_DOORSTEP_SCAM_VICTIMS . SIGNIFICANT_EDUCATIONAL_CONTENT based LEARNING_MODEL using PUBLIC_ONTOLOGIES and MULTIAGENT_SYSTEMS .
+ for HIGH_RISK_DOORSTEP_SCAM_VICTIMS . SIGNIFICANT_EDUCATIONAL_CONTENT based LEARNING_MODEL using PUBLIC_ONTOLOGIES and MULTIAGENT_SYSTEMS .
+ed on ESSENTIAL_FEATURES extracted from AGENT_BASED_MODELING . SHORT_DURATION_AGGREGATE_STATISTICAL_MODEL checking for MULTI_AGENT_SYSTEMS .
+E for programming VERIFIABLE_AUTONOMOUS_AGENTS in ROS . combining LEVY_WALKS and flocking for COOPERATIVE_SURVEILLANCE using AERIAL_SWARMS .
+ON_MODEL with VIGILANT_AGENTS and DELIBERATION . AGENT_BASED_SIMULATION of THE_DENGUE_VIRUS_PROPAGATION . AGENTS with DYNAMIC_SOCIAL_NORMS .
+E_ARTI_AND_BASE_ARCHITECTURES . INVESTIGATIONS on REAL_TIME_IMAGE_RECOGNITION with CONVOLUTIONAL_NEURAL_NETWORKS on INDUSTRIAL_CONTROLLERS .
+S , COORDINATION_GROUPS tend to consolidate over TIME , which SUGGESTS_IMPLICATIONS for OVERALL_SUPPLY_CHAIN_STRUCTURAL_RESILIENCE . JASSS .
+d on SMART_LOTS and THEIR_QUALITY_PREDICTION_CAPABILITY . ISSUES in REVERSE_SUPPLY_CHAINS_LOGISTICS . ARCHITECTURE for PRODUCTION_INTERNET .
+EM in HUMANITARIAN_LOGISTICS : CASE_STUDY of RAPID_MAPPING . A_LOCAL_SEARCH_ALGORITHM for THE_ASSIGNMENT_AND_WORK_BALANCE of A_HEALTH_UNIT .
+_AND_RESILIENT_MANUFACTURING_OPERATIONS inspired by SOFTWARE_DEFINED_NETWORKING and building A_ROBOTIC_CYBER_PHYSICAL_PRODUCTION_COMPONENT .
+TIAL_INFORMATION_SHARING has A_RELEVANT_IMPACT on reducing THE_BULLWHIP_EFFECT , in_particular for HIGH_LEVEL of RETAILERS ' HETEROGENEITY .
+ helpful for DECISION_MAKERS to make QUICK_DECISION with LESS_HUMAN_INTERACTIONS . 2020 by the authors . licensee growing science , canada .
+TED_HIGHER_CUSTOMER_PARTNER_SATISFACTION and A_MORE_EMBEDDED_DYADIC_RELATIONSHIP . 2019 by the authors . licensee growing science , canada .
+ERVICES , in_order_to FACILITATE_BUSINESS_PROCESS_EXECUTION as WEB_SERVICES . 2019 by scitepress science and technology publications , lda .
+E_SMALL_TO_MEDIUM_SCALE_SCENARIO under SOME_SAMPLE_MODELS of VARIOUS_SCALES . 2019 by scitepress science and technology publications , lda .
+LUSIVE_CONCEPT called the SENSE_OF_SELF that_is A_CENTRAL_ELEMENT of EXISTENTIAL_INQUIRY in HUMANS . copyright 2022 deshmukh and srinivasa .
+WS . THE_STRATEGY in POINT_INVOLVES minimizing DEVIATIONS from A_GIVEN_ASSORTMENT_STRUCTURE under CERTAIN_CIRCUMSTANCES . excelingtech pub .
+ERY_EFFICIENCY , and FEWER_DELAYS and SCHEDULING_ERRORS . 2024 the author ( s ) . published with license by taylor and francis group , llc .
+ to FORMULATE_ERPS but also extend THE_THEORETICAL_SYSTEM of CO_EVOLUTION and enrich THE_INNOVATION_VALUE_CHAIN_THEORY . 2020 elsevier inc .
+e stage MAKE_TO_ORDER_SUPPLY_NETWORK is studied for THE_APPLICATION of THE_METHODOLOGY and to verify ITS_EFFECTIVENESS . 2015 elsevier inc .
+HE_STATISTICAL_EVALUATION of it , have been demonstrated THE_ROBUSTNESS and ACCURACY of THIS_NEW_PROPOSED_ARCHITECTURE . 2019 elsevier inc .
+E_REASONS for THEIR_LOW_AND_SLOW_UPTAKE and suggest WAYS to ensure A_GREATER_ADOPTION of THESE_TECHNOLOGIES in THE_OGI . 2019 elsevier inc .
+on license , which permits UNRESTRICTED_USE , DISTRIBUTION , and reproduction in any medium , provided the original work is properly cited .
+SED_FRAMEWORK can help build AGENT_BASED_MODELS to address COMPLEX_PROBLEMS in CONSTRUCTION_MANAGEMENT . 2021 , emerald publishing limited .
+RST_STUDY to investigate THE_RELEVANCE of MAS for LOGISTICS_NETWORK_RESILIENCE using THE_DELPHI_METHOD . 2023 , emerald publishing limited .
+ by focusing_on A_PRINCIPAL_AGENT_RELATIONSHIP in A_TSSC , the study aims to address THIS_RESEARCH_GAP . 2018 , emerald publishing limited .
+G_THE_DELIVERY . muhammad ali memon , mohamed hedi karray , agnes letouzey and bernard archimede . published by emerald publishing limited .
+URABILITY and SCALABILITY . xiang t . r . kong , ray y . zhong , gangyan xu and george q . huang . published by emerald publishing limited .
+ESSES , which INCORPORATES_SEMANTIC_WEB_INFORMATION and A_BIG_DATA_ONTOLOGY in THE_AGENT_SOCIETY . 2016 , emerald group publishing limited .
+FECTIVE_IMPLEMENTATION of THE_PDS and also improve in_the_areas_of CONCERNS which are pointed the study . emerald group publishing limited .
+_SERIES_DATA . it consists of MANAGEMENT , INTEGRATED_DATABASE , and OPERATION_MODULES . 2016 , fuji technology press . all rights reseved .
+ORLD_APPLICATIONS . 2023 international foundation for autonomous agents and multiagent systems ( www . ifaamas.org ) . all rights reserved .
+RIBUTED_SYSTEMS while preserving THE_CONFIDENTIALITY of AGENTS . ( 2024 ) , ( science and information organization ) . all rights reserved .
+verify whether THIS_VIRTUAL_SUPPLY_CHAIN operates correctly and produces APPROPRIATE_RESULTS . 2021 elsevier b . v . . all rights reserved .
+ THE_SHIPPERS_FACTORIES looking to temporarily store THEIR_GOODS before FURTHER_DISTRIBUTION . 2024 elsevier b . v . . all rights reserved .
+PACT of utilising gs1 s scan4transport digital link ( gs1dl ) in enabling DOCK_REALLOCATIONS . 2024 elsevier b . v . . all rights reserved .
+_LARGE_NUMBER of heterogeneous , TIME_VARYING_FACTORS that directly affect THE_EFFICIENCY of CLSC functioning . 2020 . all rights reserved .
+ATION proceedings of the 8th international conference on information systems , logistics and supply chain , ils 2020 . all rights reserved .
+O_BASED_MODEL . it creates 7.2 percent higher in TOTAL_TIME compared with THE_INTEGER_PROGRAMMING_BASED_MODEL . 2021 . all rights reserved .
+P , DTI_UNLOCKS_ITS_POTENTIAL for ADVANCEMENT , creating VALUE and fostering COMPETITIVENESS . the author ( s ) 2024 . all rights reserved .
+ANCEMENT in optimizing THE_INTRICATE_LANDSCAPE of PROCUREMENT_DECISION_MAKING . iise annual conference and expo 2024 . all rights reserved .
+SOLUTION of THE_CHALLENGE . 2020 26th international association for management of technology conference , iamot 2017 . all rights reserved .
+ to currently used TOOLS_AND_METHODS . harbor , maritime and multimodal logistics modeling and simulation , hms 2019 . all rights reserved .
+NTS of HUMANITARIAN_LOGISTICS and reorganize THE_PLANS when THE_ENVIRONMENT changes . 2023 , universidad de tarapaca . all rights reserved .
+ THE_MODEL_EFFECTIVENESS in optimizing FLOW_MANAGEMENT and PRODUCTION_SYSTEM_PERFORMANCE . 2024 editura politechnica . all rights reserved .
+UNCTION into THE_REINFORCEMENT_LEARNING of NEGOTIATION_STRATEGIES . 2024 , science and technology publications , lda . all rights reserved .
+ will affect THE_OVERALL_SHARED_COMMON_GOAL . copyright 2020 by scitepress science and technology publications , lda . all rights reserved .
+_ROBUST_APPROACH to currently used TOOLS_AND_METHODS . 2019 dime universita di genova , dimeg university of calabria . all rights reserved .
+SALES_GAP . and not related to THE_SALES_PERCENTAGE and TOTAL_RETAILERS ' STOCK_GAPS . 2022 institut za istrazivanja . all rights reserved .
+VALIDATION of THE_MAIN_CONCEPTS of AN_ORGANIZATION at a HIGH_LEVEL_OF_ABSTRACTION . 2021 slovene society informatika . all rights reserved .
+ and improving PRODUCTION_SYSTEM_EQUIPMENT_RELIABILITY , AVAILABILITY , and PERFORMANCE . 2024 totem publisher , inc . all rights reserved .
+Y and describe how we have used THE_TECHNOLOGY to build A_DIGITAL_TWIN for SUPPLY_CHAIN_NETWORKS . 2021 elsevier inc . all rights reserved .
+S ( Q_LEARNING ) , MAS_ADP brought INCREASED_ACCURACY to the evaluations ' outcomes of UCC . 2019 iop publishing ltd . all rights reserved .
+ate THE_FUNCTION and EFFECTIVENESS of THE_NEGOTIATION_MODEL for MULTI_PRODUCT_SUPPLIER_SELECTION . 2014 elsevier ltd . all rights reserved .
+NANCIAL_ADVANTAGES for EACH_NODE in THE_SUPPLY_CHAIN , without ANY_UNDESIRABLE_COLLATERAL_EFFECT . 2014 elsevier ltd . all rights reserved .
+_BENEFITS and improve THE_OPERATIONAL_EFFICIENCY of SUPPLY_CHAIN . 2019 taiwan academic network management committee . all rights reserved .
+lly , based on THESE_RESULTS , THE_FUTURE_ENGINEERING_APPLICATION of THE_SIMULATION_SYSTEM is forecasted . 2023 spie . all rights reserved .
+HE_BEST_NEGOTIATION_STRATEGY that makes ALL_MEMBERS of THE_SCM satisfied in A_SIMPLE_SCM . 2015 , avestia publishing . all rights reserved .
+ no longer occur , which can greatly reduce THE_BULLWHIP_EFFECT. 2022 , faculty of transport and traffic engineering . all rights reserved .
+, effective MANAGEMENT_OF_SUPPLY_CHAINS , and INCREASED_SUSTAINABILITY and REGULATORY_COMPLIANCE . 2024 , igi global . all rights reserved .
+, the chapter contributes to shaping THE_FUTURE of RESILIENT_AND_EFFICIENT_SUPPLY_CHAIN_NETWORKS . 2024 , igi global . all rights reserved .
+istributed CONTROLS over MAN made NETWORKS such_as SUPPLY_CHAIN and POWER_GRID . proceedings of the 2020 iise annual . all rights reserved .
+SE is available at : https : GITHUB . COM_GITYIHENG_OFCOURSE . 2023 neural information processing systems foundation . all rights reserved .
+GNOSTIC_VOCABULARY for THE_UNDERSTANDING of SUCH_COMPLEX_SYSTEMS as SUPPLY_CHAINS . 2025 open publishing association . all rights reserved .
+_DEMONSTRATION to examine EFFECTIVE_STRATEGIES in A_REAL_SUPPLY_CHAIN . 2023 japan industrial management association . all rights reserved .
+ of MARS and MOON to make ASTEROID_MINING economically sensible . 2018 by the international astronautical federation . all rights reserved .
+ed for MANAGING_PROJECTS , SUPPLY_CHAINS , etc . 2018 saint petersburg state university of aerospace instrumentation . all rights reserved .
+E_COLLABORATION_FACTORS . THE_RESULTS show that THE_MODEL has A_CERTAIN_THEORETICAL_REFERENCE_VALUE . 2020 lavoisier . all rights reserved .
+_REFERENCE for THE_APPLICATION of MULTI_AGENT_TECHNOLOGY in OTHER_TYPES of SUPPLY_CHAIN_ENTERPRISES . 2020 lavoisier . all rights reserved .
+_APPROACH , and SEVERAL_PROBLEM_INSTANCES with > 80 FACILITIES have been solved in REASONABLE_TIME . 2019 de gruyter . all rights reserved .
+f CHANGES without dismissing THE_SEARCH for OPTIMUM_SOLUTIONS . 2023 budapest university of technology and economics . all rights reserved .
+d is verified through THE_SIMULATION of A_COLLABORATIVE_PRODUCTION_SUPPLY_CHAIN . 2023 scientia sinica informationis . all rights reserved .
+N_MANAGEMENT and OUT_OF_STOCK_FORECASTING 2023 , international journal of advanced computer science and applications . all rights reserved .
+ takes THE_LEAD , and MULTIPLE_SUBJECTS participate in THE_DISCUSSION to select A_SATISFACTORY_SCHEME . 2023 authors . all rights reserved .
+mplemented and transferred to A_PRODUCTION_SYSTEM based on THE_JADEX_AGENT_PLATFORM . 2020 ios press and the authors . all rights reserved .
+E_MODEL . THIS_APPROACH is illustrated using THE_SUPPLY_CHAIN_MANAGEMENT_CASE_STUDY . 2017 ios press and the authors . all rights reserved .
+ovide A_SYSTEMATIC_EVALUATION_BASIS for THE_QUALITY_SUPPLY of AGRICULTURAL_PRODUCTS . 2018 ios press and the authors . all rights reserved .
+VENUES for automating and optimizing SUPPLY_CHAIN_MANAGEMENT . 2024 international consortium for electronic business . all rights reserved .
+p COMPANIES_MANAGE_RISKS efficiently . THE_SIMULATION has proven to reduce RISK_COSTS by about 85 % . 2023 ios press . all rights reserved .
+also allows US to extend THE_POTENTIAL of THIS_PROCESS , which we discuss at THE_END of THE_ARTICLE . 2024 ios press . all rights reserved .
+N_SYSTEM for SPECIFIC_ENTERPRISE_MODELS ( as E_CATALOGUES ) is implemented as A_TRIAL . 2020 , fuji technology press . all rights reserved .
+PED_MAS_APPROACH is demonstrated using AN_INDUSTRIAL_CASE_STUDY in THE_AUTOMOTIVE_SPARE_PARTS_SECTOR . 2021 witpress . all rights reserved .
+ composed by AGENTS that are applied for SUPPLY_CHAIN_MANAGEMENT_CONSTRUCTION and PARTNER_INTERACTION . 2019 ceur ws . all rights reserved .
+ZATIONAL_METAPHOR can be used to address THESE_LIMITATIONS providing AN_EXEMPLARY_PROCUREMENT_SCENARIO . 2018 esprit . all rights reserved .
+or DIFFERENT_SCHEDULES . A_CASE_STUDY is described to try out THE_IMPLEMENTED_PROTOTYPE_SYSTEM . 2015 elsevier b . v . all rights reserved .
+OTH_AGENT and SYSTEM_WIDE_PERSPECTIVE . THE_RESULTS reveal THE_VIABILITY of THE_PROPOSED_MODEL . 2016 elsevier b . v . all rights reserved .
+ . in_addition , it is well contributive to COLLABORATIVE_DECISION_MAKING through KPI_ANALYSIS . 2016 elsevier b . v . all rights reserved .
+ffective than THE_FIFO and THE_RANK_ALLOCATION_METHODS . 2021 , world scientific and engineering academy and society . all rights reserved .
+INATION with THE_SEARCH_STRATEGY can obtain HIGH_QUALITY_SOLUTIONS within A_SHORT_PERIOD . 2022 northeast university . all rights reserved .
+hroughout THE_PAPER to_illustrate THE_INTRODUCED_CONCEPTS and LANGUAGE_CONSTRUCTS . lecture notes in computer science . all right reserved .
+ze THE_TRANSPORT_CAPACITY_RESOURCE of AUTONOMOUS_VEHICLE . 2022 , the editorial board of journal of system simulation . all right reserved .
+ff for INCREASING_DEGREE of CONSUMER_BOUNDED_RATIONALITY . 2015 , the editorial board of journal of system simulation . all right reserved .
+tively avoid THE_RISK in THE_CLOUD_COMPUTING_ENVIRONMENT . 2016 , the editorial board of journal of system simulation . all right reserved .
+_RULES are inconsistent with the SUPPLIERS ' expectation . 2017 , the editorial board of journal of system simulation . all right reserved .
+ . THIS_RESEARCH had PRACTICAL_GUIDING_SIGNIFICANCE for SUPPLY_CHAIN_MANAGEMENT . 2016 , editorial department of cims . all right reserved .
+g THE_OPERATIONAL_EFFICIENCY of MANUFACTURING_ENTERPRISE_SUPPLY_CHAIN . 2023 journal of global information management . all right reserved .
+PROVEMENT in EFFICIENCY and PRODUCTIVITY , in_terms_of RESOURCE_TIME in SYSTEM . 2020 by the authors . licensee mdpi , basel , switzerland .
+dressed with THIS_TECHNIQUE and THE_DEGREE of DEVELOPMENT of THE_CONTRIBUTIONS . 2020 by the authors . licensee mdpi , basel , switzerland .
+E_CHAIN , in_order_to develop , evolve and improve THE_SUSTAINABLE_VALUE_CHAIN . 2021 by the authors . licensee mdpi , basel , switzerland .
+ced by 6099 % , depending on THE_CARBON_FOOTPRINT of ELECTRIC_POWER_GENERATION . 2021 by the authors . licensee mdpi , basel , switzerland .
+OPOSED_SCHEME_EXCELLENT_PERFORMANCE is displayed through NUMERICAL_SIMULATIONS . 2021 by the authors . licensee mdpi , basel , switzerland .
+n TRAINING but also that THE_LEARNED_BEHAVIOR is transferable to A_REAL_SYSTEM . 2022 by the authors . licensee mdpi , basel , switzerland .
+at THIS_COMBINATION_APPROACH can offer CONSIDERABLE_PERFORMANCE_IMPROVEMENT in SMES . 2016 , springer international publishing switzerland .
+sing IMPACTS of SUITABLE_MEASURES by SYSTEM_DYNAMICS_BASED_FREIGHT_TRANSPORT_MODELS . 2016 , springer international publishing switzerland .
+NEGOTIATION of CONTRACTS for MULTIMODAL_TRANSPORT_SERVICES with MULTI_AGENT_SYSTEMS . 2016 , springer international publishing switzerland .
+as it focuses on THE_FAILURES of CITY_LOGISTICS_PROJECTS rather_than BEST_PRACTICES . 2017 , springer international publishing switzerland .
+ON_LOGISTIC_TECHNOLOGY for INDUSTRIAL_ENTERPRISES . 2022 , the author ( s ) , under exclusive license to springer nature singapore pte ltd .
+WORTHINESS and R_D_C gained THE_MOST_CASH_UTILITY . 2022 , the author ( s ) , under exclusive license to springer nature singapore pte ltd .
+R_ALGORITHMS when utilized in MULTI_AGENT_SYSTEMS . 2023 , the author ( s ) , under exclusive license to springer nature singapore pte ltd .
+ even have NEGATIVE_EFFECTS in CERTAIN_SITUATIONS . 2023 , the author ( s ) , under exclusive license to springer nature singapore pte ltd .
+LLUSTRATIONS are well exhibited in below SECTIONS . 2023 , the author ( s ) , under exclusive license to springer nature singapore pte ltd .
+for THE_DEFICIT , RESTRICTIONS on THE_SPACE of THE_LABOR_EXCHANGE and THE_NUMBER of ORDERS . published under licence by iop publishing ltd .
+ , and COLLABORATIVE_CAPABILITIES can solve CURRENT_ADAPTABILITY and COST_CONTROL_OPTIMIZATION in SUPPLY_CHAIN_MEMBERS . 2015 elsevier ltd .
+X_LOGISTICS_ISSUES efficiently . THE_EXECUTION of PROPOSED_ARCHITECTURE has been described in THE_SIMULATED_CASE_STUDY . 2015 elsevier ltd .
+SACTIONS that take PLACE in THE_SUPPLY_CHAIN_A_MULTI_AGENT_SYSTEM is created for THIS_PAPER . 2018 the authors . published by elsevier ltd .
+introduced INTERESTING_EXPERIMENTATION_RESULTS showing that OUR_SYSTEM is accurate and novel . copyright 2021 inderscience enterprises ltd .
+IVE_SPARE_PARTS_SECTOR is used to_demonstrate THE_APPLICABILITY of THE_ESTABLISHED_MAS_MODEL . copyright 2024 inderscience enterprises ltd .
+ROLLING of THE_ENTIRE_CARGO_CONVEYANCE_PROCESS with anytime anywhere FEATURES is implemented . copyright 2015 inderscience enterprises ltd .
+E_OBTAINED_RESULTS reveal that THE_USE of MULTI_AGENT_SYSTEM_DELIVERS_BETTER_SOLUTIONS to US . copyright 2017 inderscience enterprises ltd .
+NEFITS and EXPERIENCE gained from THIS_STUDY and FURTHER_RESEARCH_OPPORTUNITY are emphasised . copyright 2017 inderscience enterprises ltd .
+ET_AL and strengthen THE_IMPLICATIONS of THE_FINDINGS within THE_DOMAIN of SUPPLY_CHAIN ordering MANAGEMENT . 2023 john wiley and sons ltd .
+rs . journal of flood risk management published by chartered institution of water and environmental management and john wiley and sons ltd .
+ realizing THE_COMBINATION of SUPPLY_CHAIN_MANAGEMENT_SYSTEM of AGENT_TECHNOLOGY based on THE_DEVELOPMENT_WORK of CHAIN_ENTERPRISES . asce .
+MON_SOLUTION for ALL_ACTORS , and then , THE_CLUSTER_PREFERENCES are operated to determine the most suitable one ( POSTERIOR ) . 2020 ieee .
+LOGIES and applying DIGITAL_PROCESSES to better adapt to NEW_OPERATION_RULES since COVID 19 to FIGHT_FOOD_WASTE since COVID 19 . 2020 ieee .
+ILITY and THE_SOCIAL_IMPACT are demonstrated in this paper along_with A_FUTURE_PERSPECTIVE of THE_COLLECTIVE_LEARNING_PARADIGM . 2020 ieee .
+_BULLWHIP_EFFECT and the TOTAL_COST by determining THE_DEMAND_FORECASTING_METHOD according to ITS_POSITION in THE_SUPPLY_CHAIN . 2020 ieee .
+der_to reduce THE_ELECTRICITY_PRICE and control the consumers ' usage , and also to maximize THE_BENEFITS in THE_ENERGY_MARKET . 2020 ieee .
+of 2.43 hours , PADANG_BULAN_MEDAN 4.50 hours , PEMATANG_SIANTAR 3.58 hours , tebing TINGGI 4.33 hours , and BINJAI 4.75 hours . 2020 ieee .
+ii ) THE_ENVIRONMENTAL_EMISSIONS generated by THE_WHOLE_SYSTEM , using ARTIFICIAL_BEE_COLONY_ALGORITHM_HYBRID_MULTI_AGENT_SYSTEM 2020 ieee .
+ . THE_RESULTS show that THE_PROPOSED_MODEL outperforms OTHER_TYPICAL_ALGORITHMS in BOTH_PERFORMANCE and CALCULATION_TIME . 2000 2011 ieee .
+_SIZE by 15 % , THE_DISTANCE traveled by 16 % , and 50 % higher FLEET_UTILIZATION_W . r.t POINT_TO_POINT_DELIVERY_SYSTEMS . 2000 2011 ieee .
+nd HETEROGENEOUS_RISK_MANAGEMENT_FRAMEWORK in the context of AGILE_DECISION_MAKING for DISRUPTED_SUPPLY_CHAIN_ENTERPRISES . 2004 2012 ieee .
+ective in solving THE_COMPLEX_NEGOTIATION_PROBLEMS , and it is a ' triple win ' solution for ALL_THE_PARTICIPANTS in SCNS . 1988 2012 ieee .
+ET_PROFILES , enhancing SC_CAPABILITIES to withstand DISRUPTIONS and DEVELOPING_CONTINGENCIES to recover from DISRUPTIONS . 1988 2012 ieee .
+IGN to srdqn to improve THE_COOPERATIVE_POLICIES , and then we empirically evaluate THE_EFFECTIVENESS of THE_PROPOSED_APPROACH . 2022 ieee .
+SUPPLY_CHAIN_NETWORK differently , and ANALYZE_PERFORMANCE_TRADE_OFFS between THE_PROPOSED_DISTRIBUTED_AND_CENTRALIZED_METHODS . 2022 ieee .
+enhance THE_PERFORMANCE of SCM in_terms_of TRANSPARENCY , TRACEABILITY , TRUSTWORTHINESS , and RESILIENCE by using MAS and BCT . 2022 ieee .
+ICAL_FINDINGS on using SOFT_COMPUTING_TECHNOLOGY_APPLICATIONS_INSUPPLY_CHAIN_MANAGEMENT to improve THE_SUPPLY_CHAIN_EFFICIENCY . 2022 ieee .
+nd presented using A_HARDWARE_PROTOTYPE as_well_as SIMULATION_RESULTS for A_RANGE of SUB_TASKS in A_TYPICAL_LAST_MILE_DELIVERY . 2022 ieee .
+RACEABILITY of THE_SYSTEM . THIS_FRAMEWORK can eliminate THE_LIMITATIONS of THE_EXISTING_SUPPLY_CHAINS concerning TRACEABILITY . 2022 ieee .
+te THE_FEASIBILITY of THE_APPROACH in_addition to establishing AN_INDUSTRY_ALLIANCE to solve THE_PROBLEM of DEMAND_FLUCTUATION . 2013 ieee .
+YIELD_UNCERTAINTY on THE_MANUFACTURER_SUPPLY_MANAGEMENT_STRATEGY can be changed by THE_MAIN_SUPPLIER_ADAPTIVE_PRICING_BEHAVIOR . 2013 ieee .
+ated in SOME_TIME_PERIODS . finally , A_SIMULATION_EXAMPLE is presented to_illustrate THE_EFFECTIVENESS of the proposed method . 2013 ieee .
+of EXCESS_CAPACITY , and ELASTIC_ACCESS_METHODS . THE_STUDIES can be used as A_REFERENCE for THE_DESIGN of PLATFORM_ALGORITHMS . 2023 ieee .
+ctively addresses THE_DUAL_OBJECTIVES of ensuring INFORMATION_SECURITY and achieving COST_REDUCTION in SC_INVENTORY_MANAGEMENT . 2023 ieee .
+ feasible . in this paper A_MAS_ARCHITECTURE integrating VARIOUS_INTELLIGENT_AGENT_SYSTEMS is presented to address THE_PROBLEM . 2014 ieee .
+LIER_CHAIN_UNCERTAINTY by decreasing HUMAN_INTERACTIONS and automating THE_PROCESS of SUPPLIER_EVALUATION and ORDER_ALLOCATION . 2014 ieee .
+THE_PROPOSED_APPROACH to evaluate THE_ROBUSTNESS of THEIR_NETWORK and assess ITS_RESILIENCE for VARYING_DEGREES of DISRUPTIONS . 2014 ieee .
+ THE_WELL_LIFECYCLE . we show THE_EFFECTIVENESS of THE_APPROACH by implementing AN_EXPERIMENTAL_SYSTEM and giving A_CASE_STUDY . 2014 ieee .
+und that establishing A_SUPPLY_CHAIN can help ENTERPRISES to evaluate THE_RELIABILITY_RISK of LARGE_SCALE and COMPLEX_SOFTWARE . 2024 ieee .
+_CHAIN_MANAGEMENT and gives THE_PRIMARY_METHODS to SUPPLY_CHAIN communications as utilized largely in MANUFACTURING_INDUSTRIES . 2024 ieee .
+IVERY_FLEET_SIZE by 12 % , THE_DISTANCE traveled by 13 % , and achieve 50 % higher FLEET_UTILIZATION compared to THE_BASELINES . 2024 ieee .
+LOCATION_AWARE_MULTI_AGENT_SCHEDULING_SYSTEM based on JADE and GOOGLE_API . THE_PROPOSED_METHODOLOGY is verified by AN_EXAMPLE . 2015 ieee .
+ANAGEMENTS and THE_GAPS yet to be filled for consolidating FUTURE_PLANS on INDUSTRY 4.0 in RECONFIGURABLE_MANUFACTURING_SYSTEM . 2015 ieee .
+ng fipa and THE_PETRI_NET_WORKFLOW_SPECIFICATION_MODEL . we illustrate THE_BENEFITS of OUR_APPROACH by AN_APPLICATION_SCENARIO . 2015 ieee .
+ERIMENTS show that THE_FORMATION_STRATEGY can efficiently provide an effective near OPTIMAL_SOLUTION for most of THE_INSTANCES . 2015 ieee .
+ORM , we also present A_PRACTICAL_EXAMPLE of how SCOPE can overcome LIMITATIONS of OTHER_CLASSICAL_METHODS for SUPPLY_ANALYSIS . 2015 ieee .
+S_MANNER and without ANY_AMBIGUITY . THE_FINDINGS from THE_DEVELOPED_METHOD are feasible and can replicated to DIFFERENT_FIRMS . 2015 ieee .
+NDING_COLLABORATIVE_TACTICS on GLOBAL_SUPPLY_CHAIN_PLANNING with DIFFERENT_PRODUCTS and for DIFFERENT_ENVIRONMENTAL_CONDITIONS . 2015 ieee .
+using SWARM_SIMULATION_SOFTWARE_PLATFORM and then verify THE_VALIDITY of PRODUCTION_SCHEDULING_MODEL put forward in this paper . 2015 ieee .
+ EFFECTIVENESS of THE_METHOD for achieving EFFICIENT_AERIAL_NAVIGATION and CONSISTENT_COMMUNICATION in URBAN_DELIVERY_SERVICES . 2025 ieee .
+_PLANNING between INDEPENDENT_SUPPLY_CHAIN_PARTNERS . THESE_MECHANISMS are supposed to enable them to draw up CONSISTENT_PLANS . 2006 ieee .
+ND_SERVICE_PROVIDER_AGENTS . also , A_MATHEMATICAL_MODEL has been proposed to support MARKET_DRIVEN_APPROACH in CLOUD_COMMERCE . 2016 ieee .
+TION , STORAGE and QUALITY of COMPONENTS . A_CASE_STUDY is presented in_the_end to have A_BETTER_INSIGHT of THE_PROPOSED_MODEL . 2016 ieee .
+PPROACH under STOCHASTIC_SETTINGS and HOW_THE_DECISION of DISRUPTION_RESPONSES_CHANGES when AGENTS hold VARIOUS_RISK_ATTITUDES . 2016 ieee .
+LTS reveal A_DEFINITE_ADVANTAGE of using PUBLIC_TRANSPORTATION over EXISTING_DELIVERY_APPROACHES in_terms_of ENERGY_EFFICIENCY . 2016 ieee .
+HIGHER_WILLINGNESS is favorable toward achieving greater good for all , if UCC is designed to be nonprofit and self sustaining . 2016 ieee .
+_BASED_MODELING of CIVILIAN_EMPLOYEES which will allow US to predict THE_EVOLUTION and THE_EFFECT of POLICIES on THE_HR_SYSTEM . 2017 ieee .
+s THE_PROCESSING of THE_EXCEL_FILES in DIFFERENT_ASPECTS , such_as THE_SIZE of THE_EXCEL_FILE or THE_REQUIRED_PROCESSING_POWER . 2017 ieee .
+MODEL , composed of FOUR_LAYERS , and which will aim at THE_CREATION of A_COLLABORATIVE_ENVIRONMENT for THE_TRANSPORT of GOODS . 2017 ieee .
+Y_SIMULTANEOUSLY_OCCURRING_ISSUES of DIFFERENT_PROBLEM_CATEGORIES requiring DECISIONS by VARIOUS_DECISION_MAKERS are addressed . 2017 ieee .
+TH_ASSIGNMENT_QUALITY , as given by THE_OVERALL_DEMAND_DELIVERY_COST and PROPORTION of ASSIGNED_DEMANDS , and COMPUTATION_TIME . 2018 ieee .
+ER is concluded by outlining THE_EXTENT to which RECENT_LITERATURE_ADDRESSES_THESE_AREAS to provide DIRECTIONS for FUTURE_WORK . 2018 ieee .
+TS among SCIENTIFIC_PUBLICATIONS , then we proceed with A_PRESENTATION of OUR_OWN_SYSTEM_FEATURES and CHARACTERISTIC_FUNCTIONS . 2018 ieee .
+ION_NETWORK as_a_result of THE_INTEGRATION of THE_TRANSPORTATION_TASK , A_MULTI_AGENT_MODEL of THE_RESOURCE_CONVERSION_PROCESS . 2018 ieee .
+COSTS ' OPTIMIZATION for ALL_PROPOSED_PRODUCT_DESIGNS and at_the_same_time we select AN_ECO_FRIENDLY_DESIGN with OPTIMAL_COSTS . 2018 ieee .
+ BUSINESS_AND_ENVIRONMENTAL_PROTECTION . it can maximize THE_TOTAL_PROFIT of THE_GSCN , and reduce THE_HARM to THE_ENVIRONMENT . 2018 ieee .
+GE_BASE of ENTERPRISE for RESOURCE_MANAGEMENT . THE_EXAMPLE of APPLICATIONS for SUPPLY_CHAIN of INSURANCE_COMPANY is presented . 2018 ieee .
+in THE_SUPPLY_CHAIN_MANAGEMENT to ensure THE_CONVENIENCE of ITS_ACTIVITIES and that it is thus COLLABORATIVE and communicative . 2018 ieee .
+M provides DEMAND_FORECASTING , INVENTORY_MANAGEMENT and PRODUCTION_SCHEDULING aimed at improving THE_SUPPLY_CHAIN_PERFORMANCE . 2019 ieee .
+NG_MODEL can be used to enhance THE_AGENT_BASED_SYSTEM , particularly , in analyzing BOTTLENECKS and improving DECISION_MAKING . 2019 ieee .
+. in ORDER , to facilitate COMPLEX_DAILY_ACTIVITIES , and to improve THE_QUALITY of PLANNING_SOLUTIONS in THE_HOME_CARE_SECTOR . 2019 ieee .
+DVISE is sought on THE_PROSPECTIVE_ROLE_BUSINESS_LOGIC can play to improve REAL_TIME_DECISION_MAKING in SUPPLY_CHAIN_LOGISTICS . 2019 ieee .
+EOPLE adjust THEIR_PLANS for TRANSPORT but SMART_TRANSPORT provides PERSONAL_SERVICE to EVERY_CITIZEN according to THEIR_NEEDS . 2019 ieee .
+EXPERIMENTS using SYNTHETIC_AND_REAL_GRAPHS . we also validate OUR_CONCEPT of HETEROGENEOUS_COOPERATION for MAAS with EXAMPLES . 2019 ieee .
+to represent THE_WORKSHOP and ITS_COMPONENTS as_well_as ITS_APPLICATION to THE_TRANSPORT_TASK in FLEXIBLE_PRODUCTION_WORKSHOPS . 2019 ieee .
+CENTRALIZED_DUAL_CHANNEL_SUPPLY_CHAIN , ITS_AVERAGE_INVENTORY_LEVEL and CUSTOMER_TURNOVER are also better than a DECENTRALIZED . 2023 spie .
+DIFFERENT_NUMBER of PRODUCTS . 2021 , the author ( s ) , under exclusive licence to springer verlag london ltd . , part of springer nature .
+ROPOSED_ONTOLOGY and MULTI_AGENT_BASED_DECISION_SUPPORT_FRAMEWORK . 2019 , springer science+business media , llc , part of springer nature .
+and is used on A_REAL_DATASET provided by A_SUPERMARKET in MOROCCO . 2018 , springer international publishing ag , part of springer nature .
+MELY_COMPLEX_PROBLEMS of ADAPTIVE_RESOURCE_MANAGEMENT are outlined . 2018 , springer international publishing ag , part of springer nature .
+ENTIAL_STRUCTURAL and CONTENT features to be passed to NEIGHBOURING_AGENTS . 2020 , springer verlag gmbh germany , part of springer nature .
+THE_AUTHORS have not responded to CORRESPONDENCE regarding THIS_RETRACTION . 2022 , springer verlag gmbh germany , part of springer nature .
+NS show that OUR_AGENT has BETTER_PERFORMANCE compared to THE_OTHER_AGENTS . 2018 , springer verlag gmbh germany , part of springer nature .
+ ) and related information resource ORGANIZATION_AND_MANAGEMENT_TECHNOLOGY . 2018 , springer verlag gmbh germany , part of springer nature .
+PER_PERFORMANCE of THE_PROPOSED_ALGORITHM compared to THE_OTHER_ALGORITHMS . 2019 , springer verlag gmbh germany , part of springer nature .
+to purchase from THE_WEBSITE through SERVICE_QUALITY_ADAPTATION . 2019 , springer fachmedien wiesbaden gmbh , ein teil von springer nature .
+SYSTEM . 2019 , 2019 the author ( s ) . this open access article is distributed under a creative commons attribution ( cc by ) 4.0 license .
+SULTS in A_MORE_EFFICIENT_SALES_STRATEGY by reducing BOTH_FINISHED_GOODS_AND_COMPONENTS_INVENTORY_COSTS . 2015 decision sciences institute .
+, with THE_OBJECTIVE of maximizing PRODUCT_AVAILABILITY while minimising WASTAGE under CONSTRAINTS . 2020 , springer nature switzerland ag .
+NVESTOR as negotiating AGENTS within A_SUPPLY_CHAIN_FINANCE_NEGOTIATION_PROTOCOL is also explained . 2021 , springer nature switzerland ag .
+PPLY_CHAIN was studied in DEPTH , and THE_COMMON_DISTRIBUTED_SUPPLY_CHAIN was chosen as THE_OBJECT . 2019 , springer nature switzerland ag .
+RANSPORT and SMART_MANUFACTURING , SMART_AGRICULTURE , SMART_LOGISTICS , smart SUPPLY_CHAINS , etc . 2019 , springer nature switzerland ag .
+re classified in THE_SUPPLY_CHAIN_PLANNING_MATRIX and GAPS in RESEARCH are subsequently identified . 2019 , springer nature switzerland ag .
+DEPTH_SEARCH , SELF_REGULATION of THE_SYSTEM_BEHAVIOR based of THE_SPECIFICS of THE_DATA processed . 2019 , springer nature switzerland ag .
+LY_CHAIN and to optimize THE_REPLENISHMENT_DECISIONS . 2021 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+ THE_MODEL located FM and thus increased FOOD_ACCESS . 2021 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+ating SIGNIFICANT_BENEFITS by increasing FLEXIBILITY . 2021 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+given to verify THE_COORDINATION_STRATEGY and METHOD . 2022 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+ , EACH_LOGISTICS_CONTROL_STRUCTURE is most suitable . 2022 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+ E . g . , GROUP_RIDE_SHARING , LAST_MILE_DELIVERY ) . 2023 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+out A_FUTURE_DIRECTION of WORK for MULTIPLE_PRODUCTS . 2023 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+A_HIGH_BURDEN of RESPONSIBILITY on INDIVIDUAL_AGENTS . 2023 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+CHNOLOGIES in REAL_INDUSTRIAL_ENVIRONMENTS is needed . 2024 , the author ( s ) , under exclusive license to springer nature switzerland ag .
+MODEL with AUTONOMOUS_CONTROL with FACILITIES situated in DISTRIBUTED_GEOGRAPHICAL_LOCATIONS . 2017 , springer international publishing ag .
+MESSAGE_EXCHANGE in THE_FORM of COMMON_ONTOLOGY for AGENTS participating in THE_NEGOTIATIONS . 2018 , springer international publishing ag .
+RIES that they are losing or gaining . 2021 , icst institute for computer sciences , social informatics and telecommunications engineering .
+GM by means of A_VIRTUAL_MARKET supported by INTELLIGENT_SOFTWARE_AGENTS . 2017 , ifip international federation for information processing .
+TION_PERFORMANCES . ANALYSIS_AND_OPTIMIZATION_RESULTS are presented with RECOMMENDATIONS . 2014 , springer science+business media new york .
+Y on THE_PERFORMANCE of AN_OFFSHORE_WIND_FARM in TERM of TOTAL_COST_AND_CARBON_FOOTPRINT . 2015 , springer science+business media new york .
+are presented . THE_RESULTS show THE_AGENTS ' behavior and THE_OVERALL_SYSTEM_EVALUATION . 2017 , springer science+business media new york .
+SELECTION . for INITIAL_VALIDATION of THE_PROPOSED_CONCEPTUAL_ARCHITECTURE , NEGOTIATION_EXPERIMENTS are conducted . excelingtech pub , uk .
+and stimulate THE_BUILDING of LONG_TERM_PARTNERSHIP among THE_SELLERS , BUYERS , and broker as A_STABLE_SUPPLY_CHAIN . 2020 xu zhang et al .
+EE_SCENARIO is dominant . and 4 ) CONSUMER_HETEROGENEITY can ALLEVIATE_COMPETITION in THE_SYMMETRIC_SETTINGS . copyright 2020 , igi global .
+ing BEST_PRACTICES ( i . E . , CARBON_FOOTPRINT_PERSPECTIVE ) for EACH_ROUTE from A_REPOSITORY of BEST_PRACTICED_CASES . 2021 , igi global .
+d build AN_EFFECTIVE_STRATEGIC_CONTEXT for SMES in THE_BRAZILIAN_GYPSUM_LOCAL_PRODUCTIVE_ARRANGEMENT ( LPA ) . copyright 2021 , igi global .
+n MITIGATION_RATE is high . 2022 , the author ( s ) under exclusive licence to sociedade brasileira de matematica aplicada e computacional .
+ that MAS can be utilized to reduce THE_COMPLEXITY_AND_FACILITATE_COMMUNICATIONS in greening THE_SUPPLY_CHAIN . ieom society international .
+nly interested in THE_WAY_THE_DISTRIBUTION_NETWORK and THE_FACILITIES behave under SUSTAINABILITY_CONSTRAINTS . ieom society international .
+take BETTER_DECISIONS . to MODEL_THE_PROPOSED_SYSTEM , we used THE_MULTI_AGENT_SYSTEM_ENGINEERING_METHODOLOGY . ieom society international .
+NK of THE_DUAL_CHANNEL_SUPPLY_CHAIN , reduces ITS_TRANSFORMATION_COST , and promotes THE_EXPANSION of KNOWLEDGE_VALUE_INCREMENT . 2021 acm .
+FORMANCE of ITS_CONSTITUENTS and how DIGITALIZATION_AFFECTS_THE_PROFITABILITY of THESE_ACTIVITIES individually and collectively . 2022 acm .
+bedded in IOT ( INTERNET_OF_THINGS ) applications , ACCESSES_CLOUD_SOLUTIONS and COMMUNICATES_SAFETY with DIFFERENT_ENTERPRISES . 2019 acm .
+ocesses corresponding to THE_DISTRIBUTION of PRODUCTS to THE_FIRST_TIER and SECOND_TIER_CUSTOMERS . 2017 taylor and francis group , london .
+are provided to prove THE_EFFECTIVENESS of ADOPTED_METHOD . 2021 technical committee on control theory , chinese association of automation .
+e very encouraging and demonstrate THE_FEASIBILITY and EFFECTIVENESS of OUR_APPROACH . 2023 nassima bounadi et al . , published by sciendo .
+E_GOOD_PERFORMANCE of BOTH_ALGORITHMS in_comparison to OTHER_EXACT_METHODS . 2020 informa uk limited , trading as taylor and francis group .
+ACTURER , THE_DEVELOPED_APPROACH allows APPLICATION in any b2b partnership . 2020 informa uk limited , trading as taylor and francis group .
+_CASE_STUDY showing THE_FEASIBILITY of THE_PROPOSED_SYSTEM , are presented . 2021 informa uk limited , trading as taylor and francis group .
+educe THE_TOTAL_OPERATIONAL_COST even when CRITICAL_INFORMATION is missing . 2021 informa uk limited , trading as taylor and francis group .
+urthermore , A_SIMULATED_CASE_STUDY is also provided to validate THE_MODEL . 2022 informa uk limited , trading as taylor and francis group .
+BENEFIT of ADAPTIVITY to CHANGES , such_as DEMAND_AND_SUPPLY_UNCERTAINTIES . 2022 informa uk limited , trading as taylor and francis group .
+GERIAL_INSIGHTS for THE_DESIGN of GOVERNMENT_REGULATIONS in CARBON_MARKETS . 2024 informa uk limited , trading as taylor and francis group .
+o_demonstrate THE_EFFECTIVENESS and EFFICIENCY of THE_NEGOTIATION_PROTOCOL . 2016 informa uk limited , trading as taylor and francis group .
+GREATER_SERVICE_LEVEL_BENEFITS in_comparison to OTHER_COLLABORATION_LEVELS . 2016 informa uk limited , trading as taylor and francis group .
+D_EMISSIONS_COSTS , compared to THE_RESULTS generated using EXISTING_TOOLS . 2016 informa uk limited , trading as taylor and francis group .
+TIES of THE_DECISION_VARIABLES under different SUPPLY_AND_DEMAND_SCENARIOS . 2017 informa uk limited , trading as taylor and francis group .
+the REMANUFACTURING cost and penalty for INFERIOR_PRODUCTS_DECREASE . 2018 , 2018 informa uk limited , trading as taylor and francis group .
+as instrumental to lowering STOCK and improving NET_WORKING_CAPITAL . 2018 , 2018 informa uk limited , trading as taylor and francis group .
+MENT_WHILST curbing THEIR_CARBON_FOOTPRINT . 2021 the author ( s ) . published by informa uk limited , trading as taylor and francis group .
+reduce ASSOCIATED_COSTS up to 9.3 % . 2019 , 2019 the author ( s ) . published by informa uk limited , trading as taylor and francis group .
+ally before being brought together collectively using MAS_AND_SOA_TECHNIQUES . 2023 by rajbala , pawan kumar singh nain and avadhesh kumar .
+_SUBJECT . besides , THE_CASE of POYANG_LAKEECOLOGICAL_ECONOMIC_ZONE is applied to verify THE_EVOLUTIONARY_GAME_MODEL . 2017 by the author .
+OVEMENT by developing NEW_TOOLS and FRAMEWORKS that can enhance the EFFICIENCY_AND_RELIABILITY of SOFTWARE_DEVELOPMENT . 2024 owner author .
+AGENT_INTERACTION_PROTOCOLS to effect THE_FUNCTIONING of THIS_THREE_PHASE_MULTI_PRODUCT_SUPPLIER_SELECTION_MODEL . 2015 taylor and francis .
+n THE_EQUILIBRIA . SIMULATIONS are provided to verify THE_EFFECTIVENESS and FEASIBILITY of THE_PROPOSED_PROTOCOL . 2015 taylor and francis .
+IR_MEMBERS . THE_USE of ROMAS is exemplified_by means of A_CASE_STUDY that represents AN_AUTOMOTIVE_SUPPLY_CHAIN . 2015 taylor and francis .
+LY_CHAINS . 2024 the author ( s ) . aiche journal published by wiley periodicals llc on behalf of american institute of chemical engineers .
+ING_PROBLEMS for MULTIPLE_COMPANIES demonstrate THE_EFFECTIVENESS of THE_PROPOSED_METHODS . 2024 the japan society of mechanical engineers .
+Y_STABILITY of EACH_LAYER and THE_ORDER_QUANTITY_STABILITY of EACH_NODE_ENTERPRISE . 2018 , 2018 chinese institute of industrial engineers .
+R and SUPPLIER_E_CATALOGUES , and AN_AUTOMATIC_CONSTRUCTION_SYSTEM of A_VIRTUAL_SUPPLY_CHAIN are implemented as A_TRIAL . 2020 the authors .
+MODELS , and INTER_AGENT_COOPERATION_PROTOCOLS , to minimize THE_RISK of STOCK_SHORTAGE in ANY_AREA of THE_SUPPLY_CHAIN . 2020 the authors .
+CE for enabling AUTONOMOUS_SUPPLY_CHAINS , and propose KEY_FUTURE_RESEARCH_TOPICS to advance THIS_CONVERGENCE . copyright 2024 the authors .
+ies that THE_PI_MODEL not only ENHANCES_ENVIRONMENTAL_SUSTAINABILITY but also IMPROVES_OPERATIONAL_EFFICIENCY . copyright 2024 the authors .
+ONCEPTS which SUPPORT_THE_NEGOTIATION of CONTRACTS for MULTIMODAL_TRANSPORT_SERVICES using MULTI_AGENT_SYSTEMS is given . 2015 the authors .
+al issue gathers 11 contributions sampling THE_MANY_DIVERSE_ADVANCEMENTS that are currently ongoing in THE_MAS_FIELD . 2020 by the authors .
+and EFFICIENCY of THE_PROPOSED_APPROACH compared to LINGO and THE_BENCHMARKING_ALGORITHM discussed in THE_LITERATURE . 2020 by the authors .
+SES , and SUPPLY_CHAIN_NETWORKS are INSTANCES of RESEARCH_TOPICS for which THIS_LITERATURE_REVIEW is highly relevant . 2020 by the authors .
+ALIDITY of THE_CONTROL_PROTOCOL and THE_CORRECTNESS of THE_THEORETICAL_ANALYSIS are revealed by NUMERICAL_SIMULATION . 2022 by the authors .
+S in A_WAY that_is logical , safe , efficient , fast , and is not influenced by FACTORS that might affect PRODUCTION . 2023 by the authors .
+THOD has about 45 % PERFORMANCE improvement on EFFICIENCY compared with CURRENT_REINFORCEMENT_LEARNING_BASED_METHODS . 2023 by the authors .
+urther explains how the coefficient of CONSUMER_SENSITIVITY to PRICE_AFFECTS_PRICING_AND_ORDER_PRODUCTION_STRATEGIES . 2023 by the authors .
+ETPLACE_ORIENTED_PRODUCTION_PROCESSES with A_SUBSEQUENT_PROTOTYPICAL_IMPLEMENTATION , followed by a PROOF_OF_CONCEPT . 2023 by the authors .
+HE_RESILIENCE of THE_PREFABRICATED_BUILDING_SUPPLY_CHAIN , providing AN_EFFECTIVE_WAY to meet THE_CHALLENGES of VUCA . 2024 by the authors .
+MENT , thus affirming THE_RATIONALITY of THE_PROBLEM_FORMULATION and highlighting THE_ALGORITHM_SUPERIOR_PERFORMANCE . 2024 by the authors .
+CTORY_SUPPLY_CHAIN_SYSTEM . OUR_EXPERIMENTAL_RESULTS showed that THE_PROPOSED_IOT_CADM achieved THE_BEST_PERFORMANCE . 2024 by the authors .
+N_SECURITY_AND_COST_REDUCTION in SC_INVENTORY_MANAGEMENT , aligning with THE_BROADER_TREND of DIGITAL_TRANSFORMATION . 2024 by the authors .
+OPOSED_GENETIC_ALGORITHM aided MULTI_AGENT_DRL outperformed THE_REST in_terms_of SCALABILITY_AND_CONVERGENT_BEHAVIOR . 2024 by the authors .
+ION_MAKING for AN_ENERGY_PRICE_UPDATE in A_SIMULATION_EXAMPLE and for UNFORESEEN_EVENTS in A_REAL_WORLD_DEMONSTRATOR . 2024 by the authors .
+ABILITY_BENEFITS , especially in reducing THE_NUMBER of TRUCKS used in THE_SIMULATION and the co2 emissions from ECS . 2024 by the authors .
+CT , benefiting NOT_ONLY_INDIVIDUAL_FIRMS but also promoting ECONOMIC_STABILITY and GROWTH across MULTIPLE_COUNTRIES . 2024 by the authors .
+ . THESE_INSIGHTS underscore THE_VALUE of MULTI_AGENT_SIMULATION in addressing THE_COMPLEXITIES of MIC_SUPPLY_CHAINS . 2024 by the authors .
+ , THIS_APPROACH offers A_PROMISING_NEW_AVENUE for OPTIMIZING_ENERGY_CONSUMPTION in LAST_MILE_DISTRIBUTION_SCENARIOS . 2024 by the authors .
+URE_STRAW_SUPPLY_CHAIN , and THE_BENEFIT_SHARING_POLICY should be implemented with THE_PRECAUTION against FREE_RIDES . 2018 by the authors .
+N of the co2 EMISSION coming from THE_DELIVERY_TRUCKS that , in THE_CASE_STUDIES , are no longer needed for DELIVERY . 2018 by the authors .
+EAL_TIME_DATA_COMMUNICATION on THE_SYSTEM occurred , thus THE_PROPOSED_SYSTEM supported REAL_TIME_DATA_COMMUNICATION . 2019 by the authors .
+cial issue , DIFFERENT_INTERESTING_APPROACHES that advance THIS_RESEARCH_DISCIPLINE have been selected and presented . 2019 by the authors .
+an efficiently solve THE_PROBLEM , finding THE_OPTIMAL_SOLUTION for ALL_TEST_INSTANCES of DIFFERENT_TYPES . copyright by the paper authors .
+ THE_PROPOSED_APPROACH can be used in VARIOUS_MULTI_AGENT_SYSTEMS for MODELING_NEGOTIATIONS . copyright 2022 for this paper by its authors .
+KOL_UKRAINE and are intended for INTELLIGENT_COMPUTER_BASED_SUPPLY_CHAIN_MANAGEMENT_SYSTEMS . 2021 copyright for this paper by its authors .
+used in VARIOUS_INTELLIGENT_SYSTEMS that use THE_RECOGNITION of NATURAL_LANGUAGE_STRUCTURES . 2022 copyright for this paper by its authors .
+TWORKS can be used in VARIOUS_INTELLIGENT_COMPUTER_SYSTEMS that use MULTI_AGENT_INTERACTION . 2023 copyright for this paper by its authors .
+ include studying THE_PROPOSED_METHODS for A_WIDE_CLASS of ARTIFICIAL_INTELLIGENCE_PROBLEMS . 2023 copyright for this paper by its authors .
+n VARIOUS_INTELLIGENT_COMPUTER_SYSTEMS that use THE_TRANSLATION of LINGUISTIC_CONSTRUCTIONS . 2023 copyright for this paper by its authors .
+, DISTRIBUTORS and RETAILERS . they perform AUTONOMOUS_TASKS with COLLABORATION to accomplish FINAL_CUSTOMER_SATISFACTION . 2016 wit press .
+ SINGLE_LEARNING_MACHINE , and it achieves WIN_WIN_COOPERATION between PURCHASING_ENTERPRISE and SUPPLIER . 2018 chouyong chen and chao xu .
+D_MODEL may serve as A_DECISION_SUPPORT_TOOL to guide EVIDENCE_BASED_POLICYMAKING in THE_FOOD_AND_AGRICULTURE_SECTOR . 2020 elsevier b . v .
+DSOURCING_RESOURCES rather_than PRIVATE_CARRIERS to improve TRANSACTION_EFFICIENCY and TRANSPORTATION_SUSTAINABILITY . 2020 elsevier b . v .
+ including A_SOLUTION of THE_LAST_MILE_DELIVERY_PROBLEM , which is also included as a PROOF_OF_CONCEPT in this paper . 2020 elsevier b . v .
+RIATIONS and UNCERTAINTIES , including CUSTOMER_DEPOT_NUMBERS , VEHICLE_CAPACITIES , and EN_ROUTE_TRAFFIC_CONDITIONS . 2023 elsevier b . v .
+BEHAVIORAL_ECONOMICS_FACTORS to study THE_COORDINATION_CHALLENGE of MULTI_AGENT_RSC with COLLECTOR_FAIRNESS_CONCERNS . 2023 elsevier b . v .
+ONTRACT_PARAMETERS in_the_process of DECENTRALIZED_SCF and also provides means for dealing with COMPLEMENTARY_INPUTS . 2023 elsevier b . v .
+successfully reduced THE_KILOWATTS per REFRIGERATED_TON ( KW_RT ) by approximately 2.78 % in A_PRACTICAL_APPLICATION . 2024 elsevier b . v .
+NING ( MARL ) system . OUR_MODEL achieves SUCCESSFUL_PERFORMANCE by converging to A_VALUE like THE_OPTIMUM of THE_MP . 2024 elsevier b . v .
+DAILY_OPERATIONS within THE_HSC , FUTURE_EFFORTS can aim to extend THIS_OPTIMIZATION to forecasted ANNUAL_OPERATIONS . 2024 elsevier b . v .
+SPHALT_ROLLER during REAL_WORD_OPERATION also makes it an IMPORTANT_STEP towards A_FULLY_AUTOMATED_ASPHALT_COMPACTOR . 2016 elsevier b . v .
+CAL_AND_EFFECTIVE_METHOD for solving SUPPLY_CHAIN_PLANNING_AND_SCHEDULING_PROBLEMS in FULLY_DISTRIBUTED_ENVIRONMENTS . 2016 elsevier b . v .
+PTED_PRACTICAL_SCENARIO from AN_INDUSTRIAL_CASE_STUDY operating in THE_ELECTRONICS_SECTOR in MEDICAL_DEVICE_INDUSTRY . 2017 elsevier b . v .
+THE_MODEL to investigate THE_CONSEQUENCES of switching between THESE_TWO_TYPES of TACTICS in A_SEQUENTIAL_SIMULATION . 2018 elsevier b . v .
+n THE_LITERATURE . THE_RESULTS of the study show that THE_PROPOSED_ALGORITHM outperforms THE_OTHER_TESTED_ALGORITHMS . 2018 elsevier b . v .
+_MAKERS elsewhere seeking to IDENTIFY_SYSTEM_VULNERABILITIES and INCREASE_RESILIENCE . 2017 the author ( s ) . published by elsevier b . v .
+ELOPMENT_FRAMEWORK ( JADE ) based on SPECIFIC_METHODS to ENHANCE_COLLABORATION in THE_SCM . 2020 the authors . published by elsevier b . v .
+can be used to promote THE_ADOPTION of ADVANCED_TECHNOLOGIES for enhancing CITY_LOGISTICS . 2020 the authors . published by elsevier b . v .
+Y of UCC_LOCATION to SUPPORT_JDS using MAS_ADP based rl to get BETTER_EVALUATION_OUTCOMES . 2020 the authors . published by elsevier b . v .
+s CONSTRUCTION of A_FURTHER_PRACTICAL_CPS_PLATFORM for A_SMART_SUPPLY_CHAIN_CONFIGURATION . 2022 the authors . published by elsevier b . v .
+ussed in A_SIMULATED_PRODUCTION_ENVIRONMENT using AN_EXAMPLE from THE_AUTOMOTIVE_INDUSTRY . 2022 the authors . published by elsevier b . v .
+een maintaining THE_COMMUTATION_SPEED and THE_SYSTEM_PERFORMANCE and RELIABILITY is vital . 2024 the authors . published by elsevier b . v .
+NT_MODELLING analysis to reduce IMPACTS on URBAN_FREIGHT_TRANSPORT in FLOODING_SITUATIONS . 2017 the authors . published by elsevier b . v .
+E_PERFORMANCE from A_SMALL_SCALE ( SMES ) to A_LARGE_SCALE_SUPPLY_CHAIN under UNCERTAINTY . 2019 the authors . published by elsevier b . v .
+tal to THE_OPERATION_RESEARCH_FIELD . they employ THE_SIMPLEX and GOAL_ALGORITHMS of LINEAR_PROGRAMMING . 2016 published by elsevier b . v .
+L_SUPPLY_CHAIN contains TWO_SUPPLIERS : ONE_MACHINE and ONE_SUBCONTRACTOR to satisfy CUSTOMER_DEMAND . world scientific publishing company .
+THE_APPLICATION of AGENT_BASED_LEARNING implemented in ESL applied to A_REAL_WORLD_SUPPLY_CHAIN . 2020 association for computing machinery .
+ecure ALTERNATIVE_BUSINESS_PARTNERS first and then perform RECOVERY_WORK and BUSINESS_EXPANSION . 2019 association for computing machinery .
+ODEL proposed in this paper combines WORK_BREAKDOWN_STRATEGY ( WBS ) and SMART_AGENT_TECHNOLOGY . 2019 association for computing machinery .
+AKING_SCHEDULING_MODEL in SUPPLY_CHAIN is given . finally , THE_MODEL is analyzed and evaluated . 2019 association for computing machinery .
+HS and effectively produce QUALITY_SOLUTIONS in REAL_TIME . 2023 antai college of economics and management , shanghai jiao tong university .
+th TRANSSHIPMENT and DECENTRALIZED_INVENTORY_MANAGEMENT_SYSTEMS without TRANSSHIPMENT using TRADITIONAL_RL_ALGORITHMS . copyright 2023 iise.
+CE for THE_SCIENTIFIC_MANAGEMENT of THE_SUPPLY_CHAIN and THE_OPTIMIZATION of THE_COMPETITIVE_STRATEGY of THE_ENTERPRISES on THE_CHAIN . 2022
+ow that OUR_SOLUTION_APPROACH is effective for SCENARIOS in which ROUTES must be set dynamically from A_CONTINUOUS_STREAM of PACKAGES . 2022
+sc systems are presented . despite LIMITATIONS , this WORK_DEMONSTRATES_A_PROMISING_APPROACH for implementing AN_EFFECTIVE_ASC_SYSTEM . 2024
+ED_AND_PRACTICAL_METHODOLOGY , in_turn , realizes AI_ORIENTED_CROSS_FUNCTIONAL_INTEGRATIONS in THE_ENHANCED_PRODUCT_AND_ENERGY_SECTOR . 2024
+S_WORK is designed to stimulate FURTHER_RESEARCH , both theoretical and technical , and contribute to THE_CONTINUAL_EVOLUTION of ASCS . 2024
+E_INSIGHTS and pave THE_WAY for FUTURE_RESEARCH_AND_PRACTICAL_IMPLEMENTATIONS in SUPPLY_CHAINS with COMPLEX_DECISION_MAKING_PROCESSES . 2025
+ignificantly contributes to THE_FIELDS of DRONE_LOGISTICS_AND_TRANSPORTATION by providing A_SCALABLE_METHOD for optimizing LMDD_PATHS . 2025
+THE_FORM of A_DISTRIBUTED_PRODUCT_TRANSPORTATION_TECHNOLOGY , built on THE_BASIS of EXPERIENCE with THE_USE of OPERATIONAL_MANAGEMENT . 2016
+to achieve ASYMPTOTIC_CONVERGENCE of THE_LOCAL_STOCK and BACKLOG to THE_DESIRED_LEVELS . this is illustrated by NUMERICAL_SIMULATIONS . 2017
+inally , A_CASE_STUDY is conducted to implement BCLFEP enabled DYNAMIC_PLEDGE_MANAGEMENT for VERIFICATION and EVALUATION . 2020 elsevier ltd
+lows to study TRADE_OFFS between REGIONAL_AND_LOCAL_SYSTEMS that emerge from DIFFERENT_BEHAVIOURAL_RESPONSES to POLICIES . 2020 elsevier ltd
+, we validate THE_ROBUSTNESS of THE_WELL_TRAINED_MODEL by varying THE_NUMBER of CUSTOMERS and THE_CAPACITIES of VEHICLES . 2020 elsevier ltd
+THER_INVESTIGATIONS towards THE_ULTIMATE_GOAL of quantifying THE_VALUE of PREDICTIVE_INFORMATION in SUPPLY_CHAIN_SYSTEMS . 2020 elsevier ltd
+nd THE_BEST_ACTION_LEVERS to unlock THE_RESISTANCE that FOREST_PLOT_OWNERS have to remove DECLINING_WOOD from THEIR_LAND . 2021 elsevier ltd
+T . THE_RESULTS also show that THE_NON_FINANCIAL_INCENTIVE_CONTRACT is beneficial to ALL_THE_PLAYERS in THE_SUPPLY_CHAIN . 2021 elsevier ltd
+SULTS of THE_EVALUATIONS indicate THE_SUPERIORITY of THE_SUGGESTED_HYBRID_APPROACH , especially in LARGE_SCALE_INSTANCES . 2021 elsevier ltd
+r FINANCING . NUMERICAL_EXPERIMENTS show THE_FUNCTIONALITY and ADVANTAGES of THE_SPECIALLY_DESIGNED_NEGOTIATION_PROTOCOL . 2022 elsevier ltd
+H_SCRES . it also provided IMPLICATIONS for PRACTICE , POLICY , and THEORY as_well_as GAPS for IMPACTFUL_FUTURE_RESEARCH . 2023 elsevier ltd
+RETURNS , FASTER_CONVERGENCE , and improved EXPLORATION_EFFICIENCY , highlighting ITS_EFFECTIVENESS in DIVERSE_SCENARIOS . 2023 elsevier ltd
+ERATE_AMOUNT of SUBSIDY to coordinate THE_SUPPLY_CHAIN_MEMBERS . an EXCESSIVE_SUBSIDY_HURTS two sides ' benefits instead . 2023 elsevier ltd
+FACTURING_SYSTEM required by OUR_INDUSTRIAL_PARTNER , is adopted to_demonstrate THE_EFFECTIVENESS of the proposed method . 2023 elsevier ltd
+ZATION_INCENTIVE_POLICY and provide A_THEORETICAL_BASIS for promoting DIGITAL_COLLABORATION in MANUFACTURING_ENTERPRISES . 2024 elsevier ltd
+LIVERY , reducing HEALTHCARE_COST , thereby ensuring the affordable , accessible , and QUALITY_HEALTHCARE to THE_SOCIETY . 2024 elsevier ltd
+ed method increases PROFIT by 11.80 % over THE_THRESHOLD_METHOD and by 4.25 % over THE_ADVANCED_STATIC_CLUSTERING_METHOD . 2025 elsevier ltd
+ABORATIVE_DELIVERY_SCENARIOS were affected by DELIVERY_DISTANCE , ENERGY_SOURCES , and the number of ORDERS per DELIVERY . 2025 elsevier ltd
+IS . SIMULATIONS are based on REAL_DATA that have been validated by A_TEAM of LOGISTICIANS from AIRBUS_DEFENSE and SPACE . 2016 elsevier ltd
+REEN_MATERIALS . NUMERICAL_CALCULATIONS are provided to verify THE_FEASIBILITY and THE_SUPERIORITY of THE_PROPOSED_MODEL . 2016 elsevier ltd
+E_FINANCIAL_RESOURCE_SCHEMES of THE_PUBLIC_WELFARE_FUND all have DIFFERING_IMPACTS on THE_ACHIEVEMENT of THE_NEW_PATTERN . 2016 elsevier ltd
+low US to provide INTERESTING_MANAGERIAL_RECOMMENDATIONS to guarantee INVESTMENT in PREVENTION_AND_CORRECTION_STRATEGIES . 2016 elsevier ltd
+s . NUMERICAL_CALCULATIONS and COMPARISONS are provided to verify THE_FEASIBILITY and SUPERIORITY of THE_PROPOSED_MODELS . 2017 elsevier ltd
+ EFFECTIVE_ANALYSIS of ITS_SAFETY . THE_FINAL_GOAL is orienting MAINTENANCE_ACTORS to THE_BEST_RISK minimizing DECISIONS . 2017 elsevier ltd
+E_RECOMMENDATIONS to SUPPLY_CHAIN managers in_order_to efficiently implement INFORMATION_SHARING_MECHANISMS at RETAILERS . 2017 elsevier ltd
+ION_STRUCTURE of THE_SUPPLY_CHAIN through rational ALLOCATION_OF_REDUCTION_INVESTMENTS and thus further RESTORES_PROFITS . 2017 elsevier ltd
+( i . e . naive ) IMPLEMENTATION_METHOD by 27.2 % and 7.8 % with_respect_to THE_LEVELS of BULLWHIP_AND_AVERAGE_INVENTORY . 2017 elsevier ltd
+RITHMIC_COMPLEXITY , which describes THE_LIMITING_BEHAVIOUR of THE_ALGORITHM and gives ONLY_A_ROUGH_PERFORMANCE_ESTIMATE . 2018 elsevier ltd
+nally , THE_LIMITATIONS and ADVANTAGES of THE_PROPOSED_APPROACH are presented together_with SOME_REMARKS for FUTURE_WORK . 2018 elsevier ltd
+OMMODATION_SITES in GREECE . OBTAINED_RESULTS have confirmed and reflected THE_CURRENT_SITUATION in THESE_CAMP_LOCATIONS . 2018 elsevier ltd
+furthermore , RESULTS also indicate THAT_TRUST_BASED_RULE is THE_MOST_ROBUST_ONE against RANDOM_AND_TARGETED_DISRUPTIONS . 2018 elsevier ltd
+ALGORITHM is superior to the standalone BRANCH_AND_PRICE_ALGORITHM and MILP_SOLVER in_terms_of COMPUTATION_TIMES and GAP . 2019 elsevier ltd
+TS are designed . THE_RESULTS indicate THE_SUPERIORITY of ADAPTIVE_GENETIC_ALGORITHM in_comparison with OTHER_ALGORITHMS . 2019 elsevier ltd
+_DECISIONS thus increasing THE_ACCURACY of AGENT_DECISION_MAKING and eventually reducing ENVIRONMENTAL_EMISSIONS as well . 2019 elsevier ltd
+_RISKS_EFFECTS in THE_ESPECIALLY_THE_CONSIDERATION of UNCERTAINTY_RISK_EVENT_SYSTEM_BEHAVIOR in DIFFERENT_OPERATIONAL_CONDITIONS . 2017 kiie
+ ) , as THE_AVERAGE_CPU_LOAD for SMDPA is approximately 775 milliseconds ( MS ) compared to about 900 MS for ADB_SMC . copyright 2023 sarhan
+THMS . 2019 the authors . international transactions in operational research 2019 international federation of operational research societies
+THE_GREATER_THE_DIFFERENCE in THE_DEMAND_FREQUENCY of EACH_PRODUCT , THE_GREATER_THE_EFFECT . 2020 the japan society of mechanical engineers
+n_the_process and subsequently can address THE_POLICY_MEASURE_IMPLEMENTATION towards A_MORE_SUSTAINABLE_AND_LIVEABLE_CITY . 2023 the authors

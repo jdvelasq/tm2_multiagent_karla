@@ -1,130 +1,174 @@
+UT 444
+AR Ma C., 2025, APPL SCI, V15
+TI A Review of Supply Chain Resilience: A Network Modeling Perspective
+AU Ma C.; Zhang L./1; You L.; Tian W.
+TC 1
+SO Applied Sciences (Switzerland)
+PY 2025
+AB against THE_BACKDROP of GLOBALIZATION , THE_COMPLEXITY of SUPPLY_CHAINS has
+   been increasing , making SUPPLY_CHAIN_RESILIENCE_A_CRITICAL_FACTOR in
+   ensuring THE_STABLE_OPERATION of ENTERPRISES , NATIONAL_ECONOMIES , and
+   INTERNATIONAL_TRADE . THIS_PAPER adopts A_NETWORK_MODELING_PERSPECTIVE to
+   systematically review THE_THEORETICAL_FOUNDATIONS and RESEARCH_PROGRESS in
+   SUPPLY_CHAIN_RESILIENCE , focusing_on THE_APPLICATION of
+   NETWORK_MODELING_METHODS . first , THE_CONCEPT of SUPPLY_CHAIN_RESILIENCE is
+   defined , and ITS_DEVELOPMENTAL_TRAJECTORY is reviewed . through
+   LITERATURE_VISUALIZATION_ANALYSIS , this study delves into the
+   CURRENT_STATE_OF_RESEARCH on SUPPLY_CHAIN_RESILIENCE , addressing CHALLENGES
+   and RISK_MANAGEMENT , highlighting THE_IMPORTANCE of
+   NETWORK_MODELING_TECHNIQUES in THIS_FIELD . subsequently , it explores
+   SUPPLY_CHAIN_NETWORK_MODELING based on COMPLEX_NETWORKS and
+   AGENT_BASED_MODELING , analyzing THEIR_STRENGTHS and LIMITATIONS in
+   simulating THE_OVERALL_EVOLUTION of SUPPLY_CHAINS and THE_DYNAMIC_BEHAVIOR
+   of INDIVIDUAL_ENTITIES . by integrating NETWORK_STRUCTURAL_CHARACTERISTICS
+   with RESILIENCE_EVALUATION_METHODS , this paper suggests
+   POTENTIAL_DIRECTIONS for FUTURE_RESEARCH . these include enhancing
+   THE_DESCRIPTION of INDIVIDUAL_FIRM_BEHAVIOR , analyzing THE_DYNAMICS of
+   INFORMATION_NETWORKS , and emphasizing TASK_ORIENTED_MODEL_DESIGN , thereby
+   offering NEW_PERSPECTIVES and PATHWAYS for managing SUPPLY_CHAIN_RESILIENCE
+   in A_WAY that can generate SIGNIFICANT_POSITIVE_EXTERNALITIES for
+   GLOBAL_ECONOMIES . THIS_RESEARCH also indicates that THE_ENHANCED_RESILIENCE
+   of SUPPLY_CHAINS can produce A_MULTIPLIER_EFFECT , benefiting
+   NOT_ONLY_INDIVIDUAL_FIRMS but also promoting ECONOMIC_STABILITY and GROWTH
+   across MULTIPLE_COUNTRIES . 2024 by the authors .
+DE COMPLEX_NETWORKS; LITERATURE_VISUALIZATION_ANALYSIS; MULTI_AGENT_SYSTEMS;
+   NETWORK_MODELING; SUPPLY_CHAIN_RESILIENCE
+ID INTERNATIONAL_TRADE; SUPPLY_CHAINS; CRITICAL_FACTORS; GLOBALISATION;
+   LITERATURE_VISUALIZATION_ANALYZE; MULTIAGENT_SYSTEMS (MASS);
+   NATIONAL_ECONOMY; NETWORK_MODELS; STABLE_OPERATION;
+   SUPPLY_CHAIN_RESILIENCES; THEORETICAL_FOUNDATIONS; VISUALIZATION_ANALYSIS;
+   RISK_MANAGEMENT
 
-Record-No: 202
-Record-ID: Hanga K.M., 2019, COMPUT SCI REV, V34
-Title: MACHINE_LEARNING and MULTI_AGENT_SYSTEMS in oil and
-GAS_INDUSTRY_APPLICATIONS: a SURVEY
-Abstract:
-```
-the oil and GAS_INDUSTRY (ogi) has always been associated with challenges
-and complexities. it involves many processes and STAKEHOLDERS, each
-generating a HUGE_AMOUNT of data. due to the global and distributed
-nature of the business, PROCESSING and managing this information is an
-ARDUOUS_TASK. many issues such as orchestrating DIFFERENT_DATA_SOURCES,
-owners and formats; verifying, validating and securing DATA_STREAMS as
-they move along the COMPLEX_BUSINESS_PROCESS_PIPELINE; and getting
-insights from data for improving BUSINESS_EFFICIENCY,
-SCHEDULING_MAINTENANCE and preventing theft and fraud are to be
-addressed. ARTIFICIAL_INTELLIGENCE (ai), and MACHINE_LEARNING (ml) in
-particular, have gained HUGE_ACCEPTANCE in many areas recently, including
-the ogi, to help HUMANS_TACKLE SUCH_COMPLEX_TASKS. furthermore,
-multi_agent systems (MAS) as a sub_field of distributed AI_MEET the
-requirement of DISTRIBUTED_SYSTEMS and have been utilised successfully in
-a VAST_VARIETY of disciplines. several studies have explored the use of
-ml and MAS to increase OPERATIONAL_EFFICIENCY, manage SUPPLY_CHAIN and
-solve various production_ and maintenance_related tasks in the ogi.
-however, ml has only been applied to isolated tasks, and while MAS have
-yielded GOOD_PERFORMANCE in simulated environments, they have not gained
-the expected popularity among oil and GAS_COMPANIES yet. further RESEARCH
-in the fields is necessary to realise the potential of ml and MAS and
-encourage their wider acceptance in the ogi. in particular, embedding ml
-into MAS can bring many benefits for the FUTURE_DEVELOPMENT of the
-INDUSTRY. this PAPER_AIMS to summarise the efforts to date of applying ml
-and MAS to OGI_TASKS, identify POSSIBLE_REASONS for their low and
-SLOW_UPTAKE and suggest ways to ensure a greater adoption of these
-technologies in the ogi.  2019 ELSEVIER_INC.
-```
-
---
-
-Record-No: 151
-Record-ID: Herrera M., 2020, PROCESS, V8
-Title: MULTI_AGENT_SYSTEMS and COMPLEX_NETWORKS: REVIEW and APPLICATIONS in
-SYSTEMS_ENGINEERING
-Abstract:
-```
-SYSTEMS_ENGINEERING is an UBIQUITOUS_DISCIPLINE of engineering
-overlapping industrial, chemical, mechanical, MANUFACTURING, CONTROL,
-software, electrical, and CIVIL_ENGINEERING. it provides TOOLS for
-dealing with the COMPLEXITY and DYNAMICS related to the OPTIMISATION of
-physical, natural, and VIRTUAL_SYSTEMS_MANAGEMENT. this paper presents a
-REVIEW of how multi_agent systems and COMPLEX_NETWORKS_THEORY are brought
-together to ADDRESS_SYSTEMS_ENGINEERING and MANAGEMENT_PROBLEMS. the
-REVIEW also encompasses CURRENT and FUTURE_RESEARCH_DIRECTIONS both for
-THEORETICAL_FUNDAMENTALS and APPLICATIONS in the INDUSTRY. this is made
-by considering trends such as mesoscale, multiscale, and
-MULTILAYER_NETWORKS along with the state_of_art analysis on
-NETWORK_DYNAMICS and INTELLIGENT_NETWORKS. critical and
-SMART_INFRASTRUCTURE, MANUFACTURING_PROCESSES, and SUPPLY_CHAIN_NETWORKS
-are instances of RESEARCH_TOPICS for which this LITERATURE_REVIEW is
-highly relevant.  2020 by the authors.
-```
 
 --
 
-Record-No: 135
-Record-ID: Domínguez R., 2020, SUSTAINABILITY, V12, P1
-Title: insights on MULTI_AGENT_SYSTEMS APPLICATIONS for SUPPLY_CHAIN_MANAGEMENT
-Abstract:
-```
-in this paper, we REVIEW_RELEVANT_LITERATURE on the DEVELOPMENT of
-multi_agent systems APPLICATIONS for SUPPLY_CHAIN_MANAGEMENT. we give a
-GENERAL_PICTURE of the STATE_OF_THE_ART, showing the MAIN_APPLICATIONS
-developed using this NOVEL_METHODOLOGY for analyzing DIVERSE_PROBLEMS in
-INDUSTRY. we also ANALYZE_GENERIC_FRAMEWORKS for SUPPLY_CHAIN MODELLING,
-showing their MAIN_CHARACTERISTICS. we discuss the MAIN_TOPICS addressed
-with this TECHNIQUE and the degree of DEVELOPMENT of the contributions.
-2020 by the authors. LICENSEE_MDPI, basel, switzerland.
-```
+UT 198
+AR Herrera M., 2020, PROCESS, V8
+TI Multi-agent systems and complex networks: Review and applications in systems
+   engineering
+AU Herrera M.; Pérez-Hernández M.; Parlikad A.K.; Izquierdo J.
+TC 94
+SO Processes
+PY 2020
+AB SYSTEMS_ENGINEERING is AN_UBIQUITOUS_DISCIPLINE of ENGINEERING overlapping
+   industrial , chemical , mechanical , MANUFACTURING , CONTROL , SOFTWARE ,
+   electrical , and CIVIL_ENGINEERING . it provides TOOLS for dealing with
+   THE_COMPLEXITY and DYNAMICS related to THE_OPTIMISATION of physical ,
+   natural , and VIRTUAL_SYSTEMS_MANAGEMENT . this paper presents A_REVIEW of
+   how MULTI_AGENT_SYSTEMS and COMPLEX_NETWORKS_THEORY are brought together to
+   address SYSTEMS_ENGINEERING_AND_MANAGEMENT_PROBLEMS . THE_REVIEW also
+   encompasses CURRENT_AND_FUTURE_RESEARCH_DIRECTIONS both for
+   THEORETICAL_FUNDAMENTALS and APPLICATIONS in THE_INDUSTRY . this is made by
+   considering TRENDS such_as MESOSCALE , MULTISCALE , and MULTILAYER_NETWORKS
+   along_with the STATE_OF_ART analysis on NETWORK_DYNAMICS and
+   INTELLIGENT_NETWORKS . CRITICAL_AND_SMART_INFRASTRUCTURE ,
+   MANUFACTURING_PROCESSES , and SUPPLY_CHAIN_NETWORKS are INSTANCES of
+   RESEARCH_TOPICS for which THIS_LITERATURE_REVIEW is highly relevant . 2020
+   by the authors .
+DE AGENT_BASED_CONTROL; COMPLEX_NETWORKS; MULTI_AGENT_SYSTEMS; OPTIMISATION;
+   PROCESSES_SYSTEMS_ENGINEERING; SYSTEMS_ENGINEERING
+
 
 --
 
-Record-No: 351
-Record-ID: Teo J.S.E., 2015, TRANSP RES REC, V2478, P35
-Title: EVALUATION of URBAN_DISTRIBUTION_CENTERS using MULTIAGENT_MODELING with
-GEOGRAPHIC_INFORMATION_SYSTEMS
-Abstract:
-```
-CURRENT_BARRIERS to maintaining economies of scale for delivery include
-far distances of the depots from CUSTOMERS, ROAD_USAGE_RESTRICTIONS,
-CUSTOMERS' DELIVERY_REQUESTS, and social, environmental, and
-ECONOMIC_COSTS. in many developed and DEVELOPING_COUNTRIES, the effects
-of urbanization have increased CITY_POPULATION. SUCH_MIGRATION to cities
-is also attracting more movement of commodities into the CITY_CENTER.
-this RESEARCH aimed to study the effectiveness and VIABILITY of
-URBAN_DISTRIBUTION_CENTERS from a TACTICAL_VIEWPOINT of PLANNING for
-CITY_LOGISTICS. a MULTIAGENT_MODELING approach with
-GEOGRAPHICAL_INFORMATION_SYSTEM_SUPPORT was used to test an
-URBAN_DISTRIBUTION_CENTER (udc) in OSAKA_CITY, JAPAN. the KEY_FINDINGS
-from this RESEARCH concluded that the udc has potential for
-EMISSIONS_REDUCTION, but SUSTAINABILITY of the udc is reliant on the
-UDC_CHARGES and carriers' sensitivity to the rate of charges.
-```
+UT 199
+AR Dominguez R., 2020, SUSTAINABILITY, V12, P1
+TI Insights on multi-agent systems applications for supply chain management
+AU Dominguez R.; Cannella S.
+TC 34
+SO Sustainability (Switzerland)
+PY 2020
+AB in this paper , we REVIEW_RELEVANT_LITERATURE on THE_DEVELOPMENT of
+   MULTI_AGENT_SYSTEMS_APPLICATIONS for SUPPLY_CHAIN_MANAGEMENT . we give
+   A_GENERAL_PICTURE of the STATE_OF_THE_ART , showing THE_MAIN_APPLICATIONS
+   developed using THIS_NOVEL_METHODOLOGY for analyzing DIVERSE_PROBLEMS in
+   INDUSTRY . we also ANALYZE_GENERIC_FRAMEWORKS for SUPPLY_CHAIN_MODELLING ,
+   showing THEIR_MAIN_CHARACTERISTICS . we discuss THE_MAIN_TOPICS addressed
+   with THIS_TECHNIQUE and THE_DEGREE of DEVELOPMENT of THE_CONTRIBUTIONS .
+   2020 by the authors . licensee mdpi , basel , switzerland .
+DE MULTI_AGENT_SYSTEMS; SIMULATION; SUPPLY_CHAIN_MANAGEMENT
+ID LITERATURE_REVIEW; METHODOLOGY; NUMERICAL_MODEL; SIMULATION;
+   SUPPLY_CHAIN_MANAGEMENT
+
 
 --
 
-Record-No: 465
-Record-ID: Dai H., 2014, INT J PROD RES, V52, P6819
-Title: a FRACTAL_PERSPECTIVE based METHODOLOGICAL_FRAMEWORK for SUPPLY_CHAIN
-MODELLING and DISTRIBUTED_SIMULATION with MULTI_AGENT_SYSTEM
-Abstract:
-```
-with the DEVELOPMENT of GLOBAL_ECONOMY, SUPPLY_CHAIN, as a recognised
-COMPLEX_SYSTEM, is becoming more complex for analysis. in this context,
-it is worth introducing the perspective of COMPLEX_SYSTEM in perceiving
-and MODELLING of SUPPLY_CHAIN_SYSTEM to address ITS dynamic, stochastic
-and UNCERTAIN_CHARACTERISTICS. therefore, this paper proposes a
-METHODOLOGICAL_FRAMEWORK of SUPPLY_CHAIN MODELLING_AND_SIMULATION based
-on the FRACTAL_PERSPECTIVE, and presents an all_round and
-SYSTEMATIC_EXPOSITION of concept MODELLING and DISTRIBUTED_SIMULATION by
-means of multi_agent TECHNOLOGY. in this framework, different
-SUPPLY_CHAIN scenarios focusing on MANUFACTURING, INVENTORY and
-TRANSPORTATION can be easily modelled and simulated at DIFFERENT_SCALES
-and levels. in addition, a PROTOTYPE_SYSTEM which implements the
-METHODOLOGICAL_FRAMEWORK and the KEY_IMPLEMENTATION_TECHNIQUES are
-presented as well. finally, a SUPPLY_CHAIN_EXAMPLE, which
-SUPPOSES_MANUFACTURER as the CORE_MEMBER, is modelled and simulated with
-the PROTOTYPE_SYSTEM to illustrate the effectiveness of the proposed
-framework.  2014 taylor and francis.
-```
+UT 181
+AR Hanga K.M., 2019, COMPUT SCI REV, V34
+TI Machine learning and multi-agent systems in oil and gas industry
+   applications: A survey
+AU Hanga K.M.; Kovalchuk Y.
+TC 111
+SO Computer Science Review
+PY 2019
+AB THE_OIL_AND_GAS_INDUSTRY ( OGI ) has always been associated with CHALLENGES
+   and COMPLEXITIES . it involves MANY_PROCESSES and STAKEHOLDERS , each
+   generating A_HUGE_AMOUNT of DATA . due_to THE_GLOBAL_AND_DISTRIBUTED_NATURE
+   of THE_BUSINESS , PROCESSING and managing THIS_INFORMATION is
+   AN_ARDUOUS_TASK . MANY_ISSUES such_as orchestrating DIFFERENT_DATA_SOURCES ,
+   OWNERS and FORMATS . verifying , validating and securing DATA_STREAMS as
+   they move along THE_COMPLEX_BUSINESS_PROCESS_PIPELINE . and getting INSIGHTS
+   from DATA for improving BUSINESS_EFFICIENCY , SCHEDULING_MAINTENANCE and
+   preventing THEFT and FRAUD are to be addressed . ARTIFICIAL_INTELLIGENCE (
+   AI ) , and MACHINE_LEARNING ( ML ) in_particular , have gained
+   HUGE_ACCEPTANCE in MANY_AREAS recently , including THE_OGI , to help
+   HUMANS_TACKLE_SUCH_COMPLEX_TASKS . furthermore , MULTI_AGENT_SYSTEMS ( MAS )
+   as A_SUB_FIELD of DISTRIBUTED_AI meet THE_REQUIREMENT of DISTRIBUTED_SYSTEMS
+   and have been utilised successfully in A_VAST_VARIETY of DISCIPLINES .
+   SEVERAL_STUDIES have explored THE_USE of ML and MAS to increase
+   OPERATIONAL_EFFICIENCY , manage SUPPLY_CHAIN and solve
+   VARIOUS_PRODUCTION_AND_MAINTENANCE_RELATED_TASKS in THE_OGI . however , ML
+   has only been applied to ISOLATED_TASKS , and while MAS have yielded
+   GOOD_PERFORMANCE in SIMULATED_ENVIRONMENTS , they have not gained
+   THE_EXPECTED_POPULARITY among OIL_AND_GAS_COMPANIES yet . FURTHER_RESEARCH
+   in THE_FIELDS is necessary to realise THE_POTENTIAL of ML and MAS and
+   encourage THEIR_WIDER_ACCEPTANCE in THE_OGI . in_particular , embedding ML
+   into MAS can bring MANY_BENEFITS for THE_FUTURE_DEVELOPMENT of THE_INDUSTRY
+   . this paper aims to summarise THE_EFFORTS to DATE of applying ML and MAS to
+   OGI_TASKS , identify POSSIBLE_REASONS for THEIR_LOW_AND_SLOW_UPTAKE and
+   suggest WAYS to ensure A_GREATER_ADOPTION of THESE_TECHNOLOGIES in THE_OGI .
+   2019 elsevier inc .
+DE ARTIFICIAL_INTELLIGENCE; MACHINE_LEARNING; MULTI_AGENT_SYSTEMS;
+   OIL_AND_GAS_INDUSTRY; SUPPLY_CHAIN_MANAGEMENT
+ID ARTIFICIAL_INTELLIGENCE; CRIME; EFFICIENCY; GAS_INDUSTRY;
+   INTELLIGENT_AGENTS; LEARNING_SYSTEMS; MACHINE_LEARNING; PUBLIC_UTILITIES;
+   SUPPLY_CHAIN_MANAGEMENT; BUSINESS_EFFICIENCY; BUSINESS_PROCESS;
+   DISTRIBUTED_AI; DISTRIBUTED_SYSTEMS; OIL_AND_GAS_COMPANIES;
+   OIL_AND_GAS_INDUSTRY; OPERATIONAL_EFFICIENCIES; SIMULATED_ENVIRONMENT;
+   MULTI_AGENT_SYSTEMS
 
+
+--
+
+UT 56
+AR Teo J.S.-E., 2015, TRANSP RES REC, V2478, P35
+TI Evaluation of urban distribution centers using multiagent modeling with
+   geographic information systems
+AU Teo J.S.-E.; Taniguchi E.; Qureshi A.G.
+TC 17
+SO Transportation Research Record
+PY 2015
+AB CURRENT_BARRIERS to maintaining ECONOMIES_OF_SCALE for DELIVERY include
+   FAR_DISTANCES of THE_DEPOTS from CUSTOMERS , ROAD_USAGE_RESTRICTIONS ,
+   CUSTOMERS ' DELIVERY_REQUESTS , and social , environmental , and
+   ECONOMIC_COSTS . in MANY_DEVELOPED_AND_DEVELOPING_COUNTRIES , THE_EFFECTS of
+   URBANIZATION have increased CITY_POPULATION . SUCH_MIGRATION to CITIES is
+   also attracting MORE_MOVEMENT of COMMODITIES into THE_CITY_CENTER . this
+   research aimed to study THE_EFFECTIVENESS and VIABILITY of
+   URBAN_DISTRIBUTION_CENTERS from A_TACTICAL_VIEWPOINT of PLANNING for
+   CITY_LOGISTICS . A_MULTIAGENT_MODELING_APPROACH with
+   GEOGRAPHICAL_INFORMATION_SYSTEM_SUPPORT was used to test
+   AN_URBAN_DISTRIBUTION_CENTER ( UDC ) in OSAKA_CITY , JAPAN .
+   THE_KEY_FINDINGS from THIS_RESEARCH concluded that THE_UDC has POTENTIAL for
+   EMISSIONS_REDUCTION , but SUSTAINABILITY of THE_UDC is reliant on
+   THE_UDC_CHARGES and carriers ' sensitivity to THE_RATE of CHARGES .
+ID DEVELOPING_COUNTRIES; ECONOMICS; EMISSION_CONTROL;
+   GEOGRAPHIC_INFORMATION_SYSTEMS; GEOGRAPHICAL_DISTRIBUTION; INFORMATION_USE;
+   MULTI_AGENT_SYSTEMS; SUSTAINABLE_DEVELOPMENT; WAREHOUSES; CITY_CENTERS;
+   CURRENT_BARRIERS; ECONOMIC_COSTS; ECONOMY_OF_SCALE; ENVIRONMENTAL_COSTS;
+   MULTI_AGENT_MODEL; ROAD_USAGE; SOCIAL_COST; SOCIAL_ECONOMIC;
+   URBAN_DISTRIBUTION_CENTERS; INFORMATION_SYSTEMS
+
+
+--
 

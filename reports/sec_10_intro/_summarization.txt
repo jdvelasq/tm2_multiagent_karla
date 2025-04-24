@@ -1,0 +1,58 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in MULTI-AGENTS IN SUPPLY CHAINS. The provided paragraphs contains different approaches to the definition, impact and importance of MULTI-AGENTS IN SUPPLY CHAINS.
+
+
+GOAL:
+Summarize the different approaches to the term MULTI-AGENTS IN SUPPLY CHAINS by combining the provided paragraphs.
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new text.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Do not include particular examples or applicataion cases.
+
+
+PARAGRAPHS TO COMBINE:
+
+Multi-agent systems (MAS) in supply chains represent a paradigm shift from centralized control to distributed, autonomous decision-making entities that collaboratively manage complexity, uncertainty, and dynamism in logistics networks. These systems rely on a collection of interacting agents—software entities with autonomous behavior and local decision-making capabilities—that simulate human-like collaboration across the supply chain. In practice, MAS have been leveraged for a variety of functions, including negotiation in manufacturing supply chains [UT: 124], dynamic formation of multi-modal transport systems [UT: 35], and enhancing traceability and quality control in agricultural product logistics [UT: 132]. By employing negotiation models, ontology-based frameworks, and social network analysis, MAS support conflict resolution, cooperation, and adaptive coordination in real-time environments [UT: 170; UT: 6]. Their architectural integration with RFID technologies has also enabled seamless tracking and synchronization of prefabricated components, streamlining operations in the construction industry [UT: 76]. Furthermore, MAS contribute to robustness and resilience through simulation of complex adaptive systems, helping supply chains maintain continuity amid disruptions [UT: 6]. The smart integration of MAS with data warehouses and game theory in collaborative e-commerce supply chains underscores their potential for fostering transparency, responsiveness, and strategic alignment among stakeholders [UT: 23]. As demonstrated across various sectors—from agriculture to prefabricated construction and manufacturing—MAS are pivotal in transforming traditional supply chains into intelligent, decentralized ecosystems, offering decision support and operational efficiency aligned with the strategic goals of industrial systems [UT: 391]. Their adoption not only enhances system performance but also yields practical tools for managing interdependencies and uncertainty in production and logistics.
+
+--
+
+Multi-agent systems (MAS) in supply chains are decentralized computational architectures composed of autonomous agents that cooperate, negotiate, and self-organize to enhance decision-making, coordination, and adaptability in complex logistics networks. These agents function independently yet collaboratively, representing stakeholders such as suppliers, manufacturers, logistics providers, and consumers, and are capable of handling multifaceted tasks such as scheduling, negotiation, resource allocation, and service composition [UT: 128; UT: 133; UT: 67]. MAS provide a powerful decision aid model particularly suited for distributed environments, where dynamic conditions and conflicting objectives prevail [UT: 163; UT: 265]. Their importance lies in enabling intelligent supply chains, as seen in applications from truck scheduling at cross-docking terminals [UT: 265], to supplier and transportation provider selection using ontology-driven negotiation protocols [UT: 210]. The integration with emerging technologies such as blockchain, IoT, and cloud systems further extends MAS utility by enabling secure data sharing and traceability in enterprise logistics platforms [UT: 279]. In e-government procurement systems, MAS facilitate automated tendering processes, ensuring transparency and efficiency [UT: 173]. Moreover, MAS support collaborative product and supply chain co-design through simultaneous optimization strategies [UT: 69], and offer formal specification frameworks that ensure correctness and verifiability of organizational behaviors in supply chain management [UT: 99]. By modeling real-world complexity and enabling multi-objective optimization, MAS not only support robust and flexible decision-making but also deliver actionable insights for industrial practitioners aiming to design resilient, adaptive, and efficient supply networks.
+
+--
+
+Multi-agent systems (MAS) in supply chains refer to distributed architectures where autonomous software agents represent and coordinate the actions of various supply chain entities to improve responsiveness, flexibility, and decision-making. Each agent operates with autonomy, yet collectively these agents negotiate, collaborate, and self-organize to handle diverse supply chain tasks such as supplier selection, inventory disruption, logistics coordination, and adaptive scheduling [UT: 4; UT: 197; UT: 319; UT: 157]. MAS enable real-time negotiation models that consider synergy effects among multiple products [UT: 4], support business management systems that enhance profitability by up to 19% [UT: 411], and demonstrate adaptability under unpredictable events like new orders or unavailable resources [UT: 157]. Their applications span critical domains—from modeling green retail chains [UT: 231] and restructuring public distribution systems [UT: 20], to managing coordination in medical supply chains [UT: 319] and leveraging autonomous AI for adaptive resource management [UT: 116]. Notably, MAS have been integrated into collaborative e-commerce frameworks through game theory and data warehouses to create decentralized and transparent systems [UT: 23], and have been validated as effective problem solvers in negotiation-intensive environments [UT: 107]. These systems also serve as decision support tools, enabling more flexible final decisions in inventory control during disruptions [UT: 197]. Through these capabilities, MAS emerge as a core technology for building intelligent, adaptive, and resilient supply networks—aligning with the IJPR’s focus on advancing decision aid tools in logistics and production research through both theoretical innovation and real-world applicability.
+
+-- 
+
+Multi-agent systems (MAS) in supply chains constitute a decentralized decision-making paradigm where autonomous software entities—agents—interact, negotiate, and collaborate to optimize logistics operations and production processes. These systems allow various parties in the supply chain to be represented by intelligent agents that operate concurrently and adaptively, responding to changes in demand, disruptions, or resource availability. In negotiation-heavy environments, MAS provide robust support for dynamic problem-solving by enabling trade-off analysis and strategic decision-making between agents, facilitating balanced outcomes among conflicting supply chain objectives [UT: 328]. This distributed intelligence is particularly vital in contexts characterized by complexity, uncertainty, and the need for responsiveness. As “the best candidate for problem solver under these circumstances,” MAS offer a flexible and scalable alternative to traditional centralized models. For the International Journal of Production Research audience, which values rigorous models with real-life applications in production and logistics, MAS exemplify a transformative approach to production planning, coordination, and control. Their ability to represent distributed stakeholders and execute real-time, autonomous negotiation processes supports the development of decision-aid systems that align with the journal’s mission of advancing practical, computation-based solutions for manufacturing and operations research challenges.
+
+--
+
+Multi-agent systems (MAS) in the context of city logistics, urban freight, and last-mile delivery are sophisticated frameworks designed to optimize and manage the complex dynamics involved in transporting goods within urban environments. These systems leverage the principles of decentralization and autonomy to address the challenges posed by the increasing demand for efficient, sustainable, and timely delivery solutions. In urban freight and last-mile delivery, MAS enable the coordination and cooperation among various stakeholders, including delivery vehicles, logistics companies, and even individual citizens, who act as temporary delivery agents through crowdsourcing approaches [5]. The implementation of MAS in city logistics involves the use of advanced algorithms and artificial intelligence to optimize delivery routes, reduce traffic congestion, and minimize environmental impact. For example, agent-based models can simulate the decision-making processes of multiple stakeholders, allowing for better resource utilization and reducing negative externalities such as pollution and traffic jams [1][5][8]. These models consider various constraints and objectives, such as delivery time windows, vehicle capacities, and environmental regulations, to ensure efficient and sustainable urban freight systems [1][4][10]. One of the critical applications of MAS in urban freight is the use of crowdsourcing for last-mile delivery. This approach involves leveraging the movements of citizens to deliver parcels, thereby reducing the need for dedicated logistics vehicles and cutting down on emissions and traffic congestion [1][8][9]. By integrating public infrastructure networks and the personal routes of citizens, MAS can create flexible and adaptive delivery systems that respond to real-time changes in demand and traffic conditions [1][8][10]. Furthermore, MAS can enhance the operational efficiency of urban logistics by facilitating the consolidation of deliveries through urban consolidation centers (UCCs). These centers serve as hubs where goods are grouped and dispatched to their final destinations, optimizing the use of transport resources and reducing the number of delivery trips required [3][10][16]. The use of bicriteria auction mechanisms within MAS can further enhance the efficiency of these centers by balancing economic and environmental objectives in the assignment of delivery orders to transport resources [16]. In summary, multi-agent systems in city logistics, urban freight, and last-mile delivery represent a transformative approach to managing urban transport. They offer a scalable, flexible, and sustainable solution to the growing challenges of urbanization, e-commerce, and environmental sustainability. By integrating advanced modeling techniques, crowdsourcing, and consolidation strategies, MAS provide a comprehensive framework for optimizing the delivery of goods in urban settings [1][5][8][10][12].
+
+
+
+
+
+
+
+

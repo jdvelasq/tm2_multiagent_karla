@@ -1,11 +1,12 @@
 # %%
-import pandas as pd  # type: ignore
-from techminer2.database.metrics.general import DataFrame  # type: ignore
+from techminer2.database.tools import Coverage # type: ignore
+
 
 df = (
-    DataFrame()
+    Coverage()
     #
-    # DATABASE:
+    .with_field("keywords")
+    #
     .where_root_directory_is("../")
     .where_database_is("main")
     .where_record_years_range_is(2015, 2024)
@@ -22,9 +23,9 @@ df = (
                 'Review',
             ]
         }
-    )
+    )    
+    #
     .run()
 )
 df
-
 # %%

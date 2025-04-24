@@ -1,0 +1,46 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper based on the dominant thematic clusters in MULTI-AGENTS IN SUPPLY CHAINS. 
+
+
+GOAL:
+You must write one paragraph explaining the definition, impact and importance of MULTI-AGENTS IN SUPPLY CHAINS using the provided abstracts. 
+
+
+LENGTH:
+The paragraph has a maixmum of 250 words.
+
+TARGET JOURNAL:
+The target journal is the International Journal of Production Research (IJPR) .The  IJPR is a leading journal in the areas of manufacturing, industrial engineering, operations research and management science. The  IJPR aims to disseminate research on decision aid in manufacturing, operations management and logistics. The  IJPR publishes convincing scientific results with clear, real-life applications as well as fundamental techniques developed in computer, decision and mathematical sciences to solve complex decision problems that arise in design, measurement, management and control of production and logistics systems. The  IJPR covers the following topics:
+* Design of products and manufacturing processes
+* Production system and supply network engineering
+* Essential behaviour of production resources and systems
+* Production strategies and related economics issues
+* Production policy formulation and evaluation
+* Production planning and scheduling
+* Contribution of new technologies to production and logistics
+* Applications of production research to services
+The IJPR seeks original research articles, discussion or technical notes, and review articles presenting the state of the art. IJPR papers should feature following elements: 
+* an exhaustive analysis of related Production Research publications;
+* a novel decision aid model for design or management of production systems and logistics, the model should be explained for a large audience in production research;
+* comparisons with the state of the art;
+* discussion on real life applications of the proposed approach in production systems and logistics;
+* managerial insights for decision makers in industry;
+* research perspectives.
+
+
+
+REQUIREMENTS:
+The requirements for the paragraph are as follows:
+- Be sure of formulating a deep definition about MULTI-AGENTS IN SUPPLY CHAINS.
+- Use all the provided abstracts for elaborate the paragraph.
+- Be sure of the generated paragraph is of the interest for the readers of the target journal.
+
+
+CITATION:
+Use the UT field provided in the files as reference numbers in the text. Do not use surname (year) citation style. Use the UT field value between brackets to indicate the reference to the record. For example, [UT: 1] means that the information is in the "UT 1". Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
+
+

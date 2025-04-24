@@ -1,0 +1,46 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper about MULTI-AGENTS IN SUPPLY CHAIN. The provided literature review papers contain the abstract and title of published literature reviews on TINY MACHINE LEARNING. 
+
+
+GOAL:
+Write a text jutifying the realization of a new literature review on MULTI-AGENTS IN SUPPLY CHAIN. Be sure that the justification is aligned with the target journal's scope and topics of interest. The central idea of the feview is to present a review of global areas of research on MULTI-AGENTS IN SUPPLY CHAIN, including the trends,challenges, and future directions of this field. The paper uses text mining techniques to discover the dominant topics and then present a critical analysis of each topic 
+
+
+TARGET JOURNAL:
+The target journal is the International Journal of Production Research (IJPR) .The  IJPR is a leading journal in the areas of manufacturing, industrial engineering, operations research and management science. The  IJPR aims to disseminate research on decision aid in manufacturing, operations management and logistics. The  IJPR publishes convincing scientific results with clear, real-life applications as well as fundamental techniques developed in computer, decision and mathematical sciences to solve complex decision problems that arise in design, measurement, management and control of production and logistics systems. The  IJPR covers the following topics:
+* Design of products and manufacturing processes
+* Production system and supply network engineering
+* Essential behaviour of production resources and systems
+* Production strategies and related economics issues
+* Production policy formulation and evaluation
+* Production planning and scheduling
+* Contribution of new technologies to production and logistics
+* Applications of production research to services
+The IJPR seeks original research articles, discussion or technical notes, and review articles presenting the state of the art. IJPR papers should feature following elements: 
+* an exhaustive analysis of related Production Research publications;
+* a novel decision aid model for design or management of production systems and logistics, the model should be explained for a large audience in production research;
+* comparisons with the state of the art;
+* discussion on real life applications of the proposed approach in production systems and logistics;
+* managerial insights for decision makers in industry;
+* research perspectives.
+
+
+LENGTH:
+300 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the existent literature review papers.
+- Be sure of use all existent literature review papers.
+
+
+CITATION:
+Use the UT field provided in the files as reference numbers in the text. Do not use surname (year) citation style. Use the UT field value between brackets to indicate the reference to the record. For example, [UT: 1] means that the information is in the "UT 1". Use notes below of the generated text to justify the affirmation. Use only phrases appearing in the provided text.
+
+
+
+

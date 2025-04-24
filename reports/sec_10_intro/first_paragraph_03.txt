@@ -1,0 +1,17 @@
+---
+
+UT 328
+AR Um W.S., 2015, PROC WORLD CONG MECHAN CHEM  MAT ENG, AUTOMATED NEGOTIATION
+   SYSTEM
+TI Automated Negotiation System in the SCM with Trade-Off Algorithm
+AU Um W.S.
+TC 0
+SO Proceedings of the World Congress on Mechanical, Chemical, and Material
+   Engineering
+PY 2015
+AB MULTI_AGENT_TECHNOLOGY becomes THE_BEST_CANDIDATE for PROBLEM_SOLVER under
+   THESE_CIRCUMSTANCES
+DE MULTI_AGENT; NEGOTIATION; SUPPLY_CHAIN_MANAGEMENT; TRADE_OFF_MECHANISM
+
+
+---

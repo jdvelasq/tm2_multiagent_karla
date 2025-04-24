@@ -1,0 +1,101 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Página-1" id="5Pz19sIkCKMJ9ITZUsmq">
+    <mxGraphModel dx="949" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UmnoWcpD8A76yulOaXq0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-2" target="UmnoWcpD8A76yulOaXq0-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-2" value="Step 1. Create a thesaurus with an entry for each different descriptor in the database.&lt;br&gt;(Author keywords=&lt;b&gt;1190&lt;/b&gt;, Index keywords=&lt;b&gt;2413&lt;/b&gt;, Noun phrases=&lt;b&gt;12645&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="200" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-3" target="UmnoWcpD8A76yulOaXq0-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-3" value="Step 2. Search and replace abbreviations in the keys of the thesaurus." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="280" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-4" target="UmnoWcpD8A76yulOaXq0-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-4" value="Step 3. Apply the thesaurus to the descriptors in the database." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="360" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-23" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-5" target="UmnoWcpD8A76yulOaXq0-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-5" value="Step 4. Build the co-occurrence network and obtain the communities using the Louvain algorithm." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="440" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;exitX=0.277;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="UmnoWcpD8A76yulOaXq0-6" target="UmnoWcpD8A76yulOaXq0-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-6" value="Step 5. Review the clusters and the terms in each clusters." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="520" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-8" value="Are the clusters&lt;br&gt;&amp;nbsp;consistent?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="215" y="621" width="150" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-9" value="Are the&amp;nbsp;keywords&lt;br&gt;in each cluster &lt;br&gt;consistent?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="469" y="620" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;endArrow=blockThin;endFill=1;strokeWidth=2;" parent="1" source="UmnoWcpD8A76yulOaXq0-8" target="UmnoWcpD8A76yulOaXq0-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-11" value="Yes&amp;nbsp;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=none;" parent="UmnoWcpD8A76yulOaXq0-10" vertex="1" connectable="0">
+          <mxGeometry x="0.1208" y="1" relative="1" as="geometry">
+            <mxPoint x="-2" y="-11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-12" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="685" y="667" width="56" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-9" target="UmnoWcpD8A76yulOaXq0-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-17" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=none;" parent="UmnoWcpD8A76yulOaXq0-13" vertex="1" connectable="0">
+          <mxGeometry x="-0.0856" y="-1" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-25" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-14" target="UmnoWcpD8A76yulOaXq0-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="86" y="844.0000000000002" />
+              <mxPoint x="86" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-14" value="Step 6. Review the thesaurus." style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="135" y="819" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.276;entryY=-0.045;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;strokeWidth=2;endArrow=openThin;endFill=0;" parent="1" source="UmnoWcpD8A76yulOaXq0-8" target="UmnoWcpD8A76yulOaXq0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;labelBackgroundColor=none;" parent="UmnoWcpD8A76yulOaXq0-15" vertex="1" connectable="0">
+          <mxGeometry x="-0.2281" relative="1" as="geometry">
+            <mxPoint x="-16" y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.732;entryY=0.01;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;endArrow=blockThin;endFill=1;strokeColor=#000000;" parent="1" source="UmnoWcpD8A76yulOaXq0-9" target="UmnoWcpD8A76yulOaXq0-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-19" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;fontColor=#000000;" parent="UmnoWcpD8A76yulOaXq0-18" vertex="1" connectable="0">
+          <mxGeometry x="-0.0273" relative="1" as="geometry">
+            <mxPoint x="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-27" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-26" target="UmnoWcpD8A76yulOaXq0-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmnoWcpD8A76yulOaXq0-26" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="42" y="195" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qUuEupuPtlznBeRZlpQa-1" value="Author keywords=&lt;b&gt;1070&lt;/b&gt;&lt;br&gt;Index keywords=&lt;b&gt;2181&lt;/b&gt;&lt;br&gt;Noun phrases=&lt;b&gt;8538&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="634.5" y="725" width="157" height="55" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,6 +1,6 @@
 # %%
 import pandas as pd  # type: ignore
-from techminer2.packages.networks.co_occurrence.keywords import (  # type: ignore
+from techminer2.packages.networks.co_occurrence.descriptors import (  # type: ignore
     TermsByClusterDataFrame,
 )
 from techminer2.thesaurus.descriptors import *  # type: ignore
@@ -47,7 +47,7 @@ df = (
     # FIELD:
     .having_terms_in_top(None)
     .having_terms_ordered_by("OCC")
-    .having_term_occurrences_between(5, None)
+    .having_term_occurrences_between(7, None)
     .having_term_citations_between(None, None)
     .having_terms_in(None)
     #
@@ -58,9 +58,21 @@ df = (
     # DATABASE:
     .where_root_directory_is("../")
     .where_database_is("main")
-    .where_record_years_range_is(None, None)
+    .where_record_years_range_is(2015, 2024)
     .where_record_citations_range_is(None, None)
-    .where_records_match(None)
+    .where_records_match(
+        {
+            "document_type": [
+                'Article',
+                'Book',
+                'Book chapter',
+                'Conference paper',
+                'Conference review',
+                'Editorial',
+                'Review',
+            ]
+        }
+    )
     #
     .run()
 )
