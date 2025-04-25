@@ -1,0 +1,51 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+A number of promising research directions emerge from this cluster. First, further exploration is needed into hybrid intelligence architectures that combine symbolic, neural, and heuristic reasoning in agent-based systems to improve interpretability and scalability under disruption [UT 386, UT 427]. There is also strong potential in extending evolutionary game-based frameworks to include stochastic resilience modeling, with special attention to incentive designs that can align the behavior of manufacturers, suppliers, and regulators under uncertainty [UT 412]. The development of agent autonomy levels, such as the MIISI model, could be expanded to map a trajectory toward full supply chain autonomy and provide actionable guidance for phased implementation [UT 427]. Additionally, there is a growing need to quantify the economic and social effects of MAS-enabled resilience strategies, particularly in relation to carbon policies, local community welfare, and supply continuity under geopolitical stress [UT 371, UT 426]. Integrating blockchain with MAS to create verifiable, tamper-proof coordination among agents in volatile environments also warrants deeper investigation. Finally, simulation environments must evolve into robust digital twins capable of dynamically replicating disruption scenarios and supporting predictive analytics for real-time risk assessment and recovery planning [UT 426, UT 404]. These research directions are vital for bridging the gap between conceptual resilience and operational execution in intelligent supply chain systems.
+
+--
+
+The convergence of MAS, intelligent systems, and AI offers fertile ground for advancing resilience and agility in disrupted supply chain environments. Future research should prioritize the development of transparent and interpretable AI agents using foundation models and natural language interfaces, enabling more explainable and adaptive supply chain orchestration [UT 434]. The integration of blockchain technologies with MAS opens promising avenues for strengthening traceability, security, and autonomous contract execution in distributed supply networks [UT 394]. Furthermore, extending ontological reasoning frameworks can improve multi-domain interoperability, allowing intelligent agents to perform nuanced planning and coordination under diverse operating conditions [UT 400]. There is also a need to deepen the integration of economic and social impact assessments within intelligent decision systems to ensure that operational improvements align with broader societal objectives, as shown in hydrogen economy models and healthcare applications [UT 417, UT 393]. Hybrid reinforcement learning architectures could be optimized for real-time and semi-real-time applications, making them more applicable to volatile, high-stakes environments such as hospital and energy supply chains. Agent heterogeneity in risk perception and attitude remains underexplored; future work can focus on modeling these variations more granularly to enhance cooperative decision strategies under uncertainty [UT 389]. Lastly, adaptive MAS architectures should be benchmarked across multiple disruption scenarios to derive design principles for resilient and scalable intelligent supply chain systems.
+
+--
+
+Future research should target the refinement and deployment of agent-based models that capture not only operational but also socio-economic dimensions of supply chain disruption. There is substantial opportunity in developing intelligent digital twins that leverage multi-agent characteristics to orchestrate marketplace-oriented production and automate recovery planning in disrupted scenarios [UT 343]. Further investigation is warranted into hybrid modeling approaches that integrate linguistic neural networks for more effective agent communication, particularly in international and multilingual supply chains [UT 344]. Robustness and resilience could also be enhanced through distributed multi-agent conceptual design frameworks tailored for small- and mid-sized enterprises, enabling agile responses to component shortages and labor crises [UT 355]. In parallel, simulation-based interventions in underserved regions may reveal new insights about how informal retail channels contribute to resilience and how policy can be informed to support these networks [UT 435]. Multi-agent reinforcement learning applied to inventory systems presents a promising research frontier, especially in uncovering how diverse agent objectives and information-sharing protocols affect supply chain coordination and the mitigation of bullwhip effects [UT 443]. From a methodological standpoint, new control protocols for fixed-time consensus in stochastic multi-agent systems offer potential for developing time-sensitive response models that adapt to random disruptions and evolving market conditions [UT 327]. Overall, the field would benefit from frameworks that explicitly integrate resilience, vulnerability, and stakeholder diversity into both algorithm design and implementation strategy.
+
+--
+
+There is substantial opportunity for future research to refine *intelligent multi-agent architectures* that can dynamically adapt to *real-time disruptions* and *stochastic supply chain environments*. The integration of *digital twins* with autonomous agents, as proposed for *perishable food supply chains*, offers a promising avenue for simulating and predicting supply network behavior under varying disruption scenarios [UT 376]. Additionally, *fault-tolerant control* and *finite-time consensus strategies* must be extended to heterogeneous and decentralized networks with diverse agents operating under uncertain communication topologies [UT 288, UT 306]. There is a need to design *resilient systems* that incorporate *feedback-driven neural agents* capable of processing both historical and contextual data streams in dynamically evolving contexts [UT 338]. Further development of hybrid models that combine *neutrosophic decision-making*, *real-time data analytics*, and *multi-agent systems* could enhance supply chain agility and reduce risk costs significantly [UT 346]. Research should also explore *hyperconnected autonomous ecosystems*, especially in the context of *critical product distribution*, leveraging physical internet paradigms and modular, sensor-enabled containers [UT 378]. The role of *economic and social effects*—particularly in dual-channel models with time-sensitive demand—merits deeper exploration, including how *lead-time sensitivity* and *channel preferences* can be modeled in agent-based pricing strategies [UT 419]. These directions support the development of predictive, robust, and socially aware supply networks.
+
+--
+
+Future research should focus on enhancing agent learning and coordination capabilities in the face of stochastic disruptions. One opportunity lies in the combination of multi-agent reinforcement learning with distributed anomaly detection frameworks, enabling adaptive and secure responses to cyber-physical threats in IoT-driven logistics systems [UT 211, UT 309]. Another promising direction involves the development of simulation-based methods that compare centralized and decentralized logistics control, offering guidelines on when and where decentralized models are most effective [UT 313]. Researchers should explore hybrid models that integrate formal organizational theories like category theory with practical agent communication protocols to create more robust and verifiable multi-agent systems [UT 266]. Advancing graph-based neural architectures may enhance inter-agent communication and pattern recognition, which is particularly valuable in managing complex interdependencies in supply chain networks [UT 307]. Furthermore, the integration of blockchain with intelligent agents presents an untapped potential for self-organizing, tamper-resistant networks that ensure trust and transparency even under stress conditions [UT 324]. Lastly, studies could address how intelligent agent systems might optimize not only operational performance but also mitigate broader economic and social effects of supply chain vulnerabilities [UT 321].

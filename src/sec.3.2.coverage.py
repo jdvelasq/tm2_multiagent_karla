@@ -5,7 +5,7 @@ from techminer2.database.tools import Coverage # type: ignore
 df = (
     Coverage()
     #
-    .with_field("keywords")
+    .with_field("descriptors")
     #
     .where_root_directory_is("../")
     .where_database_is("main")

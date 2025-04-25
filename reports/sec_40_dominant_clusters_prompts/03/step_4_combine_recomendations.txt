@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+Managers aiming to build resilient and intelligent supply chain systems should adopt a modular approach, integrating MAS gradually within critical nodes such as transshipment hubs, production scheduling, and supplier selection [UT 349, UT 366]. Pilot implementations of fictitious agents or autonomy frameworks (e.g., MIISI) should be coupled with simulation validation to assess agent performance under variable demand and disruption scenarios [UT 427, UT 404]. Blockchain and smart contracts can be introduced to enhance transparency and resilience in coordination processes, particularly in prefabricated or multi-stage assembly environments where decision visibility is paramount [UT 426]. Organizations should invest in collaborative platforms that support partial information sharing, allowing decentralized coordination without full disclosure of proprietary data [UT 349, UT 386]. Interoperability protocols and knowledge-sharing ontologies must be prioritized to reduce transaction frictions across heterogeneous agent systems and digitization levels [UT 412]. Furthermore, dynamic incentive schemes, as shown in evolutionary game models, should be tailored to align agent behavior across diverse economic and environmental contexts [UT 412]. Finally, investment in real-time monitoring and feedback-enabled simulations is critical for risk-aware planning, allowing enterprises to move from reactive to anticipatory disruption response models. These strategies collectively support the design and execution of resilient supply chain ecosystems built on intelligent, adaptive, and collaborative foundations.
+
+--
+
+Managers should prioritize adopting intelligent multi-agent systems to address supply chain disruptions and improve operational resilience. In contexts characterized by stochastic demand and distributed decision-making, such as hospital supply chains, reinforcement learning-based inventory control systems can reduce costs while ensuring service reliability [UT 393]. Practitioners should also consider blockchain-integrated agent frameworks to enhance traceability and trust across distributed stakeholders, particularly in supply networks with frequent contractual transactions [UT 394]. To prepare for ongoing disruption, managers must build resilient supply networks with decentralized architectures such as the physical internet, which enable dynamic resource sharing while minimizing opportunity loss [UT 396]. Investment in interpretable AI, including decision support systems with natural language interfaces, is vital to enhance transparency and foster stakeholder buy-in during autonomous decision-making [UT 434]. For high-value or sensitive sectors like energy and public health, leaders should implement AI models capable of optimizing under uncertainty, such as those employing semi-Markov decision processes and hierarchical learning agents [UT 417, UT 393]. Cross-functional collaboration is essential; managers should integrate ontological knowledge systems to synchronize logistics, planning, and risk management across departments and with external partners [UT 400]. Finally, companies should foster innovation cultures that accept computational experimentation and data-driven risk strategies, enabling the effective deployment of intelligent systems that can adapt to future supply chain disruptions with agility and confidence [UT 389, UT 382].
+
+--
+
+Managers should consider integrating intelligent multi-agent platforms to proactively assess and mitigate supply chain vulnerabilities. Investments in knowledge-based risk identification systems that model delivery delays and emergency transmission scenarios can enable a more comprehensive approach to resilience planning [UT 416]. Practitioners involved in manufacturing should explore collaborative scheduling platforms that adopt heuristic and exact methods to dynamically allocate shared resources, particularly when facing disruptions caused by political instability or workforce shortages [UT 425]. In logistics, simulation tools that model consumer behavior and retail channel preferences can help identify strategic investments in resilient retail infrastructure, such as supporting nanostores in peripheral markets [UT 435]. Enterprises navigating global supply chains should evaluate the feasibility of digital twins enhanced by multi-agent capabilities to automate monitoring, prediction, and recovery processes in volatile operational environments [UT 343]. In dynamic and multi-tiered supply networks, the use of reinforcement learning agents with decentralized decision targets can reduce systemic inefficiencies and increase adaptability to unpredictable demand fluctuations [UT 443]. Additionally, integrating neural-based translation modules across multi-agent networks may improve inter-organizational communication and streamline cross-border operations [UT 344]. Managers must also acknowledge barriers such as technological immaturity and standardization gaps, making it critical to pilot implementations in controlled environments before scaling [UT 331]. By embracing intelligent, distributed systems and investing in digital collaboration tools, organizations can enhance their capacity to absorb shocks, maintain service continuity, and thrive in increasingly complex global ecosystems.
+
+--
+
+Managers should prioritize investment in *decentralized, autonomous agent systems* capable of responding to disruptions without centralized oversight. These systems can significantly reduce *inventory waste*, as shown in the Japanese vaccine case where decentralized agents cut discards by 70% [UT 334]. Embracing *digital twin frameworks* and *data-driven simulation environments* is crucial for testing responses to emergent risks in supply chain settings [UT 376]. Practitioners should consider deploying *neural network-based agents*—like Jordan-Elman or Chebyshev models—to enable systems that adapt based on sequences of environmental feedback and internal states [UT 338, UT 306]. In high-risk sectors, *real-time consensus mechanisms* with built-in *fault tolerance* should be incorporated to maintain operations during failures or disturbances [UT 288]. For critical product distribution, firms should adopt *modular infrastructure* with smart containers, vision sensors, and autonomous delivery to enable touchless, resilient supply systems [UT 378]. When managing multi-channel supply networks, understanding the *economic behavior of customers*—especially their sensitivity to lead times—can support dynamic pricing and routing decisions in agent-supported systems [UT 419]. Lastly, hybrid intelligence approaches combining *neutrosophic decision-making* and *MAS platforms* can be implemented for risk assessment and scenario analysis, improving organizational preparedness and response time [UT 346]. By aligning digital innovation with operational resilience, managers can transform supply chains into intelligent networks capable of thriving amid uncertainty.
+
+--
+
+Managers should prioritize investing in modular and flexible agent-based systems that allow for dynamic supply chain reconfiguration and contingency planning. In highly customized or risk-prone sectors, multi-agent systems using deep reinforcement learning can provide optimal recovery strategies and resilience modeling during floods or other natural disasters [UT 309]. For complex networks with diverse product-market profiles, agent-based reverse auction models and genetic optimization can help align local decisions with global performance objectives [UT 186]. Practitioners exploring digital transformation should assess the feasibility of decentralized logistics control using simulation-based scenario testing, ensuring that agent autonomy aligns with organizational goals and constraints [UT 313]. In cybersecurity-sensitive environments, incorporating graph neural networks in distributed anomaly detection systems can help localize threats and reduce system-wide disruptions [UT 211]. Blockchain-enabled smart contracts offer a practical means for securing interactions between distributed agents, improving coordination and accountability in multi-stakeholder supply chains [UT 324]. Finally, companies operating in volatile environments should adopt formal multi-agent organizational frameworks to validate agent roles and behaviors under varying operational conditions, thus improving system governance and resilience [UT 266].
+

@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+The intersection of MAS, sustainability, and intelligent decision support creates fertile ground for new research trajectories. One promising direction is the refinement of multi-agent decision-making models using hybrid strategies that combine reinforcement learning with rule-based reasoning or case-based learning, allowing systems to adapt both from real-time feedback and historical knowledge [UT 386]. Additionally, the development of scalable MAS architectures capable of operating within decentralized, real-time information systems remains a pressing need, especially to overcome the limitations of existing centralized models in managing the bullwhip effect [UT 408]. There is also significant potential in further exploring the role of incentive structures and policy frameworks in promoting sustainable digital collaboration, especially through stochastic evolutionary models that include governmental and private actors [UT 412]. Blockchain-based simulations and agent-based modeling offer powerful tools to enhance information transparency and resilience in supplier networks, providing insights into new sustainability metrics under VUCA conditions [UT 426]. Future research should also focus on operationalizing MAS frameworks for production planning in reconfigurable industrial environments, ensuring their adaptability and robustness under variable demand and supply shocks [UT 362]. Lastly, investigating the convergence of MAS with large language models and foundation AI technologies may help overcome the interpretability limitations of black-box systems, enabling human-in-the-loop configurations for more trustworthy real-time decision support [UT 404].
+
+--
+
+The growing integration of MAS with sustainability goals and digital decision-making opens multiple avenues for future inquiry. One promising direction involves the refinement of hybrid MAS architectures that balance symbolic reasoning with reinforcement learning and real-time data assimilation, allowing for interpretability without sacrificing performance [UT 417]. Further exploration is needed into how cyber-physical systems can be modularly reconfigured to manage dynamic supply conditions while reducing emissions and operational costs [UT 407, UT 395]. Opportunities also lie in formalizing MAS autonomy levels, such as those outlined in the MIISI model, and translating them into industry standards for broader applicability [UT 427]. Cross-disciplinary work between information science, behavioral economics, and policy design could enhance the effectiveness of incentive-based coordination mechanisms within MAS, especially in carbon markets or digitalization strategies [UT 421, UT 379]. Agent-based simulations must evolve into operational platforms that interface with real-time enterprise systems to support proactive disruption response and lifecycle assessment [UT 389, UT 433]. Lastly, there is a call to advance the application of foundation models in MAS to enable scalable, explainable agents capable of multi-domain reasoning, particularly for environments characterized by high uncertainty and decision complexity [UT 434].
+
+--
+
+The evolving landscape of intelligent supply chains opens several high-impact research directions. There is a clear opportunity to develop formalized frameworks for integrating cyber-physical systems with multi-agent architectures, especially through dynamic simulation and digital twin modeling [UT 380, UT 399]. Future studies should explore how reinforcement learning and proactive agent behavior can be modularized and made interpretable, addressing the challenge of explainability while maintaining decision agility [UT 402, UT 417]. Multi-agent consensus protocols and swarming techniques offer promise for managing inventory fluctuations and mitigating the bullwhip effect under periodic review models, and their applicability should be extended to broader real-time demand scenarios [UT 388]. Additionally, research into AI-based DSS must focus on sustainability metrics and carbon-aware decision models that can support long-term planning and policy alignment, especially in energy-sensitive domains such as hydrogen and modular production [UT 417, UT 430]. The integration of metaheuristics such as genetic algorithms into MAS-based supplier selection systems represents another underexplored avenue with significant potential for improving speed and accuracy in decentralized procurement [UT 397]. Finally, the convergence of cognitive agent systems, such as those incorporating case-based reasoning and time-negotiation mechanisms, can further enrich human-agent collaboration in complex decision environments [UT 401]. These directions underscore the importance of blending adaptive intelligence with systems-level optimization in next-generation supply chains.
+
+
+--
+
+Emerging research should prioritize the co-design of MAS architectures that integrate decision transparency, sustainability metrics, and coordination efficiency. The convergence of MAS with real-time optimization and cyber-physical control systems—especially in production and transportation logistics—offers a promising area for cross-domain innovation [UT 415, UT 431]. Formal frameworks for trust and reputation management in multi-agent environments, such as IoT_CADM, are needed to secure collaboration in smart supply chains and should be extended to support quality-of-service guarantees and real-time verification [UT 437]. The interplay between agent goals, market dynamics, and policy incentives warrants deeper exploration using game-theoretical and system-dynamics models, particularly in carbon-sensitive or politically volatile sectors [UT 436, UT 428]. Research should also expand on collaborative scheduling techniques and multi-agent consensus mechanisms for dynamic environments, where agents must resolve trade-offs between autonomy and collective efficiency [UT 425, UT 435]. Finally, greater attention is needed on MAS applications in social and inclusive supply chains, particularly for supporting underserved markets or sustainability-focused procurement models. Here, reinforcement learning and adaptive DSS can be tailored to local constraints, enabling more equitable and resilient supply networks [UT 424, UT 435].
+
+--
+
+Emerging trajectories in this thematic cluster emphasize explainable, collaborative, and resilient multi-agent ecosystems. Future research should prioritize the design of human-in-the-loop MAS architectures that combine statistical rigor with semantic clarity, particularly in high-stakes inventory and procurement decisions [UT 442, UT 428]. Cyber-physical integration—especially through intelligent digital twins—offers a unique pathway to embed MAS into operational systems while enabling continuous feedback and resilience testing [UT 343, UT 446]. The application of trust and reputation models in multi-agent IoT environments (e.g., smart factories or decentralized supplier networks) also calls for formalization through decentralized identity frameworks and blockchain-based consensus mechanisms [UT 437, UT 453]. At the sustainability frontier, work is needed to evaluate MAS across full supply chain life cycles, quantifying emissions, waste, and resource utilization under variable demand and disruption scenarios [UT 440, UT 441]. Research on fairness-aware coordination in reverse logistics and recycling contexts opens space for multi-agent contracts that integrate behavioral economics and social equity goals [UT 353]. Meanwhile, foundational work in metaheuristics and hybrid learning systems (e.g., combining deep learning with genetic algorithms or multi-stage optimization) can further accelerate MAS adaptability in volatile logistics environments [UT 440, UT 443]. These directions collectively reflect the growing demand for interpretable, context-sensitive, and ethically aligned MAS design across diverse supply chain contexts.

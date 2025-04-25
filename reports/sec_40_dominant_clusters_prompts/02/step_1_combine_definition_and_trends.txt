@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+This thematic cluster reflects the convergence of artificial intelligence (AI), the Internet of Things (IoT), blockchain, and robotics into multi-agent systems (MAS) that underpin the digital transformation of supply chains. AI enables adaptive decision-making and predictive control, while IoT supports real-time data collection and seamless connectivity among agents in logistics and production systems [UT 386]. Smart contracts and blockchain technologies add trust, immutability, and decentralized validation to stakeholder interactions, facilitating scalable and privacy-preserving collaborations in distributed ecosystems [UT 453]. City logistics and last-mile delivery are increasingly being optimized through multi-agent simulations and AI-driven coordination frameworks, as seen in Physical Internet hub networks and drone-based delivery systems [UT 377, UT 373]. E-commerce platforms leverage these technologies to manage demand fluctuations and personalize service delivery, often through reinforcement learning or deep learning systems that enable intelligent forecasting and scheduling [UT 383, UT 393]. Robotics plays a crucial role in intralogistics and warehouse environments, where collaborative object transportation and decentralized control reduce bottlenecks and improve efficiency [UT 374]. These trends indicate a strategic shift from static, hierarchical supply chains to dynamic, learning-enabled, and cyber-physical ecosystems, where decision autonomy and stakeholder interaction are key to responsiveness and sustainability.
+
+--
+
+The current cluster presents a converging field where artificial intelligence (AI), Internet of Things (IoT), and smart logistics technologies are transforming supply chain operations through decentralized, data-driven, and multi-agent approaches. This convergence manifests in various domains, such as hydrogen supply chains optimized via hierarchical deep multi-agent reinforcement learning models [UT 417], and dynamic inventory-routing problems addressed through ontological agent-based frameworks [UT 400]. Notably, AI and IoT enable the creation of digital twins, warehouse sharing platforms, and autonomous delivery systems in hyperconnected urban logistics [UT 414]. The physical internet emerges as a structural backbone promoting asset-sharing and decentralization across supply chains [UT 396]. The sector shows increasing reliance on multi-agent systems (MAS) and reinforcement learning algorithms to simulate stakeholder behavior, manage logistics processes, and dynamically respond to demand fluctuations [UT 388, UT 372, UT 424]. Additionally, the inclusion of intelligent transport systems and smart contracts—though not explicitly addressed—underpins the automation trends observable in smart city logistics and e-commerce [UT 414, UT 391]. Robotics and autonomous systems also surface as critical enablers in achieving contactless delivery and efficient resource allocation in last-mile operations and industrial logistics [UT 414, UT 417]. Overall, the cluster reflects a paradigm shift toward intelligent, decentralized, and collaborative logistics networks driven by learning algorithms and agent-based systems.
+
+--
+
+This thematic cluster explores how artificial intelligence, learning machines, and robotics are integrated into multi-agent systems to transform supply chains in the digital era. Multi-agent systems are now central to digital transformation efforts that redefine supply chain coordination, planning, and optimization, especially in inventory control and last-mile logistics. Reinforcement learning techniques, including multi-agent deep reinforcement learning and hierarchical deep reinforcement learning, are consistently deployed to improve decision-making under uncertainty and complexity [UT 405, UT 443]. The trend of integrating learning machines into city logistics is highlighted by the development of reinforcement learning algorithms tailored for food delivery, drone routing, and vehicle routing problems, optimizing both route efficiency and energy consumption [UT 420, UT 429, UT 431]. These learning systems often interact within decentralized environments, where consensus control, dynamic parameters, and collaborative coordination improve planning and scheduling across firms and stakeholders [UT 402, UT 423]. Additionally, inventory optimization is increasingly supported by large language models that allow agents to self-correct in real time, demonstrating a shift toward synergistic, autonomous systems with self-management capabilities [UT 442]. The incorporation of blockchain concepts like privacy-preserving mechanisms and information security in learning-based inventory systems aligns with stakeholder requirements for trust, transparency, and operational efficiency [UT 438]. This body of work signals a broad convergence of artificial intelligence, digital commerce, and collaborative automation in next-generation supply chains.
+
+--
+
+The current cluster highlights the convergence of *artificial intelligence*, *Internet of Things*, and *multi-agent reinforcement learning* (MARL) as foundational elements driving innovation in supply chain systems. This thematic domain is characterized by the application of *multi-agent systems* (MAS) to support decentralized, adaptive decision-making across logistics environments, from *inventory management* to *vehicle routing* and *order fulfillment*. MARL approaches are increasingly adopted to address complex dynamic problems like the *multi-depot vehicle routing problem*, where real-time, high-quality solutions are generated using *graph attention* and *deep reinforcement learning* models [UT 329, UT 350]. In high-stakes domains such as *civil aircraft manufacturing*, MARL is used to enhance *information utilization efficiency* and coordination across multiple participants [UT 351]. The integration of *learning machines* into *smart logistics infrastructures*, such as *urban aerial mobility* with unmanned aerial systems [UT 318], and *simulated cooperative games* for mitigating the bullwhip effect [UT 340], underscores the proliferation of AI in logistics control environments. Furthermore, the rise of *electronic commerce* and *global order fulfillment* challenges has led to the development of scalable MARL environments like OFCOURSE, which enable *joint-policy optimization* across fulfillment stages [UT 390]. Together, these studies reflect a dominant trend toward intelligent, autonomous, and self-coordinating supply chains that align with emerging paradigms like *blockchain*, *city logistics*, and the *physical Internet*.
+
+--
+
+The current landscape of multi-agent systems in supply chains reflects a convergence of artificial intelligence, Internet of Things (IoT), and decentralized architectures aimed at operational efficiency, adaptability, and autonomous decision-making. A recurring theme is the deployment of deep reinforcement learning (DRL) and multi-agent reinforcement learning (MARL) to address inventory control, delivery routing, and intelligent resource allocation in constrained environments such as Industrial IoT systems and dual-channel supply chains [UT 299, UT 348, UT 287, UT 370]. The emphasis on smart logistics is further manifested through the use of distributed software agents and cyber-physical systems, with increasing integration of physical internet (PI) principles and modular containerization for seamless distribution [UT 378]. As city logistics evolve, hyperconnectivity and digital twins are becoming enablers of real-time visibility and strategic coordination [UT 332]. Additionally, the incorporation of blockchain-based contracts and cluster-graph negotiation models introduces trust and efficiency into autonomous supply chain formation [UT 339]. These systems aim to simultaneously maximize utility, reduce latency, and ensure robustness under disruption, aligning with the increasing complexity of e-commerce, robotics-enabled distribution, and stakeholder diversity.
+

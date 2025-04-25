@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+This thematic cluster centers on how multi-agent systems (MAS), artificial intelligence, and intelligent decision-making frameworks are shaping supply chain resilience amid growing disruption risks. Resilience, defined as the supply chain's ability to return to a stable or improved state post-disruption, is increasingly supported by intelligent systems that provide autonomy, real-time adaptability, and collaborative decision-making [UT 349, UT 404]. MAS architectures, often integrated with reinforcement learning or case-based reasoning, now manage disruptions in decentralized environments and enable agile, distributed responses based on agent capabilities and network attributes [UT 371, UT 386]. Stochastic systems and evolutionary game theory provide robust models to analyze dynamic environments and incentive effects in digital collaborations across manufacturing ecosystems [UT 412]. The rise of autonomous supply chains, facilitated by artificial neural networks and intelligent platforms, reflects a systemic transformation toward proactive, self-adaptive networks that manage uncertainty, operational volatility, and economic trade-offs with minimal human intervention [UT 427]. Moreover, blockchain-enhanced MAS demonstrate potential in improving transparency and stage-specific resilience, especially under volatile and ambiguous conditions [UT 426]. Overall, the trend reveals a decisive shift toward resilient-by-design supply chains built on distributed intelligence, agent autonomy, and data-driven situational awareness.
+
+--
+
+This thematic cluster explores the increasing complexity of supply chain networks in the face of disruptions, highlighting the rise of intelligent systems and risk-aware decision-making. Multi-agent systems (MAS) are positioned as a core enabler for decentralized and distributed control, addressing challenges in stochastic and volatile environments such as healthcare, manufacturing, and hydrogen supply chains [UT 389, UT 393, UT 417]. These systems incorporate reinforcement learning and stochastic models, such as semi-Markov decision processes, to handle dynamic demands and uncertainty, exemplified in smart inventory management for hospital supply chains [UT 393]. Resilience has become a central focus, driven by recent global disruptions and the need for adaptable, flexible systems [UT 434]. This is reflected in the integration of foundation models and large language models to support generalist agents capable of self-orchestration [UT 434]. AI-based frameworks are also being used to design and optimize digital supply chain architectures, enabling better planning under transient demand fluctuations and complex topological constraints [UT 400]. Distributed agent-centric frameworks are further enhanced by blockchain and smart contracts, reinforcing trust and traceability in supply chain networks [UT 394]. Overall, the cluster demonstrates a shift toward adaptive, autonomous, and intelligent systems that promote agility, robustness, and operational transparency, effectively addressing both economic and social effects across multiple supply chain layers [UT 382].
+
+--
+
+This thematic cluster focuses on the role of intelligent systems, artificial neural networks, and stochastic modeling in managing disruptions and enhancing the resilience of supply chain networks. Multi-agent systems are widely employed to model supply chain dynamics, especially in response to increasing vulnerability due to geopolitical, environmental, and operational challenges [UT 343, UT 368]. A strong emphasis is placed on developing intelligent digital twins and goal-seeking agents that actively engage in resilient decision-making processes within interconnected networks [UT 343]. Simulation frameworks using multi-agent paradigms are applied to various contexts, from collaborative manufacturing systems to retail operations in underserved regions, highlighting the social and economic dimensions of supply chain disruptions [UT 425, UT 435]. Risk identification, control, and reliability analysis are foundational themes in the design of intelligent risk assessment platforms using multi-agent systems [UT 416]. Furthermore, the application of artificial intelligence techniques, particularly recurrent and multilayer neural networks, supports translation between agents and enhances natural language interaction within digital ecosystems [UT 344]. These developments indicate a convergence of neural modeling, intelligent automation, and collaborative architecture to proactively manage risk and uncertainty, enabling stakeholders to not only predict and respond to supply chain disruptions but also maintain operational continuity and market presence in volatile environments.
+
+--
+
+The thematic cluster defined by *resilience*, *supply chain networks*, *intelligent systems*, and *disruptions* reveals a profound shift toward distributed, data-driven strategies to manage uncertainty and systemic shocks. The growing vulnerability of global supply chains due to events like the pandemic and geopolitical disruptions has catalyzed the development of *autonomous supply chains* supported by *multi-agent systems* [UT 376]. These systems enable real-time sensing, coordination, and reaction to dynamic disturbances. Applications range from *inventory control in vaccine supply chains* [UT 334] to *resilient distribution of critical products* through *hyperconnected networks* and autonomous agents [UT 378]. Integration of *artificial neural networks*, such as the *Jordan-Elman architecture*, enhances decision-making by enabling agents to react based on perception sequences and internal states [UT 338]. Advanced *consensus tracking* methods ensure robust coordination despite actuator faults and unknown disturbances [UT 288, UT 306]. Multi-agent models have also been deployed to dynamically address the *stochastic nature of customer demand*, enhancing last-mile logistics with predictive routing [UT 290]. Meanwhile, frameworks like *NeutroMAS4SCRM* propose hybrid approaches combining *neutrosophic logic* with real-time MAS for risk mitigation in uncertain conditions [UT 346]. Overall, the trend reflects a convergence of *intelligent, resilient, and autonomous systems* that are essential for managing modern supply networks exposed to increasing complexity and risk.
+
+--
+
+This cluster is defined by the convergence of multi-agent systems, intelligent models, and stochastic methods to enhance the resilience and adaptability of supply chain networks under disruption. A prominent trend is the use of multi-agent frameworks to model dynamic and decentralized supply networks where entities operate autonomously while adapting to complex market demands and disruptions [UT 186, UT 321]. These agents often integrate soft computing methods, including genetic algorithms and reinforcement learning, to handle uncertainties and optimize responses in distributed environments [UT 287, UT 309, UT 308]. Another critical development is the incorporation of intelligent systems, such as artificial neural networks and graph neural networks, for tasks ranging from linguistic pattern recognition in agent communication [UT 307] to distributed anomaly detection in IoT-enabled supply chains [UT 211]. The concept of resilience extends to both physical and virtual alliances, wherein supply networks reconfigure through partnerships and shared transportation platforms to maintain environmental sustainability and competitive advantage [UT 285]. Blockchain-enabled agent systems are also gaining traction for improving transparency, traceability, and coordination among stakeholders, contributing to more trustworthy and robust supply chain operations [UT 324].
+

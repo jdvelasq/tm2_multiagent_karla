@@ -1,0 +1,53 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+Managers and practitioners seeking to implement intelligent supply chain solutions should focus on gradually integrating MAS into existing information systems to support decentralized decision making, particularly in contexts requiring high responsiveness and resilience. Early applications can focus on areas like supplier selection and inventory control, where decision support systems built on big data analytics and agent-based coordination have shown tangible benefits in terms of process efficiency and sustainability [UT 366, UT 408]. Attention should be paid to information interoperability and data governance to ensure that MAS deployments maintain security and privacy while enabling real-time collaboration [UT 386, UT 426]. Managers should also consider simulations or microsimulation-based testing environments before operational rollout, particularly in last-mile or urban logistics where environmental variability is high [UT 377]. Furthermore, investing in cyber-physical systems and industrial internet platforms can significantly reduce transaction costs and enhance upstream-downstream coordination [UT 412]. As digital transformation accelerates, companies should incorporate evolutionary incentive strategies, supported by MAS, to align decision making across multiple stakeholders. Finally, organizations should advocate for cross-industry standards and collaborative frameworks to mature MAS architectures for real-world industrial use, ensuring that they are not just theoretically robust but also pragmatically viable in achieving supply chain agility, transparency, and sustainability [UT 362, UT 404].
+
+
+--
+
+Managers looking to adopt MAS for supply chain innovation should first prioritize decision support systems that are modular and adaptable to evolving sustainability and information demands. Early implementation can focus on supplier selection, transport optimization, or inventory control, where agent-based modeling has shown strong performance in cost reduction and responsiveness [UT 407, UT 421]. Strategic use of simulation environments—especially in modular or off-site construction contexts—can reveal hidden inefficiencies and assess the environmental impact of logistics decisions [UT 433]. Given the complexity of full autonomy, managers should adopt layered autonomy models like MIISI to incrementally enhance decision capabilities while preserving human oversight [UT 427]. Moreover, policy-driven incentive structures must be co-designed with technical teams to avoid misalignments in risk-sharing and compliance behavior [UT 379, UT 384]. Cyber-physical infrastructure should be built to support real-time information exchange and system-wide visibility, reducing bullwhip effects and increasing agility [UT 389]. Finally, practitioners should engage with academia and regulators to co-develop standard frameworks and ensure that sustainability metrics are operationalized in daily decision-making rather than treated as external audits or post-hoc evaluations [UT 395, UT 417]. MAS should be understood not just as automation tools but as strategic enablers of a sustainable, resilient, and intelligent supply chain ecosystem.
+
+
+--
+
+Managers seeking to leverage multi-agent decision systems should prioritize modular architectures that enable the incremental integration of intelligent agents across production and logistics nodes. Initial investments might focus on agent-based DSS tailored for supplier selection and order allocation, where multi-objective optimization can deliver measurable cost reductions and process improvements [UT 397, UT 424]. Implementation should be grounded in simulation-based validation—using digital twin environments—to mitigate risks and refine decision strategies before deployment [UT 380, UT 430]. Practitioners are encouraged to adopt architectures that support dynamic parameters, allowing reinforcement learning agents to adjust exploration-exploitation behavior over time, thus improving system responsiveness without sacrificing stability [UT 402]. Managers should also be aware of the challenges associated with information asymmetry and should work to integrate structured and unstructured data sources into their decision pipelines [UT 382]. Importantly, MAS should not be viewed as replacements for human decision-makers but rather as cognitive extensions that enhance judgment through real-time data synthesis and predictive analytics. Organizational readiness can be improved by fostering interdepartmental collaboration, particularly between IT and operations teams, to support cyber-physical integration and data governance frameworks [UT 398, UT 399]. Lastly, sustainability objectives should be embedded in all decision-support layers, ensuring that agent actions align with environmental and social goals, not merely operational efficiency [UT 417, UT 433]. MAS adoption must be strategic, guided by both technological capability and sustainability imperatives.
+
+--
+
+Practitioners should adopt MAS incrementally, beginning with high-impact, low-risk domains such as last-mile logistics, supplier selection, or inventory control. Reinforcement learning and actor-critic models can be used to support adaptive procurement decisions while minimizing costs and maintaining service-level agreements [UT 428]. In collaborative production and scheduling environments, managers should prioritize architectures that support dynamic agent interaction and shared goals, leveraging coordination agents to balance performance trade-offs across stakeholders [UT 425, UT 418]. Cyber-physical integration should be guided by digital twin models that facilitate simulation-driven decision making and real-time optimization, particularly in modular or distributed production lines [UT 380, UT 430]. Managers must also ensure that DSS platforms integrate explainability tools, enabling human oversight of AI-generated decisions and facilitating trust in intelligent systems [UT 382, UT 402]. In emerging markets or peripheral regions, multi-agent simulations like those applied to nanostores offer valuable insights for designing inclusive, community-centric supply solutions [UT 435]. Lastly, organizations should consider adopting formal trust and reputation models, especially in IoT-linked ecosystems, to ensure reliable collaboration among digital agents operating in decentralized or semi-autonomous environments [UT 437]. These steps will help firms translate MAS innovations into sustainable, efficient, and trustworthy supply chain operations.
+
+--
+
+Managers should approach MAS implementation with a strategic focus on modularity, transparency, and progressive integration. Pilot deployments in focused use cases—such as multi-echelon inventory management or last-mile vehicle routing—can yield quick efficiency gains and guide broader rollout [UT 443, UT 431]. For data-sensitive operations, managers must select privacy-preserving MAS frameworks that minimize exposure of proprietary or competitive information while still enabling coordinated policy learning [UT 438, UT 453]. Systems incorporating LLMs and autonomous decision agents must also include interfaces for oversight, correction, and interpretability, enabling human supervisors to intervene or adapt policies in real-time [UT 442, UT 428]. When deploying MAS in collaborative manufacturing or procurement, managers should prioritize coordination contracts that account for fairness, agent-specific goals, and dynamic demand signals [UT 425, UT 353]. To align with sustainable development goals, organizations are encouraged to integrate lifecycle sustainability metrics into their MAS-supported decision support systems, tracking emissions and resource use across the supply network [UT 440, UT 441]. Finally, decision makers should adopt simulation platforms to assess MAS behavior under different disruption scenarios, ensuring the robustness and agility of agent responses before real-world deployment [UT 446, UT 343]. These steps will ensure that MAS are not only operationally effective but also aligned with broader organizational and societal objectives.

@@ -1,13 +1,13 @@
-<mxfile host="Electron" modified="2024-06-26T17:52:18.959Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.1 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="_mjEjZJmDikO5_3dfjK1" version="24.6.1" type="device">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="Página-1" id="5Pz19sIkCKMJ9ITZUsmq">
-    <mxGraphModel dx="1146" dy="874" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="949" dy="814" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="UmnoWcpD8A76yulOaXq0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-2" target="UmnoWcpD8A76yulOaXq0-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UmnoWcpD8A76yulOaXq0-2" value="Step 1. Create a thesaurus with an entry for each different descriptor in the database.&lt;br&gt;(Author keywords=&lt;b&gt;1202&lt;/b&gt;, Index keywords=&lt;b&gt;2421&lt;/b&gt;, Noun phrases=&lt;b&gt;9707&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="UmnoWcpD8A76yulOaXq0-2" value="Step 1. Create a thesaurus with an entry for each different descriptor in the database.&lt;br&gt;(Author keywords=&lt;b&gt;1190&lt;/b&gt;, Index keywords=&lt;b&gt;2413&lt;/b&gt;, Noun phrases=&lt;b&gt;12645&lt;/b&gt;)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="135" y="200" width="560" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UmnoWcpD8A76yulOaXq0-21" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=#000000;strokeWidth=2;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=blockThin;endFill=1;" parent="1" source="UmnoWcpD8A76yulOaXq0-3" target="UmnoWcpD8A76yulOaXq0-4" edge="1">
@@ -92,7 +92,7 @@
         <mxCell id="UmnoWcpD8A76yulOaXq0-26" value="Start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="42" y="195" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qUuEupuPtlznBeRZlpQa-1" value="Author keywords=&lt;b&gt;1062&lt;/b&gt;&lt;br&gt;Index keywords=&lt;b&gt;2152&lt;/b&gt;&lt;br&gt;Noun phrases=&lt;b&gt;7260&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="qUuEupuPtlznBeRZlpQa-1" value="Author keywords=&lt;b&gt;1070&lt;/b&gt;&lt;br&gt;Index keywords=&lt;b&gt;2181&lt;/b&gt;&lt;br&gt;Noun phrases=&lt;b&gt;8538&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="634.5" y="725" width="157" height="55" as="geometry" />
         </mxCell>
       </root>

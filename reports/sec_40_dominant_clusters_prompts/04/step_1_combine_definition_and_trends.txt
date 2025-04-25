@@ -1,0 +1,53 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+This cluster highlights the evolving role of optimization algorithms in supply chain delivery systems, with a growing emphasis on last mile logistics and intelligent, agent-based architectures. Multi-agent systems (MAS) integrated with classical optimization techniques such as mixed integer linear programming (MILP) and genetic algorithms have emerged as robust tools for handling the complexity of last mile delivery, scheduling, and resource allocation under uncertainty [UT 383, UT 403]. Optimization is no longer confined to isolated subproblems but is increasingly embedded into multi-layered simulations and decision-making environments that reflect real-world logistics constraints and variability [UT 377]. For instance, the use of genetic-algorithm-aided deep reinforcement learning has shown marked improvements in scaling delivery networks involving multiple aerial drones by reducing planning space complexity and enhancing convergent behavior [UT 383]. Similarly, agent-based scheduling models, such as those inspired by sparrow behavior, are used for resolving delivery delays and allocation errors in logistics resource management [UT 403]. These trends signal a shift from centralized, monolithic planning tools to distributed, learning-enabled systems that leverage optimization for both global planning and adaptive local decision-making in highly dynamic supply chain contexts.
+
+--
+
+The cluster is characterized by the convergence of optimization techniques and multi-agent systems (MAS) in addressing complex supply chain logistics problems, especially under the framework of Industry 4.0. A central theme is the transition from traditional, centralized optimization methods toward distributed, agent-based approaches capable of handling dynamic conditions in logistics environments. The integration of domain-adaptable ontological models and heuristic optimization frameworks enables real-time decision-making in location-inventory-routing problems (LIRP) within gas and energy supply chains [UT 400]. Reinforcement learning combined with dynamic parameter tuning supports the development of proactive agents capable of adaptive planning in cargo transportation, leading to substantial improvements in learning speed and decision accuracy [UT 402]. Last mile delivery has gained particular attention through multi-agent reinforcement learning models, which simulate decentralized decision systems that better reflect the heterogeneous and stochastic nature of urban delivery contexts [UT 402]. Furthermore, mixed-integer linear programming (MILP) is being used in conjunction with AI to address ETA predictions and dock rescheduling in hyperconnected city logistics [UT 413]. Across these studies, we observe the increasing importance of digital transformation through intelligent agents and optimization methods, replacing static, rule-based systems with dynamic, learning-driven solutions tailored for real-time execution in high-dimensional logistics scenarios. This represents a paradigm shift toward more resilient, decentralized, and intelligent logistics systems in the digital supply chain era.
+
+--
+
+This thematic cluster focuses on the intersection of optimization techniques—particularly integer programming, genetic algorithms, and multi-agent systems—as applied to logistics and last mile delivery. The reviewed literature emphasizes that collaborative and decentralized decision-making, enabled by multi-agent frameworks, is increasingly central to optimizing complex supply chain processes. The emergence of distributed technical intelligence enables autonomous agents to coordinate and dynamically adapt within intelligent networks, enhancing transparency, cooperation, and control in networked production systems [UT 418]. Research into collaborative manufacturing has adopted systematic and heuristic methods, particularly through mixed integer linear programming, to address computationally intractable planning and scheduling problems [UT 425]. A complementary line of work highlights the role of artificial intelligence in optimizing vehicle routing problems by using metaheuristic algorithms such as simulated annealing and the nearest neighbour method within multi-agent systems [UT 440]. In the realm of sustainable logistics, agent-based models and two-stage optimization approaches are being applied to reduce truck usage and CO2 emissions in multimodal hub terminals under the physical internet paradigm [UT 441]. Finally, trust models for service selection in smart IoT environments use agent-based decision mechanisms to ensure performance in last mile delivery scenarios in smart factory supply chains [UT 437]. Collectively, these contributions reveal a trend toward multi-agent-enabled optimization in highly distributed, computationally intensive logistics systems.
+
+--
+
+The cluster centered on *optimization*, *last mile delivery*, *integer programming*, *genetic algorithms*, and *mixed integer linear programming* reveals a well-defined emphasis on improving efficiency, cost-effectiveness, and real-time responsiveness in multi-agent supply chain systems. At its core, this cluster explores the application of *heuristic*, *metaheuristic*, and *learning-based optimization techniques* to dynamic and decentralized logistics challenges. The growth of *global e-commerce* has intensified demand for integrated solutions to *order fulfillment*, including *last mile delivery*, which has been addressed through *multi-agent reinforcement learning* environments like OFCOURSE that jointly optimize all stages of the fulfillment process [UT 390]. In parallel, hybrid methods such as *ant colony optimization* within *multi-agent frameworks* are proposed to find the shortest route tours for deliveries, demonstrating gains in time and profit through artificial intelligence-enhanced path selection [UT 356]. In manufacturing and distribution settings, *automated negotiation models* are used to resolve multi-objective conflicts across agents representing buyers and suppliers, directly impacting operational efficiency [UT 330, UT 336]. Meanwhile, *systemic multi-agent architectures* have been applied to waste minimization in complex agricultural supply chains, demonstrating multi-tiered collaboration from farms to retailers [UT 275]. Overall, the cluster reflects a synthesis of *AI-driven decision-making*, *negotiation tactics*, and *simulation-based validation* in resolving logistics, resource allocation, and delivery routing problems under uncertainty and competing interests.
+
+--
+
+This thematic cluster highlights the growing use of multi-agent systems in optimizing logistics operations, particularly in last mile delivery and supply chain resource management. A central trend is the integration of heuristic and metaheuristic approaches—such as genetic algorithms, particle swarm optimization, and trajectory data mining—into distributed multi-agent systems for solving complex delivery and scheduling problems [UT 278, UT 290, UT 285]. In the context of last mile logistics, simulation tools like AnyLogic and intelligent robotic agents are increasingly employed to model dynamic scenarios and optimize fleet usage or delivery route creation under constraints such as stochastic customer behavior and spatial limitations [UT 369, UT 310]. Moreover, cyber-collaborative systems in warehouses and modular robotics in delivery highlight a shift toward decentralization and task parallelization for cost and time efficiency [UT 278, UT 310]. These systems are also applied in humanitarian logistics and engineering change management, showcasing their adaptability across structured and unstructured domains [UT 359, UT 301]. The thematic foundation is strongly driven by the demand for autonomous, responsive, and robust optimization systems that minimize cost and time while maximizing utilization in both routine and high-disruption logistics environments.
+
+

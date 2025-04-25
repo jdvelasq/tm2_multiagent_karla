@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+Managers seeking to harness MAS technologies in supply chains should prioritize modular and interoperable systems that allow incremental integration of AI, IoT, and blockchain components. Implementation should begin in focused domains such as last-mile logistics, inventory control, or warehouse robotics—where MAS have demonstrated cost savings and service improvements through learning-based coordination [UT 373, UT 393]. Emphasis should be placed on selecting platforms with strong interoperability and semantic data standards to facilitate smooth agent communication and cross-system collaboration [UT 386]. In blockchain-based ecosystems, smart contracts should be developed using privacy-preserving technologies and audited protocols to ensure data confidentiality, contractual compliance, and stakeholder trust [UT 453]. Practitioners must also invest in simulation environments for stress-testing AI-driven MAS under uncertain and volatile conditions, especially in urban logistics or healthcare settings [UT 374, UT 377]. Training operators in the logic and limitations of AI systems is critical to avoid misalignment between human oversight and autonomous decision-making. Additionally, managers should promote cross-functional teams that bridge data science, operations, and cybersecurity, ensuring holistic implementation and risk mitigation. Long-term, organizations should explore the use of reward engineering and token-based mechanisms to align stakeholder incentives in decentralized supply chains, supporting fair and accountable participation in digital platforms governed by MAS and smart contracts [UT 453].
+
+--
+
+Managers in logistics and supply chain sectors should embrace AI-powered multi-agent systems as strategic tools for operational optimization and risk management. In particular, adopting digital twins and IoT-integrated monitoring platforms can significantly enhance visibility, enable proactive response to disruptions, and optimize warehouse and delivery resource allocation [UT 414]. Organizations should also consider decentralized supply chain architectures like the physical internet to reduce inefficiencies and promote resilience through asset-sharing and open logistics networks [UT 396]. In sectors such as energy and hydrogen distribution, firms should explore AI circular economist models that combine hierarchical reinforcement learning with economic-environmental policy planning for scalable and profitable operations [UT 417]. For food delivery and e-commerce, reinforcement learning-based path-sharing strategies like DeliverAI can be instrumental in reducing operational costs while maintaining service quality [UT 424]. Furthermore, investment in ontological knowledge systems and AI-based semantic modeling can enable agents to adapt across planning contexts, facilitating more agile and responsive logistics infrastructures [UT 400]. Practitioners should also be aware of the limitations of traditional policy benchmarks and instead adopt iterative training and evaluation methods that reflect real-world complexities in inventory and order management [UT 372, UT 388]. Lastly, collaboration across organizational boundaries must be supported by interoperable data platforms and aligned stakeholder incentives, ensuring that multi-agent systems contribute to broader system-wide improvements rather than isolated efficiencies.
+
+--
+
+Managers aiming to lead digital supply chain transformations should invest in multi-agent systems embedded with artificial intelligence and machine learning capabilities. Emphasizing reinforcement learning models—especially multi-agent variants—can significantly improve real-time decision-making for cargo transport, inventory replenishment, and route optimization in logistics [UT 402, UT 405]. The adoption of privacy-preserving coordination frameworks can encourage inter-firm collaboration without compromising sensitive data, a crucial consideration for managing risks associated with digital transformation [UT 438]. In last-mile logistics, practitioners should explore communication-enhanced multi-agent models with transformer-based encoding to adapt to on-demand delivery challenges and variable pickup demands [UT 420]. Firms focused on sustainability should prioritize algorithms that integrate energy consumption models into route planning, particularly for drones and electric vehicles [UT 429]. For inventory management, large language model-based agents offer promising tools for autonomous adjustment of stock levels and demand forecasting, effectively reducing stockouts, shipping costs, and total operational expenses [UT 442]. Companies with complex, multi-echelon structures are encouraged to implement decentralized learning systems with information sharing protocols that reduce the bullwhip effect and align actor incentives with system-wide performance goals [UT 443]. Finally, organizations should view robotics and automation not just as operational enhancements but as integral components of intelligent, collaborative ecosystems, where agents proactively plan, adjust, and execute supply chain tasks while responding to stakeholder priorities, including cost, sustainability, and service quality [UT 440].
+
+--
+
+To leverage the benefits of MAS and MARL in logistics and supply chain operations, managers should prioritize modular system designs that integrate *learning machines*, *smart contracts*, and *real-time data exchange* through IoT-enabled platforms. Initiatives should begin with pilot implementations in *inventory management* or *last-mile delivery*, where studies have shown significant efficiency gains and service-level improvements [UT 351, UT 329]. Firms should invest in *custom simulation environments*, such as OFCOURSE or UNITY-based models [UT 390, UT 318], to train agents under representative operational scenarios before deploying solutions in live settings. It is critical to develop *organization-wide data standards* and *shared reward systems* to align agent behavior with broader performance metrics, especially when coordinating across depots or suppliers [UT 365]. Managers must also foster a culture of *inter-organizational collaboration*, as cooperative information sharing has been shown to mitigate the bullwhip effect and optimize cost-performance trade-offs [UT 340]. In crisis or high-uncertainty contexts, firms should consider transitioning to *decentralized inventory management* models that allow local actors to react autonomously to supply-demand mismatches [UT 334]. Finally, implementing MAS frameworks within a *service-oriented architecture* provides flexibility, interoperability, and scalability, supporting long-term digital transformation in logistics infrastructures [UT 342]. These actions, grounded in current research, can help practitioners navigate the complexities of modern supply networks while unlocking the strategic potential of artificial intelligence.
+
+--
+
+Practitioners should consider adopting modular, decentralized multi-agent architectures that align with digital transformation and Industry 4.0 visions. Inventory replenishment and routing strategies based on MARL can enhance responsiveness and reduce computation time under complex, high-customization environments such as aerospace or large-scale transportation tasks [UT 287, UT 291]. E-commerce managers operating dual-channel systems should simulate consumer switching behaviors and evaluate centralized versus decentralized inventory policies to improve profit margins and turnover ratios [UT 348]. Managers in critical goods supply should invest in smart dispensers, autonomous technologies, and modular containerization guided by physical internet principles to enhance resilience and reduce human workload in crisis scenarios [UT 378]. Industrial operations could benefit from leveraging DRL-driven resource allocation at the edge, improving efficiency in environments constrained by communication and computational limits [UT 299]. Finally, strategic investments in blockchain infrastructure to support smart contracting and utility-maximizing negotiation among autonomous agents will be essential for the next-generation supply chain platforms operating with minimal central control [UT 339].
+

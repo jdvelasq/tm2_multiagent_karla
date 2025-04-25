@@ -1,0 +1,51 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+The convergence of reinforcement learning (RL), deep learning, and heuristic-based methods with multi-agent systems (MAS) has defined a transformative trend in supply chain optimization, particularly in vehicle routing, inventory management, and task allocation. Multi-agent reinforcement learning (MARL) now plays a critical role in enabling distributed decision-making across decentralized agents, providing real-time adaptability in logistics, delivery networks, and industrial automation [UT 373, UT 392]. Deep Q-networks and hierarchical learning models have been extended to solve complex delivery and inventory coordination tasks, especially in last-mile delivery and multi-echelon inventory systems [UT 383, UT 443]. The adoption of hybrid approaches—such as the integration of genetic algorithms with MARL or curriculum learning for drone dispatch—highlights the growing sophistication of learning algorithms tailored for scalability and uncertainty [UT 383, UT 373]. Simultaneously, domain-specific applications such as hydrogen supply chain management and food delivery demonstrate the versatility of these learning paradigms in both environmental and commercial optimization settings [UT 417, UT 424]. These trends show that RL-based MAS frameworks are increasingly positioned not just as algorithmic solutions, but as the cognitive core of next-generation autonomous supply chains, delivering sustainable, intelligent, and context-aware operational performance.
+
+--
+
+The thematic cluster centers on the integration of reinforcement learning (RL) and multi-agent reinforcement learning (MARL) within supply chain environments to enhance automation, adaptability, and efficiency in decision-making processes. Reinforcement learning, particularly in deep and hierarchical forms, emerges as a next-generation solution to overcome the computational limits of traditional mathematical programming for dynamic supply chain problems [UT 405]. Multi-agent systems (MAS) are foundational in this domain, enabling distributed coordination across various tasks such as supplier selection [UT 397], vehicle routing [UT 420], and collaborative manufacturing [UT 425]. Trends indicate a shift toward communication-enhanced and privacy-preserving architectures that incorporate context-aware decision-making and real-time optimization [UT 420, UT 438]. The integration of deep learning and transformer-based communication further strengthens these systems’ ability to adapt to high-dimensional logistics environments. There is also a strong tendency toward the deployment of hybrid methods combining metaheuristics—like genetic algorithms—with RL for optimized performance in complex tasks [UT 397, UT 440]. These studies illustrate a transition from rule-based heuristic systems to adaptive learning algorithms capable of operating in uncertain and evolving environments, thereby redefining how supply chains are managed in contexts such as hydrogen energy distribution [UT 405] and last-mile logistics [UT 420, UT 431].
+
+--
+
+The application of multi-agent systems (MAS) in supply chain management has evolved from static optimization to dynamic, learning-driven environments. Central to this cluster is the integration of *reinforcement learning*, particularly *multi-agent reinforcement learning (MARL)*, as a tool to enhance real-time, decentralized decision-making across various layers of the supply chain. For instance, MARL frameworks such as the *parameter-sharing deep Q-network* enable effective coordination in *same-day delivery* scenarios under dynamic conditions [UT 323]. Similarly, multi-agent simulation platforms have emerged to support complex *last-mile delivery* and *inventory routing* challenges [UT 302, UT 206], reflecting a convergence of *deep learning*, *heuristic methods*, and *autonomous control*. Moreover, recent studies integrate *soft computing* techniques like *genetic algorithms* and *fuzzy logic* with MAS to address multi-echelon supply chain configurations under uncertainty [UT 308, UT 186, UT 148]. The literature also highlights novel mechanisms such as *social vs. self-learning abilities* for agents that directly affect competitive strategies and utility outcomes in supply networks [UT 293]. In parallel, *green supply chains* have driven the incorporation of *incentive negotiation models* within MAS frameworks to simultaneously optimize environmental and economic performance [UT 214]. Overall, the thematic trend signals a shift toward self-adaptive, data-driven agent architectures embedded in both tactical and operational layers of supply chains, responding to increasing demands for agility, personalization, and sustainability.
+
+--
+
+This thematic cluster revolves around the integration of multi-agent systems with learning algorithms to optimize decision-making in supply chain environments, particularly focusing on complex logistics issues such as last mile delivery, inventory control, and dynamic scheduling. Multi-agent reinforcement learning (MARL) and other heuristic-based methods like genetic algorithms and artificial bee colony algorithms are increasingly employed to improve coordination, adaptability, and optimization within distributed supply chain networks [UT 256, UT 265, UT 243]. A strong trend is the emergence of decentralized, cooperative agent models that reduce computation time and enable real-time or near-real-time adaptability, particularly in dynamic contexts like truck scheduling [UT 265], cross-docking terminals, and crisis management [UT 228]. Another trend is the application of virtual organizations of agents for scalable and low-information-sharing collaborations among carriers, indicating a shift toward more agile and privacy-preserving systems [UT 245]. Across these studies, deep reinforcement learning and hybrid methods are cited as enhancing model efficiency and adaptability, especially when addressing multidimensional objectives such as environmental impact, profitability, and inventory level minimization [UT 243, UT 256, UT 212].
+
+--
+
+This thematic cluster encompasses an integrated view of reinforcement learning, multi-agent reinforcement learning, learning systems, and heuristic-based methods applied to dynamic supply chain challenges. The central focus is the transition from isolated optimization tasks to integrated decision-making frameworks leveraging multi-agent systems to handle interdependent and sequential processes such as order handling, inventory control, vehicle routing, and last-mile delivery [UT 390]. The proliferation of e-commerce has stimulated innovations such as the OFCOURSE environment, which enables the deployment of multi-agent reinforcement learning (MARL) across interconnected fulfillment activities [UT 390]. Research increasingly favors heuristic-enhanced MARL, where techniques like genetic algorithms are embedded in learning architectures for constrained routing tasks [UT 363]. The integration of learning algorithms in agent-based platforms has also enabled modular solutions for trajectory data mining, where systems dynamically respond to stochastic customers and continuous package streams [UT 290]. Moreover, the development of multi-agent modular robotic systems shows a shift toward compact, scalable architectures that improve delivery optimization [UT 310]. Real-world applicability is demonstrated through empirical multi-agent simulations for policy impact analysis in urban freight logistics and zero-emission zones, reflecting a trend toward sustainability in multi-agent supply chain modeling [UT 219]. Collectively, these studies suggest a growing emphasis on joint policy optimization, simulation-based learning, and context-aware operations that span the entire logistics chain.

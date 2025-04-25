@@ -1,0 +1,73 @@
+
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+GOAL:
+Apply SEO techniques to improve the abstract, title and keywords of a scientific manuscript. The objective is to increase the visibility of the manuscript in search engines and academic databases.
+
+
+CURRENT TITLE:
+A thematic analysis of Multi-agent systems in supply chain management
+
+
+CURENT ABSTRACT: 
+This paper reviews 437 documents indexed in Scopus, critically evaluating current trends and emerging challenges in  Multi-agent systems in supply chain management. The realized analysis discovers 5 dominant thematic clusters. By synthesizing the literature, this study identifies strategic opportunities and future research directions essential for leveraging Multi-agent systems in supply chain management.
+
+
+MOST FREQUENT KEYWORDS SORT BY NUMBER OF RESULTS:
+- Multi Agent Systems
+- Supply Chain Management
+- Multi-agent Systems
+- Supply Chains
+- Multi Agent System (MAS)
+- Intelligent Agents
+- Supply Chain
+- Ontology
+- Manufacture
+- Decision Support Systems
+- Complex Networks
+
+
+TARGET JOURNAL:
+The target journal is the International Journal of Production Research (IJPR) .The  IJPR is a leading journal in the areas of manufacturing, industrial engineering, operations research and management science. The  IJPR aims to disseminate research on decision aid in manufacturing, operations management and logistics. The  IJPR publishes convincing scientific results with clear, real-life applications as well as fundamental techniques developed in computer, decision and mathematical sciences to solve complex decision problems that arise in design, measurement, management and control of production and logistics systems. The  IJPR covers the following topics:
+* Design of products and manufacturing processes
+* Production system and supply network engineering
+* Essential behaviour of production resources and systems
+* Production strategies and related economics issues
+* Production policy formulation and evaluation
+* Production planning and scheduling
+* Contribution of new technologies to production and logistics
+* Applications of production research to services
+The IJPR seeks original research articles, discussion or technical notes, and review articles presenting the state of the art. IJPR papers should feature following elements: 
+* an exhaustive analysis of related Production Research publications;
+* a novel decision aid model for design or management of production systems and logistics, the model should be explained for a large audience in production research;
+* comparisons with the state of the art;
+* discussion on real life applications of the proposed approach in production systems and logistics;
+* managerial insights for decision makers in industry;
+* research perspectives.
+
+
+EXAMPLES OF AN ACCEPTED ABSTRACT USING THE SAME METHODOLOGY (YOUR SUGGESTION MUST BE CLOSED TO THIS ABSTRACT IN FORM):
+This study comprehensively reviews 779 Scopus-indexed documents, critically analyzing the trends, challenges, and opportunities in Tiny Machine Learning (TinyML). Through thematic analysis, 21 key themes are identified, covering areas such as edge computing, deep learning, IoT integration, microcontroller efficiency, and energy utilization. Unlike previous reviews focusing on specific domains or applications, this study adopts a text mining-based thematic approach to identify cross-sector research patterns and uncover underexplored areas. This positions the review as a broad yet deep mapping of the TinyML landscape. By synthesizing insights from the literature, this research highlights strategic opportunities, future directions, and technological advancements necessary to expand the application of TinyML in resource-constrained environments, neural networks, and real-time systems. The review also identifies key challenges such as balancing accuracy and energy efficiency in low-power devices, optimizing on-device learning, and ensuring data privacy without cloud dependency. In doing so, it outlines actionable directions for future research, including scalable deployment in large-scale IoT systems and application expansion into areas such as UAV security and smart cities. The findings are crucial for advancing AI applications in low-power, embedded systems and contribute to the growing body of knowledge on TinyML.
+
+
+EXAMPLES OF PUBLISHED REVIEWS RELATED TO THE THEME OF MULTI-AGENTS IN SUPPLY CHAINS:
+
+TI A Review of Supply Chain Resilience: A Network Modeling Perspective
+AB Against the backdrop of globalization, the complexity of supply chains has been increasing, making supply chain resilience a critical factor in ensuring the stable operation of enterprises, national economies, and international trade. This paper adopts a network modeling perspective to systematically review the theoretical foundations and research progress in supply chain resilience, focusing on the application of network modeling methods. First, the concept of supply chain resilience is defined, and its developmental trajectory is reviewed. Through literature visualization analysis, this study delves into the current state of research on supply chain resilience, addressing challenges and risk management, highlighting the importance of network modeling techniques in this field. Subsequently, it explores supply chain network modeling based on complex networks and agent-based modeling, analyzing their strengths and limitations in simulating the overall evolution of supply chains and the dynamic behavior of individual entities. By integrating network structural characteristics with resilience evaluation methods, this paper suggests potential directions for future research. These include enhancing the description of individual firm behavior, analyzing the dynamics of information networks, and emphasizing task-oriented model design, thereby offering new perspectives and pathways for managing supply chain resilience in a way that can generate significant positive externalities for global economies. This research also indicates that the enhanced resilience of supply chains can produce a multiplier effect, benefiting not only individual firms but also promoting economic stability and growth across multiple countries.
+
+TI Insights on multi-agent systems applications for supply chain management
+AB In this paper, we review relevant literature on the development of multi-agent systems applications for supply chain management. We give a general picture of the state of the art, showing the main applications developed using this novel methodology for analyzing diverse problems in industry. We also analyze generic frameworks for supply chain modelling, showing their main characteristics. We discuss the main topics addressed with this technique and the degree of development of the contributions.
+
+TI Multi-agent systems and complex networks: Review and applications in systems engineering
+AB Systems engineering is an ubiquitous discipline of Engineering overlapping industrial, chemical, mechanical, manufacturing, control, software, electrical, and civil engineering. It provides tools for dealing with the complexity and dynamics related to the optimisation of physical, natural, and virtual systems management. This paper presents a review of how multi-agent systems and complex networks theory are brought together to address systems engineering and management problems. The review also encompasses current and future research directions both for theoretical fundamentals and applications in the industry. This is made by considering trends such as mesoscale, multiscale, and multilayer networks along with the state-of-art analysis on network dynamics and intelligent networks. Critical and smart infrastructure, manufacturing processes, and supply chain networks are instances of research topics for which this literature review is highly relevant.
+
+TI Machine learning and multi-agent systems in oil and gas industry applications: A survey
+AB The oil and gas industry (OGI) has always been associated with challenges and complexities. It involves many processes and stakeholders, each generating a huge amount of data. Due to the global and distributed nature of the business, processing and managing this information is an arduous task. Many issues such as orchestrating different data sources, owners and formats; verifying, validating and securing data streams as they move along the complex business process pipeline; and getting insights from data for improving business efficiency, scheduling maintenance and preventing theft and fraud are to be addressed. Artificial intelligence (AI), and machine learning (ML) in particular, have gained huge acceptance in many areas recently, including the OGI, to help humans tackle such complex tasks. Furthermore, multi-agent systems (MAS) as a sub-field of distributed AI meet the requirement of distributed systems and have been utilised successfully in a vast variety of disciplines. Several studies have explored the use of ML and MAS to increase operational efficiency, manage supply chain and solve various production- and maintenance-related tasks in the OGI. However, ML has only been applied to isolated tasks, and while MAS have yielded good performance in simulated environments, they have not gained the expected popularity among oil and gas companies yet. Further research in the fields is necessary to realise the potential of ML and MAS and encourage their wider acceptance in the OGI. In particular, embedding ML into MAS can bring many benefits for the future development of the industry. This paper aims to summarise the efforts to date of applying ML and MAS to OGI tasks, identify possible reasons for their low and slow uptake and suggest ways to ensure a greater adoption of these technologies in the OGI.
+
+TI Evaluation of urban distribution centers using multiagent modeling with geographic information systems
+AB Current barriers to maintaining economies of scale for delivery include far distances of the depots from customers, road usage restrictions, customers' delivery requests, and social, environmental, and economic costs. In many developed and developing countries, the effects of urbanization have increased city population. Such migration to cities is also attracting more movement of commodities into the city center. This research aimed to study the effectiveness and viability of urban distribution centers from a tactical viewpoint of planning for city logistics. A multiagent modeling approach with geographical information system support was used to test an urban distribution center (UDC) in Osaka City, Japan. The key findings from this research concluded that the UDC has potential for emissions reduction, but sustainability of the UDC is reliant on the UDC charges and carriers' sensitivity to the rate of charges.
+
+
+

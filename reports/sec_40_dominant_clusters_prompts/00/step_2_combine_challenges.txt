@@ -1,0 +1,54 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+While multi-agent systems have introduced new capabilities in supply chain coordination and decision making, significant challenges persist that hinder their full-scale adoption. Chief among these are interoperability, data privacy, and information security, which complicate the seamless integration of MAS within cyber-physical systems [UT 386]. Furthermore, despite the theoretical appeal of MAS, their implementation in industrial contexts remains limited. Many proposed architectures for production planning and control have not transitioned into standards adopted by actual enterprises [UT 362]. The high level of technological interdependence and system reconfiguration costs can impede the flexibility these systems promise, especially in modular and reconfigurable environments. Real-time decision making, although essential, poses additional constraints due to information asymmetries and decentralized control. For example, inventory management in decentralized systems struggles with the lack of centralized information sharing, which necessitates sophisticated reinforcement learning approaches to maintain performance under uncertainty [UT 408]. Decision support systems must therefore balance complexity with interpretability—yet the black-box nature of many AI-driven models, such as deep reinforcement learning frameworks, introduces skepticism among practitioners [UT 371]. Finally, despite improvements in collaborative modeling (e.g., urban freight delivery coordination), achieving consistent results in the face of environmental noise and strategy instability remains difficult, particularly when information systems are not harmonized across supply chain actors [UT 412, UT 377].
+
+--
+
+Despite their conceptual strength, MAS in supply chain contexts face critical implementation hurdles. A recurring limitation is the lack of standardized theoretical frameworks to support consistent deployment of autonomous supply chain systems, often resulting in fragmented or trial-based implementations [UT 427]. The complexity of synchronizing agents with varying risk attitudes and heterogeneous capabilities adds to the challenge, especially in dynamic and uncertain environments [UT 389]. In particular, the bullwhip effect remains a latent issue, amplified when real-time information flows are disrupted or asymmetrically distributed. Moreover, black-box decision processes—such as those embedded in reinforcement learning or foundation models—reduce transparency and hinder adoption by practitioners unfamiliar with these advanced techniques [UT 434]. While evolutionary models offer robust insights into digital strategy adoption, they also expose vulnerabilities such as overreliance on government incentives and the inability of punitive measures alone to drive sustainable behavior [UT 379]. From a systems perspective, simulation studies still dominate over industrial validation, which restricts practical transferability. Additionally, the integration of cyber-physical systems demands high initial investment and data infrastructure, making adoption uneven across sectors and geographies [UT 407, UT 395]. These issues reflect a broader tension between technological sophistication and operational feasibility, calling for clearer roadmaps and interdisciplinary coordination.
+
+--
+
+Despite their promise, the implementation of multi-agent decision support systems in supply chain contexts faces significant technical and organizational hurdles. A major limitation is the inconsistency in theoretical foundations and architectures across domains, which impedes interoperability and scaling [UT 382, UT 427]. The complexity of managing interactions among heterogeneous agents remains high, particularly in dynamic environments where negotiation and coordination must account for multiple objectives and conflicting constraints [UT 401, UT 388]. In managing phenomena like the bullwhip effect, for instance, MAS must balance inventory levels across distributed agents without inducing instability—a challenge compounded by periodic review constraints and variable demand forecasting accuracy [UT 388]. Furthermore, reinforcement learning-based agents often exhibit black-box behavior, complicating explainability and trust among decision-makers [UT 402, UT 424]. Data integration also poses a challenge: many existing systems lack the ability to effectively process unstructured information or adapt to nonlinear relationships in real-time, which restricts their capacity for high-stakes decision support [UT 382]. Organizational adoption is further slowed by infrastructure demands, as cyber-physical integration requires robust digital twin implementations and multi-layered information systems that many firms have yet to fully develop [UT 380, UT 430]. These barriers highlight the need for more transparent, modular, and interoperable frameworks to unlock the full potential of MAS-driven decision-making.
+
+--
+
+The integration of MAS in supply chains faces considerable challenges despite their demonstrated potential. A critical barrier is the heterogeneity and opacity of intelligent agent behaviors, particularly when driven by reinforcement learning or dynamic heuristic algorithms, which complicates validation and interpretability [UT 402, UT 428]. While decision-making efficiency has improved, the ability to balance short-term optimization with long-term sustainability remains underdeveloped. For instance, in electricity supply chains, market dominance by retailers led to minimal investment in carbon-reduction technologies, showcasing how agent-based models can underperform under certain market dynamics [UT 436]. Similarly, collaboration among agents in procurement or production environments can create coordination overheads and communication complexity, particularly when stakeholder goals diverge [UT 425, UT 424]. MAS in cyber-physical systems must also grapple with integration across legacy infrastructures and digital twin platforms, which often lack unified standards or semantic compatibility [UT 380, UT 411]. Trust and data security concerns persist, especially in IoT-driven agent ecosystems, where unknown or unverified entities must still participate in decision-making processes [UT 437]. Collectively, these challenges point to the need for more robust frameworks that support modular, interpretable, and secure MAS integration across digital supply chains.
+
+--
+
+Despite progress, substantial challenges remain in scaling and securing MAS for practical, real-time supply chain applications. First, the integration of MAS with privacy-sensitive data infrastructures raises concerns about information leakage, particularly when visibility is required for coordination but sensitive data must be protected [UT 438, UT 453]. While privacy-preserving reinforcement learning techniques have been proposed, ensuring robust performance without sacrificing data security remains a fragile balance. Another persistent challenge is the explainability and trustworthiness of agent-based decisions—especially when powered by deep learning or LLMs that often function as black boxes [UT 442, UT 443]. Coordination among autonomous agents also becomes difficult in competitive environments, such as reverse logistics or vehicle routing, where fairness, individual incentives, or real-time variability can degrade system performance [UT 353, UT 350]. The bullwhip effect continues to be a source of inefficiency in multi-echelon systems, requiring advanced coordination and upfront information sharing strategies that are difficult to achieve in decentralized environments [UT 443]. Additionally, while simulation platforms demonstrate the promise of MAS in academic settings, real-world deployments often face technical debt, legacy integration issues, and misalignment between strategic goals and agent-level behavior [UT 446, UT 441]. These gaps highlight the importance of not only advancing technical capabilities but also reinforcing human-agent collaboration, system transparency, and contextual adaptability.
+
+
+

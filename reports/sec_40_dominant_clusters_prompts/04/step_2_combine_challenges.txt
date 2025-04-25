@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+Despite the promise of optimization-enhanced MAS in supply chain logistics, several challenges remain. Scalability continues to be a bottleneck, particularly in problems involving large fleets or high-frequency decision updates such as multi-agent drone coordination [UT 383]. The computational cost of solving large-scale MILP models or executing real-time genetic algorithm evaluations can hinder real-world applicability, especially in systems where environmental states shift rapidly. Additionally, integrating heuristic or metaheuristic algorithms into multi-agent environments requires careful tuning and often lacks theoretical convergence guarantees, making validation through simulation a necessary yet insufficient proxy for operational reliability [UT 403]. Coordination in stochastic environments—especially urban settings with uncertain delivery times and fluctuating demand—further complicates the application of traditional optimization frameworks [UT 377]. Another issue is the gap between simulation success and real-world deployment; agent-based models that perform well in theoretical or digital twin settings may falter under real-time operational constraints. Moreover, optimization models typically assume perfect information or deterministic approximations, which can limit robustness in volatile, uncertain, complex, and ambiguous (VUCA) environments. These challenges underscore the need for optimization frameworks that are not only computationally efficient but also robust, adaptive, and interoperable with MAS-based control architectures.
+
+--
+
+Despite notable progress, several implementation and conceptual limitations persist within this thematic cluster. A key challenge is the computational intensity and scalability of agent-based optimization models, especially in scenarios involving high-dimensional mixed-integer formulations like those in hyperconnected city logistics [UT 413]. The integration of AI techniques into decision support systems (DSS) remains at an early developmental stage, constrained by difficulties in processing unstructured data and modeling nonlinear relationships [UT 382]. Ontological optimization frameworks, although powerful, still lack systematic validation across different industrial applications, limiting their generalizability [UT 400]. Another recurring issue is the tension between agent autonomy and global coordination. While decentralized systems enhance flexibility, they also increase the risk of suboptimal system-wide outcomes due to conflicting local objectives, particularly in last-mile operations and resource allocation scenarios [UT 396, UT 402]. Moreover, many optimization methods operate under assumptions of complete or static knowledge, making them vulnerable in dynamic environments with frequent disruptions or fluctuating demands. The performance of multi-agent reinforcement learning models depends heavily on initial parameter settings and exploration-exploitation trade-offs, which are not yet robustly optimized for heterogeneous environments [UT 402]. Finally, the lack of integration between blockchain-enabled traceability systems and optimization algorithms hinders the full realization of trustworthy and autonomous logistics frameworks, especially when considering end-to-end product tracking [UT 410].
+
+--
+
+While optimization techniques have advanced, their application within decentralized, multi-agent systems in last mile logistics faces persistent challenges. Many problems addressed in this cluster are combinatorial in nature and present high computational complexity, particularly under real-time constraints. The planning of collaborative manufacturing systems using mixed integer programming, for instance, is often described as computationally intractable, requiring heuristic methods to generate practical solutions [UT 425]. Multi-depot vehicle routing remains a difficult challenge despite the application of deep reinforcement learning; traditional optimization approaches struggle with scalability and real-time applicability [UT 350]. Even when multi-agent systems are deployed, the lack of integration between agents, particularly in decentralized environments, often leads to inefficiencies or suboptimal coordination. The complexity of last mile delivery is further magnified by synchronization constraints and diverse customer requests, which demand highly efficient genetic algorithm-based solutions that must be both robust and adaptable [UT 440]. In addition, security and privacy present barriers in decentralized architectures, especially where agent decisions require trust and transparency among untrusted or unknown entities [UT 453]. Furthermore, many of the current approaches focus on minimizing distance or cost, yet they lack broader sustainability objectives or integration with societal goals, such as reducing environmental impact or supporting local economies. These limitations hinder the broader adoption of optimization-driven, multi-agent logistics models in practice.
+
+--
+
+Despite the technical sophistication of agent-based optimization systems, several challenges constrain their deployment in real-world supply chain environments. One core limitation is the *fragmentation of decision-making objectives*, where agents pursuing localized utility (e.g., minimizing delivery time or maximizing individual profits) may yield suboptimal outcomes at the system level—a dilemma explored through models like *computational transcendence* that aim to balance individual and collective utility [UT 357]. Similarly, *negotiation-based frameworks* require the calibration of complex concession parameters, often derived from cross-domain economic theories, which increases the modeling burden and may reduce generalizability [UT 336]. Another significant constraint lies in simulating *sequential and interdependent decision processes*, particularly in large-scale environments with no existing holistic testbeds. OFCOURSE, as a custom MARL simulation, addresses this gap, but scalability and data realism remain open questions [UT 390]. Moreover, many multi-agent routing methods (e.g., ant colony optimization) show efficiency in theory but may lack robustness when exposed to real-time disruptions, traffic variations, or infrastructure constraints [UT 356]. Challenges are compounded in dual-channel systems, where inventory control must balance decentralized consumer behavior with centralized oversight—an issue identified through simulations that highlight marginal performance advantages of centralization [UT 348]. Finally, *critical product logistics* under high-stress scenarios (e.g., pandemics) demands fault tolerance, hyperconnectivity, and integration with smart hardware, which few existing frameworks fully support [UT 378].
+
+--
+
+Despite their potential, multi-agent optimization systems face several critical challenges. A major obstacle is the handling of real-time uncertainty and environmental dynamism in last mile delivery contexts, where the reallocation of tasks and reconfiguration of routes must occur instantaneously and efficiently [UT 290, UT 359]. The complexity of coordinating autonomous agents while achieving global optimization goals remains unresolved, particularly in scenarios with stochastic customer behavior or unplanned requests [UT 290, UT 278]. Implementing distributed control structures with integer programming or mixed integer linear programming approaches in dynamic logistics environments also presents issues related to computational intensity and scalability [UT 285, UT 310]. Another key limitation lies in the practical deployment of modular robotic systems, which, despite their theoretical advantages, must overcome physical constraints related to size, weight, and energy consumption [UT 310]. Moreover, integrating responsible autonomy in multi-agent optimization—balancing self-interest and collective outcomes—is underexplored in engineering contexts and poses ethical and strategic complexities [UT 316, UT 361]. Lastly, the current lack of unified standards for simulation tools and decision protocols limits interoperability and hinders the generalization of optimization frameworks across diverse application domains.
+

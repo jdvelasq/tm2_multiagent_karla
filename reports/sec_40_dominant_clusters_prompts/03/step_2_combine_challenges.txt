@@ -1,0 +1,53 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+Despite technological advances, several barriers impede the operationalization of resilient, intelligent supply chain systems. One core challenge is the lack of standardization and theoretical maturity in defining and implementing autonomous supply chains. Existing implementations, while promising, still lack robust frameworks that can generalize across diverse industrial contexts [UT 427]. Additionally, achieving supply chain-wide collaboration without violating data privacy or requiring exhaustive information sharing remains a bottleneck. Novel architectures like fictitious agents for transshipment coordination attempt to address this, but real-world scalability remains uncertain [UT 349]. Another issue is the underexplored impact of environmental noise and stochastic uncertainty, especially in platforms relying on reinforcement learning or evolutionary games. These variables often undermine convergence and strategic alignment among decentralized agents [UT 412]. Vulnerabilities due to network topology and heterogeneous agent capabilities are further compounded by inconsistencies in digitization across upstream and downstream entities, which can increase transaction costs and impair decision synchronization [UT 412, UT 386]. Even with simulation-supported validation, MAS remain constrained by their reliance on centralized training phases and their sensitivity to information asymmetries in deployment [UT 408]. These challenges highlight the tension between the potential of distributed intelligence and the practical limits imposed by technical, organizational, and environmental complexity.
+
+--
+
+Despite promising advancements, several structural and technical challenges remain unresolved. A recurring issue lies in the heterogeneity of agent risk attitudes and the lack of a unified temporal framework to synchronize risk-based decision-making across different agents [UT 389]. The integration of intelligent decision support systems (IDSS) in supply chain management is also hindered by their developmental immaturity and inability to fully manage unstructured data or capture nonlinear relationships in stochastic environments [UT 382]. Moreover, AI-enabled models, including reinforcement learning approaches, require extensive computational resources and training protocols, which may limit their real-time applicability in critical domains such as energy or hospital logistics [UT 417, UT 393]. The decentralized nature of multi-agent systems introduces additional complexity in coordination, especially when agents prioritize individual profitability over collective optimization, as observed in early-phase physical internet systems [UT 396]. Implementation difficulty and the “black-box” nature of modern AI, including large language models, remain major adoption barriers, especially in highly regulated or safety-critical industries [UT 434]. Another notable gap is the limited use of semantic knowledge and ontological reasoning in automating and scaling intelligent decision-making, which constrains the adaptability of AI in emergent domains [UT 400]. Finally, cross-sector resilience-building initiatives are still fragmented, with insufficient integration of social, environmental, and economic considerations in current MAS frameworks, thereby diluting their impact on systemic vulnerabilities [UT 394, UT 382].
+
+--
+
+Despite their promise, the application of intelligent and neural-based multi-agent systems in supply chain resilience is fraught with complexity. A fundamental challenge is the difficulty of implementing multi-agent-based scheduling and collaborative planning in computationally intractable environments, particularly when shared manufacturing resources and digital coordination are required [UT 425]. While resilience models often account for disruptions, they may fall short in capturing the full range of economic and social effects experienced by decentralized and informal supply networks, such as nanostores in emerging markets [UT 435]. The integration of digital twin paradigms with intelligent agents remains limited by the need for real-time adaptability, which is often constrained by infrastructural and architectural limitations in industry adoption [UT 343]. Stochastic disturbances, particularly those involving nonlinear communication and multi-echelon systems, further complicate consensus-building and control mechanisms within complex supply chain structures [UT 327]. Additionally, despite widespread interest, artificial intelligence applications in supply chain resilience tend to support only the readiness, response, and recovery phases, with minimal focus on long-term growth and evolution, which limits strategic planning capabilities [UT 368]. Neural network-based methods for language translation and decision interaction among agents require substantial training and tuning, introducing concerns about model scalability, interpretability, and integration across heterogeneous agents [UT 344]. As a result, supply chain resilience strategies still face barriers in terms of standardization, cost-effectiveness, and technology maturity [UT 331].
+
+--
+
+Despite the promising potential of multi-agent and intelligent systems, several challenges hinder their widespread adoption in supply chain resilience and disruption management. First, the *lack of generalizable technical frameworks* limits implementation beyond conceptual prototypes [UT 376]. Most models are context-specific, requiring extensive customization and simulation validation before real-world application. Another major challenge is the *real-time processing of uncertain and incomplete information*, particularly in environments with rapid demand fluctuations, as seen in vaccination logistics [UT 334]. In critical scenarios, the ability to handle *stochastic disturbances*, *actuator faults*, and *nonlinear dynamics* is essential, yet only a few models successfully integrate *fault-tolerant* or *sliding-mode controllers* to manage such conditions [UT 288, UT 306]. There is also a technical burden in designing *autonomous agents* with meaningful internal states and perceptual feedback loops, which require sophisticated neural network structures and tuning [UT 338]. Moreover, supply chain decision-making often involves multiple stakeholders with misaligned objectives, making it difficult to design cooperative strategies without robust incentive structures. While some studies utilize *game theory* to explore pricing dynamics in dual-channel supply chains [UT 419], these interactions remain under-explored in agent-based risk management. Finally, the hybridization of *fuzzy logic*, *neural networks*, and *neutrosophic systems* introduces new dimensions of uncertainty quantification but also complicates model interpretation, scalability, and integration with traditional enterprise systems [UT 346].
+
+--
+
+One of the core challenges in this thematic cluster is the integration of decentralized intelligence and coordination mechanisms across geographically dispersed and structurally diverse supply chain entities. The variability in product-market profiles and limited information sharing among agents hinders effective network configuration and decision-making [UT 186]. During disruptions such as floods or pandemics, dynamically adapting to changes in resource availability, transportation infrastructure, and inter-firm dependencies is computationally intensive and difficult to implement in real time [UT 309, UT 321]. Additionally, the transition from centralized to decentralized logistics control structures remains underexplored in terms of operational impact and scalability across different supply chain types [UT 313]. While artificial neural networks and stochastic systems offer robustness, they introduce interpretability challenges and require high-quality data to function effectively [UT 307]. Multi-agent frameworks built on formal models such as category theory offer high-level abstractions for verification but lack concrete mechanisms for implementation in turbulent environments [UT 266]. The application of blockchain and smart contracts further complicates agent communication and interoperability, raising concerns about scalability, coordination, and the safety of supply chain operations [UT 324].
+
+

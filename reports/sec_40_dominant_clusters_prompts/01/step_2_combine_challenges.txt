@@ -1,0 +1,55 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+Despite their growing applicability, RL and MARL systems face significant challenges in deployment, scalability, and reliability. One persistent issue is the exponential increase in planning complexity as the number of agents grows, particularly in dynamic delivery environments where coordination overhead becomes a bottleneck [UT 383, UT 373]. The use of deep learning techniques such as deep Q-networks offers performance gains, but at the cost of interpretability and high computational requirements, making real-time execution a non-trivial task [UT 383, UT 424]. Another challenge is the handling of uncertainties and dynamic changes in supply chain parameters, such as inventory disruptions or fluctuating demand, which can disrupt the training and convergence of learning agents [UT 389, UT 443]. Additionally, risk attitudes and heterogeneous agent behaviors introduce inconsistency into collective decision-making, complicating the design of universal reward structures that balance individual and system-level objectives [UT 389]. Task reallocation in smart factories, especially in V2X communication contexts, must also contend with environmental disruptions like breakdowns or obstacle navigation, requiring simulation-intensive validation before implementation [UT 392]. These constraints reveal that while RL-based MAS can theoretically offer optimal decisions, their real-world performance is often bounded by factors such as convergence stability, environment modeling fidelity, and cross-agent communication efficiency.
+
+
+--
+
+Despite the advances, several persistent challenges hinder the full deployment of RL-based multi-agent systems in supply chain applications. First, the lack of suitable cooperative models within traditional RL approaches impedes their performance in collaborative logistics environments, where dynamic and uncertain demands require synchronized and real-time decisions [UT 420]. Scalability remains a significant concern; some optimization methods, such as those based on exhaustive binary variable combinations, cannot be applied to large-scale problems due to computational burdens [UT 423]. Moreover, while MARL systems provide promise for decentralized coordination, they also bring increased complexity in agent interaction, communication, and convergence stability—issues magnified in environments with variable agent goals or limited communication bandwidth [UT 438, UT 420]. Another major hurdle is data privacy in multi-agent coordination. Sharing operational data to improve global supply chain performance often risks leaking sensitive information, thereby limiting inter-organizational cooperation [UT 438]. In last-mile and food delivery applications, existing path-sharing or routing algorithms fall short due to sub-optimal delivery planning and isolated optimization routines [UT 431]. The integration of machine learning, particularly large language models or digital twin simulations, introduces another challenge: the management of software reliability and iterative system updates in evolving contexts [UT 409].
+
+--
+
+Despite their promise, multi-agent approaches in supply chains face persistent methodological and implementation challenges. A critical issue is the *heterogeneity of agent goals and behaviors*, which complicates coordination and optimization—especially in systems where agents represent independent entities with conflicting interests [UT 186, UT 148]. This is further exacerbated when integrating environmental and social metrics into agent decision-making, as seen in green supply chain scenarios where trade-offs between *profit maximization* and *carbon emissions reduction* require sophisticated negotiation protocols and *incentive mechanisms* [UT 214]. Another challenge lies in computational scalability. While MARL models like those applied in *same-day delivery problems* show competitive results, they often *underperform traditional optimization methods* when scaled to high-volume contexts unless zone-specific learning adjustments are implemented [UT 323]. Furthermore, the *lack of interoperability* among enterprise systems and simulation tools hinders the implementation of agent-based models in real-world, distributed supply networks [UT 308]. There is also a significant dependency on *data availability and quality*, which affects learning accuracy and decision robustness, especially when predictive control relies on uncertain demand forecasts [UT 276]. Finally, the complexity of modeling *multi-echelon*, *multi-attribute*, and *multi-objective problems* poses difficulties in ensuring convergence of heuristic-based methods and in establishing optimality in real-time settings [UT 293, UT 148].
+
+--
+
+The primary challenge in implementing multi-agent and learning-based systems in supply chains lies in the inherent complexity and dynamic nature of these environments. For instance, many traditional approaches fail to address critical constraints like limited temporary storage or task rejection rights by agents (e.g., drivers) [UT 265, UT 256]. Furthermore, real-time data processing and optimization remain constrained by computational limitations, despite the adoption of cloud-based infrastructures [UT 245]. Inter-agent cooperation in heterogeneous settings, especially where self-interest or competition between agents is involved, also poses significant difficulties, such as achieving fairness while optimizing for global objectives [UT 221]. In practice, integrating production and maintenance planning or managing closed-loop logistics adds further layers of complexity due to the need for synchronization across different operational levels [UT 272, UT 212]. These complexities are exacerbated by the limited use of available data for real-time decision-making and the challenge of balancing multiple, often conflicting, objectives like cost, time, and environmental sustainability [UT 228, UT 243].
+
+--
+
+Despite promising outcomes, key challenges emerge when deploying MARL and other learning systems in supply chain settings. First, scalability is a persistent obstacle, especially when solving multi-agent path planning problems that resemble multiple traveling salesmen scenarios under constrained optimization conditions [UT 363]. The long computation times associated with heuristic and simulation-based methods hinder their applicability to large-scale transportation tasks [UT 291]. Furthermore, data heterogeneity and the need for real-time communication among agents complicate the learning and convergence processes. For example, the implementation of route recorders for vehicle-to-vehicle communication is critical to address multi-vehicle time-sensitive problems, yet remains computationally expensive [UT 291]. Another pressing issue is the absence of simulated environments that fully replicate the sequential nature of order fulfillment, requiring custom platforms such as OFCOURSE to train agents across various fulfillment units [UT 390]. Challenges also arise in collaborative inventory management, where multi-vendor customer-product scenarios reveal trade-offs between reducing lost sales and maintaining competitive stock levels [UT 294]. The design of systems that manage excess capacity, energy efficiency, and green operations across regional and industrial levels introduces further complexity in terms of agent coordination and control theory [UT 406]. Overall, the integration of MARL into real-world supply chains must overcome issues of model fidelity, agent synchronization, and computational load to be practical at scale.
+
+--
+

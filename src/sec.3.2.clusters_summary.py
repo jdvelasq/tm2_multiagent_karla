@@ -7,7 +7,7 @@ df = (
     # FIELD:
     .having_terms_in_top(None)
     .having_terms_ordered_by("OCC")
-    .having_term_occurrences_between(5, None)
+    .having_term_occurrences_between(7, None)
     .having_term_citations_between(None, None)
     .having_terms_in(None)
     #
@@ -42,8 +42,9 @@ df = (
 
 df["Terms"] = df["Terms"].str.split("; ")
 df["Terms"] = df["Terms"].str[:10]
+df["Terms"] = df["Terms"].map(lambda x: [y.split(" ")[0].lower().capitalize()  for y in x])
 df["Terms"] = df["Terms"].str.join("; ")
-df["Terms"] = df["Terms"].str.lower()
+df["Terms"] = df["Terms"].str.replace("_", " ")
 
 print(df.to_string())
 # %%

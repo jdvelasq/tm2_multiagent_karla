@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+While the integration of AI, IoT, blockchain, and MAS has enabled supply chain innovation, several challenges persist. One major issue is data interoperability—IoT platforms and legacy systems often lack standardized protocols, making it difficult to achieve seamless connectivity across agents and stakeholders [UT 386]. Security and privacy concerns are amplified in decentralized environments, especially when sensitive operational data or smart contract logic is exposed on blockchain networks [UT 453]. Reinforcement learning and AI models, although effective in high-dimensional problem spaces, often act as black boxes, limiting transparency and interpretability for decision-makers [UT 383, UT 374]. Furthermore, supply chains still struggle to balance centralization and decentralization; while distributed systems promote resilience and scalability, they complicate coordination and increase communication overhead [UT 371]. The practical deployment of collaborative robotics and autonomous agents in logistics remains limited by real-world uncertainties such as sparse rewards, energy constraints, or coordination breakdowns, especially in environments like warehouses or urban freight systems [UT 374, UT 377]. Additionally, the reliance on learning systems introduces risks of overfitting to training data or lack of robustness under novel disruptions. These limitations underscore the need for hybrid, explainable, and secure frameworks that bridge technological potential with operational reliability and trust.
+
+--
+
+Despite the evident potential, this thematic cluster faces persistent challenges in integration, scalability, and stakeholder coordination. A key obstacle is the absence of systematic ICT-assisted mindsets in domains like dynamic inventory routing and natural gas systems, leading to inefficient planning frameworks that overlook geographic and temporal variability in demand [UT 400]. The implementation of digital and autonomous systems in city logistics requires high levels of data interoperability and coordination between public and private stakeholders, which is often hindered by institutional and technical fragmentation [UT 414]. While decentralized control in physical internet systems reduces opportunity losses, it also poses a risk of misaligned objectives among participants pursuing their own profitability rather than collective efficiency [UT 396]. The scalability of agent-based negotiation strategies is also limited by the complexity of modeling multiple concurrent negotiation strategies using representation learning and generative embeddings [UT 387]. Moreover, the use of reinforcement learning for multi-echelon inventory optimization introduces sensitivity to training protocols and performance evaluation procedures, as highlighted by benchmarking inconsistencies in recent studies [UT 372]. The ability to automate knowledge-based agent specializations in domain-specific applications—such as hydrogen distribution or supply-demand balancing—requires more adaptive ontological frameworks and semantic coherence, which remain underdeveloped [UT 400, UT 417]. These challenges collectively suggest that while MAS and AI can enhance supply chains, their deployment is constrained by technical complexity, domain-specific requirements, and organizational inertia.
+
+--
+
+Despite advances, significant challenges remain in implementing artificial intelligence and learning machines through multi-agent frameworks in supply chain contexts. A recurrent issue lies in the computational complexity and feasibility of real-time applications. Models for distributed optimization and multi-agent reinforcement learning face scalability limitations due to combinatorial explosion in binary decision variables and high-dimensional policy spaces [UT 423, UT 429]. Even when sophisticated optimization algorithms are introduced, such as lagrangian decomposition or consensus-based coordination, they can become impractical in large-scale environments without approximation methods [UT 423]. Additionally, most multi-agent reinforcement learning frameworks rely heavily on upfront data sharing, yet they struggle to balance privacy concerns with the need for coordination, particularly when supply chains involve multiple firms and sensitive data [UT 438, UT 443]. These trade-offs are particularly acute in decentralized inventory systems where minimizing the bullwhip effect requires shared visibility and action coordination, but the risk of unauthorized leakage remains a deterrent [UT 443]. Heuristic-based methods, though efficient, often fail to generalize to new or dynamic environments, making them less suitable for tasks requiring continual adaptation, such as drone routing in energy-constrained scenarios [UT 429]. Moreover, last-mile logistics remain a bottleneck, where real-time path-sharing algorithms struggle to reduce both cost and delivery time without increasing operational complexity [UT 431]. Collectively, these issues highlight the ongoing tension between intelligence, scalability, privacy, and system-wide coordination in learning-based supply chain automation.
+
+--
+
+Despite the rapid integration of MARL and intelligent agent systems into supply chains, significant challenges persist in achieving effective, scalable, and interpretable solutions. A primary issue is the *inherent complexity* of real-world supply chain systems, which often feature *nonlinear communication*, *stochastic disturbances*, and high-dimensional decision spaces that are not easily captured by conventional MARL algorithms [UT 327]. Additionally, the *coordination of decentralized agents* remains difficult in contexts where information sharing is limited or delayed, as observed in COVID-19 vaccine supply scenarios where *centralized models failed* to meet fluctuating demands, leading to vaccine waste and stockouts [UT 334]. The lack of *standardized agent architectures* across heterogeneous infrastructures, especially those integrating *service-oriented architectures*, presents another barrier to MAS adoption at scale [UT 342]. The computational burden of simulating large-scale environments, as well as *designing suitable reward mechanisms* that reflect enterprise-level objectives rather than local optima, continues to limit MARL applications in inventory control [UT 365]. Furthermore, while cooperation improves outcomes in simulated environments like the *Beer Game* [UT 340], real-world implementations face *strategic misalignments among stakeholders*, which can hinder consensus formation and joint strategy execution. These findings highlight the need for improved model generalization, cross-agent interoperability, and stakeholder alignment frameworks that support sustainable, explainable, and resilient MAS in supply chain ecosystems.
+
+--
+
+Despite their promise, these innovations face notable challenges. First, the integration of autonomous agents in inventory and routing decisions introduces substantial computational overhead and communication constraints, particularly in Industrial IoT environments where devices have limited resources [UT 299]. Second, dual-channel models suffer from increased complexity due to consumer behaviors such as channel-switching and free-riding, demanding new coordination mechanisms [UT 348]. In multi-agent reinforcement learning setups, safeguarding against information leakage while maintaining supply chain visibility remains a difficult trade-off [UT 370]. Furthermore, disruptions like the COVID-19 pandemic exposed the fragility of traditional critical product supply systems, prompting the need for highly resilient and autonomous systems—yet, scaling such systems in real-world logistics continues to be a challenge [UT 378]. Ethical concerns also emerge in contexts such as internal logistics for Industry 4.0 transitions, highlighting a lack of frameworks to manage human-agent interaction and decision transparency [UT 332]. Lastly, ensuring agent coordination and contract negotiation under multiple constraints, as in decentralized supply chain formation, remains computationally intensive and lacks real-time viability in dynamic, large-scale ecosystems [UT 339].
+

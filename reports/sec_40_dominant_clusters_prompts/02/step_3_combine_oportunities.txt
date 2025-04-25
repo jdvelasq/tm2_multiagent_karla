@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+To address current limitations, future research should focus on designing explainable AI systems that enhance the transparency of MAS decisions, particularly in mission-critical logistics and production environments. This includes integrating symbolic reasoning and model-checking techniques with neural-based architectures to ensure decision traceability and compliance with operational rules [UT 374, UT 386]. Blockchain research should explore lightweight consensus algorithms and privacy-preserving smart contracts, enabling scalable MAS-based collaboration without compromising speed or data protection [UT 453]. In the domain of city logistics, the integration of multi-agent microsimulation with real-time IoT data offers a powerful tool for urban planning and delivery optimization, especially in hyperconnected Physical Internet hubs [UT 377]. Collaborative robotics research should investigate task-sharing protocols for heterogeneous agents operating in constrained environments, leveraging energy-aware and curiosity-driven learning strategies to manage sparse feedback scenarios [UT 374]. Moreover, stakeholder interaction models should be extended to reflect fairness, compliance, and incentive compatibility, enabling equitable participation in blockchain-governed supply chains [UT 386, UT 453]. Finally, hybrid frameworks that combine reinforcement learning with heuristics or semantic knowledge bases can enhance robustness and convergence in dynamic, multi-stakeholder ecosystems like e-commerce and healthcare logistics [UT 393, UT 403]. These directions can strengthen the foundational capabilities of MAS and foster trustworthy, sustainable digital supply chains.
+
+--
+
+Significant opportunities exist to advance this cluster through hybridized frameworks combining AI, blockchain, and IoT within agent-based control systems. Future research could explore the role of smart contracts and blockchain to enhance trust, traceability, and transaction automation in collaborative logistics environments, complementing the efforts already seen in autonomous coordination and decentralized planning [UT 414, UT 396]. The integration of AI circular economists with multi-level reinforcement learning, as demonstrated in hydrogen logistics, provides a scalable template for applying AI in other renewable energy domains and circular supply networks [UT 417]. Digital twin technology and dynamic simulation frameworks offer rich potential for real-time monitoring and adaptive policy implementation in urban logistics and energy systems [UT 414, UT 400]. Ontology-driven agent specialization, though currently underused, presents a novel pathway for generalizing MAS applications across heterogeneous industries with diverse planning and coordination needs [UT 400]. Representation learning and generative embeddings in negotiation frameworks could be extended to multi-agent decision environments requiring strategic alignment under uncertainty [UT 387]. Furthermore, reinforcement learning-based delivery coordination models such as DeliverAI open new avenues for achieving sustainability in last-mile operations by reducing fleet size, travel distance, and idle capacity [UT 424]. These emerging directions suggest a transition from single-domain applications toward fully integrated, intelligent ecosystems leveraging decentralized AI.
+
+--
+
+Future research should deepen the integration of artificial intelligence with multi-agent systems in ways that promote scalability, adaptability, and responsible coordination across supply chains. One key opportunity lies in the expansion of transformer-based communication protocols within reinforcement learning architectures to enhance multi-agent cooperation in uncertain environments [UT 420]. There is also substantial potential in energy-efficient design of city logistics, especially in last-mile drone deliveries, where further exploration of energy consumption models and attention mechanisms could lead to improved sustainability outcomes [UT 429]. At the system level, incorporating blockchain-like mechanisms for privacy-preserving learning can enhance trust in inter-firm coordination while still achieving visibility and responsiveness in inventory optimization [UT 438]. The success of large language model agents in dynamic inventory planning suggests an emerging research path combining symbolic reasoning with statistical learning, enabling real-time self-correction and mutual adaptation among supply chain roles [UT 442]. There is also room to further develop multi-agent consensus algorithms that move beyond binary variable search and exploit new techniques like subgradient coordination or hybrid symbolic-numeric reasoning for more efficient large-scale planning [UT 423]. Expanding multi-agent systems into digital commerce and physical internet frameworks—where logistics nodes autonomously route, bundle, and deliver items—offers a vision of hyper-decentralized, intelligent logistics ecosystems [UT 431]. Overall, the convergence of AI, stakeholder-sensitive models, and robust agent architectures presents a fertile landscape for advancing digital supply chain ecosystems.
+
+--
+
+A fertile area of future research lies in enhancing *agent collaboration* across distributed logistics networks using *context-aware learning mechanisms*. Techniques like the *dual policy and information transmission mechanism* [UT 351] or *joint-policy learning in integrated Markov games* [UT 390] offer blueprints for more robust inter-agent coordination. Further innovation is needed in *urban air mobility*, where the deployment of *multi-UAS cooperative navigation* systems in logistical environments demands adaptive, safety-critical MARL algorithms that can respond to constrained airspace and dense delivery networks [UT 318]. The *standardization of simulation environments* such as OFCOURSE can accelerate benchmarking and comparative analysis of MARL frameworks across sectors [UT 390]. Moreover, the integration of MAS with *blockchain* for immutable traceability and with *IoT sensors* for real-time condition monitoring can enable predictive analytics and trusted automation in smart supply chains. Research should also explore how MAS can support *multi-stage adaptive strategies* for inventory optimization in settings with high uncertainty and fluctuating customer behavior [UT 365]. Lastly, given the observed benefits in *resource reallocation and stock forecasting* from decentralized systems during crisis scenarios [UT 334], future studies may develop *emergency response models* that balance local autonomy with global resilience in healthcare, food, and public safety logistics.
+
+--
+
+This thematic cluster offers a fertile ground for further exploration. Future research could focus on hybrid architectures that combine DRL with constraint-based methods for multi-agent path planning, especially in last-mile logistics and city-wide delivery systems [UT 356, UT 363]. Expanding the use of smart contracts in dynamic supply chain formation offers promise for trustless, adaptive logistics ecosystems where blockchain can support transparent negotiation and compliance [UT 339]. Additionally, researchers should explore embedding ethical reasoning modules in autonomous agents to address social and operational risks in human-agent collaborative settings [UT 332]. Real-time implementation of physical internet frameworks using vision sensors, smart lockers, and autonomous delivery devices can improve critical supply distribution [UT 378]. From a technical perspective, further advances are needed in reducing latency and communication load among IoT-constrained devices, potentially through federated learning or decentralized coordination techniques [UT 299]. There’s also a strong case for building digital twins that integrate learning systems across both strategic and operational levels, aiding simulation-based policy formulation and real-time adjustment [UT 332].
+

@@ -1,0 +1,52 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+CONTEXT:
+I am writing a literature review paper on MULTI-AGENTS IN SUPPLY CHAIN.
+
+
+GOAL:
+Write a new and only one new paragraph by combining the provided paragraphs. 
+
+
+INSTRUCTIONS:
+Follow the instructions below to combine the provided paragraphs:
+1. Segment each provided text into phrases.
+2. Identify similar phrases.
+3. Combine the similar phrases. 
+4. Write the new paragraph.
+
+
+LENGTH:
+400 words.
+
+
+REQUIREMENTS:
+- Be sure of using the key terms and keywords present in the texts.
+- Be sure of use all references provided in the text.
+- Do not list tools or techniques used in the cluster.
+- Be sure to respect the word limit.
+- Do not remove reference numbers from the text.
+
+
+PARAGRAPHS TO COMBINE:
+
+The thematic cluster defined by decision making, decision support systems, sustainability, cyber-physical systems, and real-time information management reflects a paradigm shift toward intelligent, resilient, and data-driven supply chains. At its core, this trend is driven by the integration of multi-agent systems (MAS) and distributed artificial intelligence (DAI), which enable real-time decision support across complex, interconnected supply chain networks [UT 386]. MAS are increasingly deployed in cyber-physical systems to ensure seamless integration and connectivity, supporting decentralized decision-making in dynamic environments like agri-food or manufacturing [UT 386, UT 412]. Sustainability and sustainable development, once secondary concerns, now shape the design of intelligent supplier selection systems that prioritize viability under VUCA (Volatile, Uncertain, Complex, and Ambiguous) conditions [UT 366]. In particular, the integration of big data analytics with MAS supports high-quality, data-driven evaluations for viable supplier selection [UT 366]. Furthermore, cyber-physical architectures are crucial enablers of information sharing and real-time control, particularly when enhanced with tools like blockchain [UT 426]. These developments also reflect a growing reliance on case-based reasoning, microsimulation, and hybrid architectures to address long-standing issues like the bullwhip effect, which arises from uncoordinated and delayed information flows in supply chains. Consequently, the cluster positions MAS not merely as control mechanisms, but as active collaborators enhancing decision processes, reducing operational costs, and driving sustainability objectives.
+
+--
+
+The reviewed literature signals a clear transition from traditional centralized supply chain models toward multi-agent systems (MAS) that emphasize autonomy, sustainability, and real-time responsiveness. MAS are increasingly employed as the backbone of cyber-physical systems to automate low-level decision making and enhance integration and visibility across global supply networks [UT 427]. This is especially evident in autonomous supply chains and modular construction logistics, where real-time optimization supports operational efficiency and environmental sustainability [UT 407, UT 433]. Decision support systems now incorporate elements like evolutionary game theory, system dynamics, and agent-based simulations to model interaction patterns between stakeholders, accounting for policy incentives and market fluctuations [UT 379, UT 421]. Real-time decision making is enhanced by multi-layered information systems capable of managing stochastic demand and disruptions through consensus algorithms or extensive-form games [UT 384, UT 395]. Sustainability themes are no longer peripheral but central to supply chain strategy, as evidenced by hydrogen distribution systems that balance economic and environmental trade-offs through hierarchical agent architectures [UT 417]. Together, these developments redefine supply chains as decentralized, intelligent ecosystems driven by sustainability, coordination, and adaptive agent-based control—a necessary evolution in the face of rising uncertainty and complexity.
+
+--
+
+This thematic cluster reflects a convergence of artificial intelligence, distributed systems, and cyber-physical integration in the supply chain, with decision support systems (DSS) emerging as pivotal tools for managing complexity and uncertainty. Traditional decision-making frameworks are increasingly being replaced by intelligent systems that incorporate multi-agent architectures, enabling decentralized, real-time responses and adaptability [UT 382, UT 427]. Multi-agent systems (MAS) underpin applications such as supplier selection, logistics planning, and real-time monitoring of production environments, offering capabilities such as modular simulation, cognitive negotiation, and dynamic inventory coordination [UT 397, UT 401, UT 388]. Notably, the integration of reinforcement learning agents and proactive decision-making structures signals a shift toward more autonomous, context-aware supply chains [UT 402, UT 424]. Cyber-physical systems now frequently embed MAS to reduce environmental impacts and optimize energy usage in manufacturing and distribution, contributing directly to sustainability and sustainable development goals [UT 398, UT 433]. Moreover, agent-based systems increasingly support holistic, life-cycle-aware production and delivery decisions, offering granular control over information flow and performance management [UT 430, UT 399]. In sum, MAS serve as the central nervous system of digitally transformed supply chains, embedding intelligence into every node to facilitate more sustainable, resilient, and responsive operations.
+
+--
+
+The reviewed literature highlights a transformation of supply chain systems into intelligent, decentralized ecosystems where multi-agent systems (MAS) play a pivotal role. MAS are increasingly embedded in cyber-physical and real-time information systems to support complex, adaptive, and collaborative decision making [UT 415, UT 418]. Decision support systems (DSS) enhanced by artificial intelligence and agent-based structures enable real-time responsiveness, performance evaluation, and flexibility in production and logistics environments [UT 382, UT 430]. Supplier selection is now automated through protocols for multi-agent negotiation and interaction, often leveraging reinforcement learning and actor-critic models [UT 397, UT 428]. These systems are not isolated but part of broader, hyperconnected infrastructures such as Physical Internet hubs, which integrate vehicle scheduling, ETA predictions, and dock management into real-time operational control [UT 413]. Thematic clusters like decentralized trust models for IoT environments and nanostore simulations in underserved regions reflect an emerging sensitivity to sustainability, inclusion, and digital ethics [UT 435, UT 437]. MAS-enabled systems thus redefine how decisions are made, emphasizing autonomy, resilience, and responsiveness across a wide array of sectors, from urban food delivery to electricity markets and collaborative manufacturing [UT 431, UT 436, UT 425].
+
+--
+
+Thematic developments in this cluster reveal a multi-dimensional convergence of intelligent agents, cyber-physical systems, and sustainability-driven supply chain design. Multi-agent systems (MAS) have emerged as the architectural core enabling dynamic, distributed, and adaptive decision making, particularly in domains such as inventory optimization, vehicle routing, and supplier coordination [UT 438, UT 440, UT 442]. Real-time responsiveness and self-organization are empowered by deep reinforcement learning models and decentralized architectures that align with the goals of Industry 4.0 and Industry 5.0 paradigms [UT 443, UT 343]. These systems often incorporate large language models (LLMs) and actor-critic algorithms to enhance decision quality and flexibility, especially in complex procurement and logistics environments [UT 428, UT 442]. Decision support systems are now deeply integrated into hyperconnected infrastructures such as the Physical Internet and digital twin ecosystems, addressing long-standing challenges like the bullwhip effect and emission reduction [UT 441, UT 343]. MAS architectures are increasingly valued not just for optimization, but also for enabling privacy-preserving, secure, and explainable decision flows—particularly when sensitive supplier or inventory information is involved [UT 438, UT 453]. Overall, the cluster defines an era of data-driven, autonomous supply chains deeply rooted in adaptability, transparency, and sustainable development objectives.
+
