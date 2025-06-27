@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+<mxfile host="Electron" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.9 Chrome/134.0.6998.205 Electron/35.4.0 Safari/537.36" version="27.0.9">
   <diagram name="Página-1" id="ot0PXyGs3hzYBor1LjvP">
-    <mxGraphModel dx="813" dy="698" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="841" dy="826" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="W_nr4ksiAtif4gGKhU2a-6" value="Records Screened&lt;br&gt;(n=437)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="72" y="254.4" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="W_nr4ksiAtif4gGKhU2a-7" value="Records Excluded (n=759)&lt;br&gt;(Erratum=1, Retracted=4,&amp;nbsp; 2014 &amp;lt; PubYear &amp;lt; 2025)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="W_nr4ksiAtif4gGKhU2a-7" value="Records Excluded (n=759)&lt;br&gt;(Erratum=1, Retracted=4,&amp;nbsp; PubYear &amp;lt;2015,&lt;div&gt;2024&amp;lt; PubYear )&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="443" y="255" width="320" height="60" as="geometry" />
         </mxCell>
         <mxCell id="W_nr4ksiAtif4gGKhU2a-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;endArrow=blockThin;endFill=1;" parent="1" source="W_nr4ksiAtif4gGKhU2a-8" target="W_nr4ksiAtif4gGKhU2a-10" edge="1">

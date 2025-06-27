@@ -1,0 +1,84 @@
+ROLE:
+You are an automated scientific writer assistant. 
+
+
+GOAL:
+Apply SEO techniques to improve the  title of a scientific manuscript. The objective is to increase the visibility of the manuscript in search engines and academic databases.
+
+
+LENGTH OF TITLE:
+12 words
+
+CURRENT TITLE:
+A Text-Mining-Based Thematic Review of Multi-Agent Systems in Supply Chain Optimisation and Urban Logistics Decision Support
+
+
+CURENT ABSTRACT: 
+This study presents a thematic review to explore the evolution of multi-agent systems (MAS) in supply chain optimisation, explicitly incorporating urban logistics as a strategic domain. Through text-mining techniques, five dominant thematic clusters were identified: (i) intelligent decision support, (ii) adaptive learning agents, (iii) decentralised cognitive infrastructures, (iv) resilient distributed intelligence, and (v) last-mile optimisation. The findings highlight a transition from conceptual MAS models to hybrid decision-support architectures integrated with heuristics, reinforcement learning, deep learning, and cyber-physical systems—supported by technologies such as IoT, blockchain, and digital twins. Despite these advances, persistent challenges in scalability, interoperability, and real-world implementation. The review offers insights and future research directions to support the development of interpretable, sustainable, and resilient MAS solutions. It provides researchers and practitioners with a structured framework to align MAS deployment with operational goals and long-term sustainability in increasingly complex and dynamic supply chains.
+
+
+MOST FREQUENT KEYWORDS SORT BY NUMBER OF RESULTS:
+Multi Agent Systems
+Supply Chains
+Supply Chain Management
+Multi-agent System
+Multi-agent Systems
+Decision Making
+Multi Agent
+Supply Chain
+Reinforcement Learning
+Intelligent Agents
+Autonomous Agents
+Multi-agent
+Multi-agent Simulation
+Optimization
+Simulation
+Multi-agent Reinforcement Learning
+Manufacture
+Scheduling
+Decision Support Systems
+Artificial Intelligence
+Sales
+Learning Systems
+Inventory Control
+Reinforcement Learnings
+Multiagent Systems (mass)
+Software Agents
+Multi Agent Simulation
+Multi-agent Model
+Information Management
+Sustainable Development
+Supplier Selection
+Competition
+Commerce
+Vehicle Routing
+Supply Chain Network
+Deep Learning
+Complex Networks
+Profitability
+
+
+TARGET JOURNAL:
+Supply Chain Forum: an International Journal (SCFIJ) is a peer reviewed periodical providing a broad international coverage of subjects relating to the management of the supply chain. It focuses on the integration of supply, production, distribution and sales. It is concerned with the management of the global supply chain from primary supplier to final customer. It provides in-depth research articles and company case studies that enrich both the knowledge of the discipline and the practices of supply chain management.
+
+SCFIJ is designed to appeal to managers and researchers concerned with supply chain management, inter-firm relationship and organization and new technologies. Its aims are:
+
+to present the latest thinking, research and emerging concepts of supply chain management
+to explore the overall philosophy of supply chain management
+to further first class supply chain practices
+It includes original material concerned with all facets of supply chain management in the form of:
+
+articles with a fundamental basis and research papers presenting results and practical applications
+papers providing experiences and practical features of supply chain management
+commented case studies illustrating international application problems
+SCFIJ welcomes research papers based on new and innovative supply chain management practices. Any appropriate research methods may be used and each paper should justify the method applied. Case studies are also welcome where they illustrate international application problems and generate discussion about supply chain policies, practices and methods. 2-3 managers or researchers, experts in the field, are invited to comment the case studies. Authors should relate their work to the existing knowledge in the field, and have impact on the SC operations in companies, setting the agenda for future research.
+
+Contents of SCFIJ are targeted to academics (professors, researchers), students and practitioners (supply chain managers, consultants). It is not the appropriate journal for theoretical papers without any managerial implications.
+
+All submitted manuscripts are subject to initial appraisal by the Editor, and, if found suitable for further consideration, to peer review by at least two independent, anonymous expert referees. Reviewers are drawn from the Editorial Board and a list of occasional reviewers who have been nominated for their expertise. Reviewers’ comments are based on relevance to the field, particularly applicability in industry, besides originality and scientific rigor. All peer review is double anonymized and submission is online via ScholarOne.
+
+Subjects covered by SCFIJ include:
+Supply chain management, Supply chain strategies, collaboration, logistics pooling, purchasing, outsourcing, risk analysis, innovations, logistics services, service provider, global supply chain, sustainable supply chain, reverse supply chain, healthcare supply chain, supply chain performance, supply chain finance, supply chain control, performance measurement, knowledge management, sourcing strategies, decision-making, e‐commerce, traceability, process modelling, inventory planning, city supply chain, supply chain risk management, humanitarian supply chain, information systems, new technologies, service provider, networks, physical internet, big data.
+
+
+
